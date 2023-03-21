@@ -350,7 +350,13 @@
         "id": 6,
         "name": "Lofi Việt",
         "image": "./assets/img/AlbumHot/lofivn.png" 
+      },
+      {
+        "id": 7,
+        "name": "Lofi Việt",
+        "image": "./assets/img/AlbumHot/lofivn.png" 
       }
+
 
     ]
 
