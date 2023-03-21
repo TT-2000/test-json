@@ -478,7 +478,7 @@
           "image": "./assets/img/newSongs/VN/anhchuathuongemdenvaydau.png",
           "singer": "Lady Mây",
           "song": "./assets/song/anhchuathuongemdenvaydau.mp3",
-          "album": "topHit2023"
+          "region": "VN"
 
           
       },
@@ -488,7 +488,7 @@
           "image": "./assets/img/newSongs/VN/bongdangai.png",
           "singer": "Pháo",
           "song": "./assets/song/kiabongdangai.mp3",
-          "album": "topHit2023"
+          "region": "VN"
 
           
       },
@@ -498,7 +498,7 @@
           "image": "./assets/img/newSongs/VN/boxibo.png",
           "singer": "Hoàng Thùy Linh",
           "song": "./assets/song/boxibo.mp3",
-          "album": "topHit2023"
+          "region": "VN"
 
           
       },
@@ -508,7 +508,7 @@
           "image": "./assets/img/newSongs/VN/ghevaotai.png",
           "singer": "UMIE, Freaky, Hổ",
           "song": "./assets/song/ghevaotai.mp3",
-          "album": "topHit2023"
+          "region": "VN"
 
           
       },
@@ -518,7 +518,7 @@
           "image": "./assets/img/newSongs/VN/loitambietchuanoi.jpeg",
           "singer": "GREY D, ORANGE, Kai Đinh",
           "song": "./assets/song/loitambietchuanoi.mp3",
-          "album": "topHit2023"
+          "region": "AM"
 
           
       },
@@ -528,7 +528,7 @@
           "image": "./assets/img/newSongs/AM/Herewidthme.png",
           "singer": "d4vd",
           "song": "./assets/song/HereWithMe.mp3",
-          "album": "topSongUs-Uk"
+          "region": "AM"
 
           
       },
@@ -538,7 +538,7 @@
           "image": "./assets/img/newSongs/AM/flowers.jpeg",
           "singer": "Miley Cyrus",
           "song": "./assets/song/Flowers.mp3",
-          "album": "topHit2023"
+          "region": "AM"
 
           
       },
@@ -548,7 +548,7 @@
           "image": "./assets/img/newSongs/AM/howlingatthemoon.png",
           "singer": "Mike Posner, Salem Ilese",
           "song": "./assets/song/HowlingAtTheMoon.mp3",
-          "album": "topHit2023"
+          "region": "AM"
 
           
       },
@@ -558,7 +558,7 @@
           "image": "./assets/img/newSongs/AM/madeyoulook.png",
           "singer": "Meghan Trainor feat. Kim Petras",
           "song": "./assets/song/Made-You-Look-Meghan-Trainor 01.55.44.mp3",
-          "album": "topHit2023"
+          "region": "AM"
 
           
       },
@@ -568,7 +568,7 @@
           "image": "./assets/img/newSongs/AM/openarms.png",
           "singer": "SZA ft. Travis Scott",
           "song": "./assets/song/Open-Arms.mp3",
-          "album": "topSongUs-Uk"
+          "region": "AM"
 
           
       },
@@ -578,7 +578,7 @@
           "image": "./assets/img/newSongs/HQ/catch.jpeg",
           "singer": "Epik High feat. Hwa Sa",
           "song": "./assets/song/Catch.mp3",
-          "album": "topHit2023"
+          "region": "HQ"
 
           
       },
@@ -588,7 +588,7 @@
           "image": "./assets/img/newSongs/HQ/omg.png",
           "singer": "Miley Cyrus",
           "song": "./assets/song/OMG-NewJeans.mp3",
-          "album": "topHit2023"
+          "region": "HQ"
 
           
       },
@@ -598,7 +598,7 @@
           "image": "./assets/img/newSongs/HQ/yesterday.png",
           "singer": "Jay Park",
           "song": "./assets/song/Yesterday-Jay-Park.mp3",
-          "album": "topHit2023"
+          "region": "HQ"
 
           
       },
@@ -608,7 +608,7 @@
           "image": "./assets/img/newSongs/HQ/rising.png",
           "singer": "TripleS",
           "song": "./assets/song/Rising-Triples.mp3",
-          "album": "topHit2023"
+          "region": "HQ"
 
           
       },
@@ -618,7 +618,7 @@
           "image": "./assets/img/newSongs/HQ/shutdown.png",
           "singer": "Blackpink",
           "song": "./assets/song/Shut-Down-BLACKPINK.mp3",
-          "album": "topHit2023"
+          "region": "HQ"
 
       }
       ]
