@@ -469,7 +469,161 @@
           "album": "topHit2023"
 
       }
+      ],
+
+      "songsNew" : [
+         {
+          "id": 1,
+          "songName": "Anh chưa thuơng em đến vậy đâu",
+          "image": "./assets/img/newSongs/VN/anhchuathuongemdenvaydau.png",
+          "singer": "Lady Mây",
+          "song": "./assets/song/anhchuathuongemdenvaydau.mp3",
+          "album": "topHit2023"
+
+          
+      },
+      {
+          "id": 2,
+          "songName": "Bóng dáng ai",
+          "image": "./assets/img/newSongs/VN/bongdangai.png",
+          "singer": "Pháo",
+          "song": "./assets/song/kiabongdangai.mp3",
+          "album": "topHit2023"
+
+          
+      },
+      {
+          "id": 3,
+          "songName": "BO XÌ BO",
+          "image": "./assets/img/newSongs/VN/boxibo.png",
+          "singer": "Hoàng Thùy Linh",
+          "song": "./assets/song/boxibo.mp3",
+          "album": "topHit2023"
+
+          
+      },
+      {
+          "id": 4,
+          "songName": "Ghé vào tai",
+          "image": "./assets/img/newSongs/VN/ghevaotai.png",
+          "singer": "UMIE, Freaky, Hổ",
+          "song": "./assets/song/ghevaotai.mp3",
+          "album": "topHit2023"
+
+          
+      },
+      {
+          "id": 5,
+          "songName": "Lời tạm biệt chưa nói",
+          "image": "./assets/img/newSongs/VN/loitambietchuanoi.jpeg",
+          "singer": "GREY D, ORANGE, Kai Đinh",
+          "song": "./assets/song/loitambietchuanoi.mp3",
+          "album": "topHit2023"
+
+          
+      },
+      {
+          "id": 6,
+          "songName": "Here width me",
+          "image": "./assets/img/newSongs/AM/Herewidthme.png",
+          "singer": "d4vd",
+          "song": "./assets/song/HereWithMe.mp3",
+          "album": "topSongUs-Uk"
+
+          
+      },
+      {
+          "id": 7,
+          "songName": "Flowers",
+          "image": "./assets/img/newSongs/AM/flowers.jpeg",
+          "singer": "Miley Cyrus",
+          "song": "./assets/song/Flowers.mp3",
+          "album": "topHit2023"
+
+          
+      },
+      {
+          "id": 8,
+          "songName": "Howling at the moon",
+          "image": "./assets/img/newSongs/AM/howlingatthemoon.png",
+          "singer": "Mike Posner, Salem Ilese",
+          "song": "./assets/song/HowlingAtTheMoon.mp3",
+          "album": "topHit2023"
+
+          
+      },
+      {
+          "id": 9,
+          "songName": "Made you look",
+          "image": "./assets/img/newSongs/AM/madeyoulook.png",
+          "singer": "Meghan Trainor feat. Kim Petras",
+          "song": "./assets/song/Made-You-Look-Meghan-Trainor 01.55.44.mp3",
+          "album": "topHit2023"
+
+          
+      },
+      {
+          "id": 10,
+          "songName": "Open arms",
+          "image": "./assets/img/newSongs/AM/openarms.png",
+          "singer": "SZA ft. Travis Scott",
+          "song": "./assets/song/Open-Arms.mp3",
+          "album": "topSongUs-Uk"
+
+          
+      },
+      {
+          "id": 11,
+          "songName": "Catch",
+          "image": "./assets/img/newSongs/HQ/catch.jpeg",
+          "singer": "Epik High feat. Hwa Sa",
+          "song": "./assets/song/Catch.mp3",
+          "album": "topHit2023"
+
+          
+      },
+      {
+          "id": 12,
+          "songName": "OMG",
+          "image": "./assets/img/newSongs/HQ/omg.png",
+          "singer": "Miley Cyrus",
+          "song": "./assets/song/OMG-NewJeans.mp3",
+          "album": "topHit2023"
+
+          
+      },
+      {
+          "id": 13,
+          "songName": "Yesterday",
+          "image": "./assets/img/newSongs/HQ/yesterday.png",
+          "singer": "Jay Park",
+          "song": "./assets/song/Yesterday-Jay-Park.mp3",
+          "album": "topHit2023"
+
+          
+      },
+      {
+          "id": 14,
+          "songName": "Rising",
+          "image": "./assets/img/newSongs/HQ/rising.png",
+          "singer": "TripleS",
+          "song": "./assets/song/Rising-Triples.mp3",
+          "album": "topHit2023"
+
+          
+      },
+      {
+          "id": 15,
+          "songName": "Shut dowm",
+          "image": "./assets/img/newSongs/HQ/shutdown.png",
+          "singer": "Blackpink",
+          "song": "./assets/song/Shut-Down-BLACKPINK.mp3",
+          "album": "topHit2023"
+
+      }
       ]
+
+      
 
   },
 
