@@ -283,7 +283,194 @@
           "image" : "./assets/img/",
           "song" : "./assets/song/"
         }
+      ],
+
+      "songTrending" : [
+        {
+          "id": 1,
+          "songName": "Giấc mơ khác",
+          "image": "./assets/img/trending/giacmokhac.png",
+          "singer": "Chillies",
+          "song": "./assets/song/giacmokhac.mp3",
+          "album": "topHit2023"
+      },
+      {
+          "id": 2,
+          "songName": "Waiting for you",
+          "image": "./assets/img/trending/waitingforyou.png",
+          "singer": "Mono",
+          "song": "./assets/song/WaitingForYou.mp3",
+          "album": "topHit2023"
+      },
+      {
+          "id": 3,
+          "songName": "Luôn yêu đời",
+          "image": "./assets/img/trending/luonyeudoi.png",
+          "singer": "Đen, ft. Cheng",
+          "song": "./assets/song/luonyeudoi.mp3",
+          "album": "topHit2023"
+      },
+      {
+          "id": 4,
+          "songName": "Anh tự do nhưng cô đơn",
+          "image": "./assets/img/trending/anhtudonhungcodon.png",
+          "singer": "Trung Quân Idol",
+          "song": "./assets/song/anhtudonhungcodon.mp3",
+          "album": "topHit2023"
+
+      },
+      {
+          "id": 5,
+          "songName": "Stay",
+          "image": "./assets/img/trending/stay.png",
+          "singer": "The Kid LAROI, Justin Bieber",
+          "song": "./assets/song/Stay.mp3",
+          "album": "topSongUs-Uk"
+
+          
+      },
+      {
+          "id": 6,
+          "songName": "Hero",
+          "image": "./assets/img/trending/hero.png",
+          "singer": "Martin Garrix, JVKE",
+          "song": "./assets/song/Hero.mp3",
+          "album": "topHit2023"
+
+          
+      },
+      {
+          "id": 7,
+          "songName": "Unholy",
+          "image": "./assets/img/trending/unholy.png",
+          "singer": "Sam Smith, Kim Petras",
+          "song": "./assets/song/Unholy.mp3",
+          "album": "topSongUs-Uk"
+
+          
+      },
+      {
+          "id": 8,
+          "songName": "I like you",
+          "image": "./assets/img/trending/ilikeyou.png",
+          "singer": "Post Malone, Doja Cat",
+          "song": "./assets/song/ILikeYou.mp3",
+          "album": "topHit2023"
+
+          
+      },
+      {
+          "id": 9,
+          "songName": "Anh chưa thuơng em đến vậy đâu",
+          "image": "./assets/img/newSongs/VN/anhchuathuongemdenvaydau.png",
+          "singer": "Lady Mây",
+          "song": "./assets/song/anhchuathuongemdenvaydau.mp3",
+          "album": "topHit2023"
+
+          
+      },
+      {
+          "id": 10,
+          "songName": "Bóng dáng ai",
+          "image": "./assets/img/newSongs/VN/bongdangai.png",
+          "singer": "Pháo",
+          "song": "./assets/song/kiabongdangai.mp3",
+          "album": "topHit2023"
+
+          
+      },
+      {
+          "id": 11,
+          "songName": "Ghé vào tai",
+          "image": "./assets/img/newSongs/VN/ghevaotai.png",
+          "singer": "UMIE, Freaky, Hổ",
+          "song": "./assets/song/ghevaotai.mp3",
+          "album": "topHit2023"
+
+          
+      },
+     
+      {
+          "id": 12,
+          "songName": "Here width me",
+          "image": "./assets/img/newSongs/AM/Herewidthme.png",
+          "singer": "d4vd",
+          "song": "./assets/song/HereWithMe.mp3",
+          "album": "topSongUs-Uk"
+
+          
+      },
+      {
+          "id": 13,
+          "songName": "Flowers",
+          "image": "./assets/img/newSongs/AM/flowers.jpeg",
+          "singer": "Miley Cyrus",
+          "song": "./assets/song/Flowers.mp3",
+          "album": "topHit2023"
+
+          
+      },
+      {
+          "id": 14,
+          "songName": "Howling at the moon",
+          "image": "./assets/img/newSongs/AM/howlingatthemoon.png",
+          "singer": "Mike Posner, Salem Ilese",
+          "song": "./assets/song/HowlingAtTheMoon.mp3",
+          "album": "topHit2023"
+
+          
+      },
+      {
+          "id": 15,
+          "songName": "Made you look",
+          "image": "./assets/img/newSongs/AM/madeyoulook.png",
+          "singer": "Meghan Trainor feat. Kim Petras",
+          "song": "./assets/song/Made-You-Look-Meghan-Trainor 01.55.44.mp3",
+          "album": "topHit2023"
+
+          
+      },
+      {
+          "id": 16,
+          "songName": "Open arms",
+          "image": "./assets/img/newSongs/AM/openarms.png",
+          "singer": "SZA ft. Travis Scott",
+          "song": "./assets/song/Open-Arms.mp3",
+          "album": "topSongUs-Uk"
+
+          
+      },
+      {
+          "id": 17,
+          "songName": "OMG",
+          "image": "./assets/img/newSongs/HQ/omg.png",
+          "singer": "Miley Cyrus",
+          "song": "./assets/song/OMG-NewJeans.mp3",
+          "album": "topHit2023"
+
+          
+      },
+      {
+          "id": 18,
+          "songName": "Yesterday",
+          "image": "./assets/img/newSongs/HQ/yesterday.png",
+          "singer": "Jay Park",
+          "song": "./assets/song/Yesterday-Jay-Park.mp3",
+          "album": "topHit2023"
+
+          
+      },
+      {
+          "id": 19,
+          "songName": "Bên trên tầng lầu",
+          "image": "./assets/img/songs/bentrentanglau.png",
+          "singer": "Tăng Duy Tân",
+          "song": "./assets/song/bentrentanglau.mp3",
+          "album": "topHit2023"
+
+      }
       ]
+
   },
 
   "TopAlbumHot": {
@@ -350,14 +537,7 @@
         "id": 6,
         "name": "Lofi Việt",
         "image": "./assets/img/AlbumHot/lofivn.png" 
-      },
-      {
-        "id": 7,
-        "name": "Lofi Việt",
-        "image": "./assets/img/AlbumHot/lofivn.png" 
       }
-
-
     ]
 
   }
