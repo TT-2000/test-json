@@ -707,7 +707,7 @@
         "id" : 1,
         "name" : "DALAB",
         "type" : "Nhóm nhạc",
-        "image" : "./assets/img/singer/dalab.png"
+        "image" : "./assets/img/singers/dalab.png"
       },
       {
         "id" : 2,
@@ -719,7 +719,7 @@
         "id" : 3,
         "name" : "Sia",
         "type" : "Ca sĩ",
-        "image" : "./assets/img/singer/sia.png"
+        "image" : "./assets/img/singers/sia.png"
       },
       {
         "id" : 4,
