@@ -699,10 +699,64 @@
       }
     ]
 
-  }
+  },
+
+  "singer" : 
+     [
+      {
+        "id" : 1,
+        "name" : "DALAB",
+        "type" : "Nhóm nhạc",
+        "image" : "./assets/img/singer/dalab.png"
+      },
+      {
+        "id" : 2,
+        "name" : "Đen Vâu",
+        "type" : "Ca sĩ",
+        "image" : "./assets/img/singers/đen.png"
+      },
+      {
+        "id" : 3,
+        "name" : "Sia",
+        "type" : "Ca sĩ",
+        "image" : "./assets/img/singer/sia.png"
+      },
+      {
+        "id" : 4,
+        "name" : "Bruno Mars",
+        "type" : "Ca sĩ",
+        "image" : "./assets/img/singers/bm.png"
+      },
+      {
+        "id" : 5,
+        "name" : "Imagine Dragons",
+        "type" : "Nhóm nhạc",
+        "image" : "./assets/img/singers/id.png"
+      },
+      {
+        "id" : 6,
+        "name" : "Sơn Tùng M-TP",
+        "type" : "Ca sĩ",
+        "image" : "./assets/img/singers/st.jpg"
+      },
+      {
+        "id" : 7,
+        "name" : "Adele",
+        "type" : "Ca sĩ",
+        "image" : "./assets/img/singers/adele.png"
+      },
+      {
+        "id" : 8,
+        "name" : "BlackPink",
+        "type" : "Nhóm nhạc",
+        "image" : "./assets/img/singer/bb.png"
+      }
+
+    ]
+  
 
   
-     
+  
     
   
   
