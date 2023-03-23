@@ -642,7 +642,7 @@
       {
         "id": 3,
         "name": "Top bài hát hay của Justin Bieber",
-        "image": "./assets/img/AlbumHot/abhES.png"
+        "image": "./assets/img/AlbumHot/abhJB.png"
       },
       {
         "id": 4,
@@ -658,6 +658,11 @@
         "id": 6,
         "name": "US - UK Gây Nghiện",
         "image": "./assets/img/AlbumHot/us-uk.png"
+      },
+      {
+        "id": 7,
+        "name": "Trending 2023",
+        "image": "./assets/img/AlbumHot/trending2023.png"
       }
 
     ],
