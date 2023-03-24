@@ -1,631 +1,982 @@
 {
-  "songs": {  
-      "topSong2023" : [
-        {
-          "id": 1,
-          "songName": "Giấc mơ khác",
-          "image": "./assets/img/trending/giacmokhac.png",
-          "singer": "Chillies",
-          "song": "./assets/song/giacmokhac.mp3",
-          "album": "topHit2023"
-      },
-      {
-          "id": 2,
-          "songName": "Waiting for you",
-          "image": "./assets/img/trending/waitingforyou.png",
-          "singer": "Mono",
-          "song": "./assets/song/WaitingForYou.mp3",
-          "album": "topHit2023"
-      },
-      {
-          "id": 3,
-          "songName": "Luôn yêu đời",
-          "image": "./assets/img/trending/luonyeudoi.png",
-          "singer": "Đen, ft. Cheng",
-          "song": "./assets/song/luonyeudoi.mp3",
-          "album": "topHit2023"
-      },
-      {
-          "id": 4,
-          "songName": "Anh tự do nhưng cô đơn",
-          "image": "./assets/img/trending/anhtudonhungcodon.png",
-          "singer": "Trung Quân Idol",
-          "song": "./assets/song/anhtudonhungcodon.mp3",
-          "album": "topHit2023"
-
-      },
-      {
-          "id": 5,
-          "songName": "Stay",
-          "image": "./assets/img/trending/stay.png",
-          "singer": "The Kid LAROI, Justin Bieber",
-          "song": "./assets/song/Stay.mp3",
-          "album": "topSongUs-Uk"
-
-          
-      },
-      {
-          "id": 6,
-          "songName": "Hero",
-          "image": "./assets/img/trending/hero.png",
-          "singer": "Martin Garrix, JVKE",
-          "song": "./assets/song/Hero.mp3",
-          "album": "topHit2023"
-
-          
-      },
-      {
-          "id": 7,
-          "songName": "Unholy",
-          "image": "./assets/img/trending/unholy.png",
-          "singer": "Sam Smith, Kim Petras",
-          "song": "./assets/song/Unholy.mp3",
-          "album": "topSongUs-Uk"
-
-          
-      },
-      {
-          "id": 8,
-          "songName": "I like you",
-          "image": "./assets/img/trending/ilikeyou.png",
-          "singer": "Post Malone, Doja Cat",
-          "song": "./assets/song/ILikeYou.mp3",
-          "album": "topHit2023"
-
-          
-      },
-      {
-          "id": 9,
-          "songName": "Anh chưa thuơng em đến vậy đâu",
-          "image": "./assets/img/newSongs/VN/anhchuathuongemdenvaydau.png",
-          "singer": "Lady Mây",
-          "song": "./assets/song/anhchuathuongemdenvaydau.mp3",
-          "album": "topHit2023"
-
-          
-      },
-      {
-          "id": 10,
-          "songName": "Bóng dáng ai",
-          "image": "./assets/img/newSongs/VN/bongdangai.png",
-          "singer": "Pháo",
-          "song": "./assets/song/kiabongdangai.mp3",
-          "album": "topHit2023"
-
-          
-      },
-      {
-          "id": 11,
-          "songName": "BO XÌ BO",
-          "image": "./assets/img/newSongs/VN/boxibo.png",
-          "singer": "Hoàng Thùy Linh",
-          "song": "./assets/song/boxibo.mp3",
-          "album": "topHit2023"
-
-          
-      },
-      {
-          "id": 12,
-          "songName": "Ghé vào tai",
-          "image": "./assets/img/newSongs/VN/ghevaotai.png",
-          "singer": "UMIE, Freaky, Hổ",
-          "song": "./assets/song/ghevaotai.mp3",
-          "album": "topHit2023"
-
-          
-      },
-      {
-          "id": 13,
-          "songName": "Lời tạm biệt chưa nói",
-          "image": "./assets/img/newSongs/VN/loitambietchuanoi.jpeg",
-          "singer": "GREY D, ORANGE, Kai Đinh",
-          "song": "./assets/song/loitambietchuanoi.mp3",
-          "album": "topHit2023"
-
-          
-      },
-      {
-          "id": 14,
-          "songName": "Here width me",
-          "image": "./assets/img/newSongs/AM/Herewidthme.png",
-          "singer": "d4vd",
-          "song": "./assets/song/HereWithMe.mp3",
-          "album": "topSongUs-Uk"
-
-          
-      },
-      {
-          "id": 15,
-          "songName": "Flowers",
-          "image": "./assets/img/newSongs/AM/flowers.jpeg",
-          "singer": "Miley Cyrus",
-          "song": "./assets/song/Flowers.mp3",
-          "album": "topHit2023"
-
-          
-      },
-      {
-          "id": 16,
-          "songName": "Howling at the moon",
-          "image": "./assets/img/newSongs/AM/howlingatthemoon.png",
-          "singer": "Mike Posner, Salem Ilese",
-          "song": "./assets/song/HowlingAtTheMoon.mp3",
-          "album": "topHit2023"
-
-          
-      },
-      {
-          "id": 17,
-          "songName": "Made you look",
-          "image": "./assets/img/newSongs/AM/madeyoulook.png",
-          "singer": "Meghan Trainor feat. Kim Petras",
-          "song": "./assets/song/Made-You-Look-Meghan-Trainor 01.55.44.mp3",
-          "album": "topHit2023"
-
-          
-      },
-      {
-          "id": 18,
-          "songName": "Open arms",
-          "image": "./assets/img/newSongs/AM/openarms.png",
-          "singer": "SZA ft. Travis Scott",
-          "song": "./assets/song/Open-Arms.mp3",
-          "album": "topSongUs-Uk"
-
-          
-      },
-      {
-          "id": 19,
-          "songName": "Catch",
-          "image": "./assets/img/newSongs/HQ/catch.jpeg",
-          "singer": "Epik High feat. Hwa Sa",
-          "song": "./assets/song/Catch.mp3",
-          "album": "topHit2023"
-
-          
-      },
-      {
-          "id": 20,
-          "songName": "OMG",
-          "image": "./assets/img/newSongs/HQ/omg.png",
-          "singer": "Miley Cyrus",
-          "song": "./assets/song/OMG-NewJeans.mp3",
-          "album": "topHit2023"
-
-          
-      },
-      {
-          "id": 21,
-          "songName": "Yesterday",
-          "image": "./assets/img/newSongs/HQ/yesterday.png",
-          "singer": "Jay Park",
-          "song": "./assets/song/Yesterday-Jay-Park.mp3",
-          "album": "topHit2023"
-
-          
-      },
-      {
-          "id": 22,
-          "songName": "Rising",
-          "image": "./assets/img/newSongs/HQ/rising.png",
-          "singer": "TripleS",
-          "song": "./assets/song/Rising-Triples.mp3",
-          "album": "topHit2023"
-
-          
-      },
-      {
-          "id": 23,
-          "songName": "Shut dowm",
-          "image": "./assets/img/newSongs/HQ/shutdown.png",
-          "singer": "Blackpink",
-          "song": "./assets/song/Shut-Down-BLACKPINK.mp3",
-          "album": "topHit2023"
-
-      },
-      {
-          "id": 24,
-          "songName": "Bên trên tầng lầu",
-          "image": "./assets/img/songs/bentrentanglau.png",
-          "singer": "Tăng Duy Tân",
-          "song": "./assets/song/bentrentanglau.mp3",
-          "album": "topHit2023"
-
-      },
-      {
-        "id": 25,
-        "songName": "Shut dowm",
-        "image": "./assets/img/newSongs/HQ/shutdown.png",
-        "singer": "Blackpink",
-        "song": "./assets/song/Shut-Down-BLACKPINK.mp3",
-        "album": "topHit2023"
-      }
+  "songs" : [
+    {
+      "id": 1,
+      "songName": "Giấc mơ khác",
+      "image": "./assets/img/trending/giacmokhac.png",
+      "singer": [
+        "Chillies"
       ],
-
-      "topSongJB" : [
-        {
-          "id": 1,
-          "nameSong" : "Sorry",
-          "singer" : "Justin Bieber",
-          "image" : "./assets/img/",
-          "song" : "./assets/song/"
-  
-        },
-        {
-          "id": 2,
-          "nameSong" : "Peaches",
-          "singer" : "Justin Bieber",
-          "image" : "./assets/img/",
-          "song" : "./assets/song/"
-  
-        },
-        {
-          "id": 3,
-          "nameSong" : "Love Yourself",
-          "singer" : "Justin Bieber",
-          "image" : "./assets/img/",
-          "song" : "./assets/song/"
-  
-        },
-        {
-          "id": 4,
-          "nameSong" : "Baby",
-          "singer" : "Justin Bieber",
-          "image" : "./assets/img/",
-          "song" : "./assets/song/"
-  
-        },
-
-        {
-          "id": 5,
-          "nameSong" : "",
-          "singer" : "Justin Bieber",
-          "image" : "./assets/img/",
-          "song" : "./assets/song/"
-        }
+      "song": "./assets/song/giacmokhac.mp3",
+      "render": "topHit2023",
+      "AlbumHot": 7,
+      "content_owner": 0
+  },
+  {
+      "id": 2,
+      "songName": "Waiting for you",
+      "image": "./assets/img/trending/waitingforyou.png",
+      "singer": [
+        "Mono"
       ],
-
-      "songTrending" : [
-        {
-          "id": 1,
-          "songName": "Giấc mơ khác",
-          "image": "./assets/img/trending/giacmokhac.png",
-          "singer": "Chillies",
-          "song": "./assets/song/giacmokhac.mp3",
-          "album": "topHit2023"
-      },
-      {
-          "id": 2,
-          "songName": "Waiting for you",
-          "image": "./assets/img/trending/waitingforyou.png",
-          "singer": "Mono",
-          "song": "./assets/song/WaitingForYou.mp3",
-          "album": "topHit2023"
-      },
-      {
-          "id": 3,
-          "songName": "Luôn yêu đời",
-          "image": "./assets/img/trending/luonyeudoi.png",
-          "singer": "Đen, ft. Cheng",
-          "song": "./assets/song/luonyeudoi.mp3",
-          "album": "topHit2023"
-      },
-      {
-          "id": 4,
-          "songName": "Anh tự do nhưng cô đơn",
-          "image": "./assets/img/trending/anhtudonhungcodon.png",
-          "singer": "Trung Quân Idol",
-          "song": "./assets/song/anhtudonhungcodon.mp3",
-          "album": "topHit2023"
-
-      },
-      {
-          "id": 5,
-          "songName": "Stay",
-          "image": "./assets/img/trending/stay.png",
-          "singer": "The Kid LAROI, Justin Bieber",
-          "song": "./assets/song/Stay.mp3",
-          "album": "topSongUs-Uk"
-
-          
-      },
-      {
-          "id": 6,
-          "songName": "Hero",
-          "image": "./assets/img/trending/hero.png",
-          "singer": "Martin Garrix, JVKE",
-          "song": "./assets/song/Hero.mp3",
-          "album": "topHit2023"
-
-          
-      },
-      {
-          "id": 7,
-          "songName": "Unholy",
-          "image": "./assets/img/trending/unholy.png",
-          "singer": "Sam Smith, Kim Petras",
-          "song": "./assets/song/Unholy.mp3",
-          "album": "topSongUs-Uk"
-
-          
-      },
-      {
-          "id": 8,
-          "songName": "I like you",
-          "image": "./assets/img/trending/ilikeyou.png",
-          "singer": "Post Malone, Doja Cat",
-          "song": "./assets/song/ILikeYou.mp3",
-          "album": "topHit2023"
-
-          
-      },
-      {
-          "id": 9,
-          "songName": "Anh chưa thuơng em đến vậy đâu",
-          "image": "./assets/img/newSongs/VN/anhchuathuongemdenvaydau.png",
-          "singer": "Lady Mây",
-          "song": "./assets/song/anhchuathuongemdenvaydau.mp3",
-          "album": "topHit2023"
-
-          
-      },
-      {
-          "id": 10,
-          "songName": "Bóng dáng ai",
-          "image": "./assets/img/newSongs/VN/bongdangai.png",
-          "singer": "Pháo",
-          "song": "./assets/song/kiabongdangai.mp3",
-          "album": "topHit2023"
-
-          
-      },
-      {
-          "id": 11,
-          "songName": "Ghé vào tai",
-          "image": "./assets/img/newSongs/VN/ghevaotai.png",
-          "singer": "UMIE, Freaky, Hổ",
-          "song": "./assets/song/ghevaotai.mp3",
-          "album": "topHit2023"
-
-          
-      },
-     
-      {
-          "id": 12,
-          "songName": "Here width me",
-          "image": "./assets/img/newSongs/AM/Herewidthme.png",
-          "singer": "d4vd",
-          "song": "./assets/song/HereWithMe.mp3",
-          "album": "topSongUs-Uk"
-
-          
-      },
-      {
-          "id": 13,
-          "songName": "Flowers",
-          "image": "./assets/img/newSongs/AM/flowers.jpeg",
-          "singer": "Miley Cyrus",
-          "song": "./assets/song/Flowers.mp3",
-          "album": "topHit2023"
-
-          
-      },
-      {
-          "id": 14,
-          "songName": "Howling at the moon",
-          "image": "./assets/img/newSongs/AM/howlingatthemoon.png",
-          "singer": "Mike Posner, Salem Ilese",
-          "song": "./assets/song/HowlingAtTheMoon.mp3",
-          "album": "topHit2023"
-
-          
-      },
-      {
-          "id": 15,
-          "songName": "Made you look",
-          "image": "./assets/img/newSongs/AM/madeyoulook.png",
-          "singer": "Meghan Trainor feat. Kim Petras",
-          "song": "./assets/song/Made-You-Look-Meghan-Trainor 01.55.44.mp3",
-          "album": "topHit2023"
-
-          
-      },
-      {
-          "id": 16,
-          "songName": "Open arms",
-          "image": "./assets/img/newSongs/AM/openarms.png",
-          "singer": "SZA ft. Travis Scott",
-          "song": "./assets/song/Open-Arms.mp3",
-          "album": "topSongUs-Uk"
-
-          
-      },
-      {
-          "id": 17,
-          "songName": "OMG",
-          "image": "./assets/img/newSongs/HQ/omg.png",
-          "singer": "Miley Cyrus",
-          "song": "./assets/song/OMG-NewJeans.mp3",
-          "album": "topHit2023"
-
-          
-      },
-      {
-          "id": 18,
-          "songName": "Yesterday",
-          "image": "./assets/img/newSongs/HQ/yesterday.png",
-          "singer": "Jay Park",
-          "song": "./assets/song/Yesterday-Jay-Park.mp3",
-          "album": "topHit2023"
-
-          
-      },
-      {
-          "id": 19,
-          "songName": "Bên trên tầng lầu",
-          "image": "./assets/img/songs/bentrentanglau.png",
-          "singer": "Tăng Duy Tân",
-          "song": "./assets/song/bentrentanglau.mp3",
-          "album": "topHit2023"
-
-      }
+      "song": "./assets/song/WaitingForYou.mp3",
+      "render": "topHit2023",
+      "AlbumHot": 7,
+      "content_owner": 0
+  },
+  {
+      "id": 3,
+      "songName": "Luôn yêu đời",
+      "image": "./assets/img/trending/luonyeudoi.png",
+      "singer": [
+        "Đen",
+        "ft. Cheng"
       ],
-
-      "songsNew" : [
-         {
-          "id": 1,
-          "songName": "Anh chưa thuơng em đến vậy đâu",
-          "image": "./assets/img/newSongs/VN/anhchuathuongemdenvaydau.png",
-          "singer": "Lady Mây",
-          "song": "./assets/song/anhchuathuongemdenvaydau.mp3",
-          "region": "VN"
-
-          
-      },
-      {
-          "id": 2,
-          "songName": "Bóng dáng ai",
-          "image": "./assets/img/newSongs/VN/bongdangai.png",
-          "singer": "Pháo",
-          "song": "./assets/song/kiabongdangai.mp3",
-          "region": "VN"
-
-          
-      },
-      {
-          "id": 3,
-          "songName": "BO XÌ BO",
-          "image": "./assets/img/newSongs/VN/boxibo.png",
-          "singer": "Hoàng Thùy Linh",
-          "song": "./assets/song/boxibo.mp3",
-          "region": "VN"
-
-          
-      },
-      {
-          "id": 4,
-          "songName": "Ghé vào tai",
-          "image": "./assets/img/newSongs/VN/ghevaotai.png",
-          "singer": "UMIE, Freaky, Hổ",
-          "song": "./assets/song/ghevaotai.mp3",
-          "region": "VN"
-
-          
-      },
-      {
-          "id": 5,
-          "songName": "Lời tạm biệt chưa nói",
-          "image": "./assets/img/newSongs/VN/loitambietchuanoi.jpeg",
-          "singer": "GREY D, ORANGE, Kai Đinh",
-          "song": "./assets/song/loitambietchuanoi.mp3",
-          "region": "VN"
-
-          
-      },
-      {
-          "id": 6,
-          "songName": "Here width me",
-          "image": "./assets/img/newSongs/AM/Herewidthme.png",
-          "singer": "d4vd",
-          "song": "./assets/song/HereWithMe.mp3",
-          "region": "AM"
-
-          
-      },
-      {
-          "id": 7,
-          "songName": "Flowers",
-          "image": "./assets/img/newSongs/AM/flowers.jpeg",
-          "singer": "Miley Cyrus",
-          "song": "./assets/song/Flowers.mp3",
-          "region": "AM"
-
-          
-      },
-      {
-          "id": 8,
-          "songName": "Howling at the moon",
-          "image": "./assets/img/newSongs/AM/howlingatthemoon.png",
-          "singer": "Mike Posner, Salem Ilese",
-          "song": "./assets/song/HowlingAtTheMoon.mp3",
-          "region": "AM"
-
-          
-      },
-      {
-          "id": 9,
-          "songName": "Made you look",
-          "image": "./assets/img/newSongs/AM/madeyoulook.png",
-          "singer": "Meghan Trainor feat. Kim Petras",
-          "song": "./assets/song/Made-You-Look-Meghan-Trainor 01.55.44.mp3",
-          "region": "AM"
-
-          
-      },
-      {
-          "id": 10,
-          "songName": "Open arms",
-          "image": "./assets/img/newSongs/AM/openarms.png",
-          "singer": "SZA ft. Travis Scott",
-          "song": "./assets/song/Open-Arms.mp3",
-          "region": "AM"
-
-          
-      },
-      {
-          "id": 11,
-          "songName": "Catch",
-          "image": "./assets/img/newSongs/HQ/catch.jpeg",
-          "singer": "Epik High feat. Hwa Sa",
-          "song": "./assets/song/Catch.mp3",
-          "region": "HQ"
-
-          
-      },
-      {
-          "id": 12,
-          "songName": "OMG",
-          "image": "./assets/img/newSongs/HQ/omg.png",
-          "singer": "Miley Cyrus",
-          "song": "./assets/song/OMG-NewJeans.mp3",
-          "region": "HQ"
-
-          
-      },
-      {
-          "id": 13,
-          "songName": "Yesterday",
-          "image": "./assets/img/newSongs/HQ/yesterday.png",
-          "singer": "Jay Park",
-          "song": "./assets/song/Yesterday-Jay-Park.mp3",
-          "region": "HQ"
-
-          
-      },
-      {
-          "id": 14,
-          "songName": "Rising",
-          "image": "./assets/img/newSongs/HQ/rising.png",
-          "singer": "TripleS",
-          "song": "./assets/song/Rising-Triples.mp3",
-          "region": "HQ"
-
-          
-      },
-      {
-          "id": 15,
-          "songName": "Shut dowm",
-          "image": "./assets/img/newSongs/HQ/shutdown.png",
-          "singer": "Blackpink",
-          "song": "./assets/song/Shut-Down-BLACKPINK.mp3",
-          "region": "HQ"
-
-      }
-      ]
+      "song": "./assets/song/luonyeudoi.mp3",
+      "render": "topHit2023",
+      "AlbumHot": 7,
+      "content_owner": 0
+  },
+  {
+      "id": 4,
+      "songName": "Anh tự do nhưng cô đơn",
+      "image": "./assets/img/trending/anhtudonhungcodon.png",
+      "singer": [
+        "Trung Quân Idol"
+      ],
+      "song": "./assets/song/anhtudonhungcodon.mp3",
+      "render": "topHit2023",
+      "AlbumHot": 0,
+      "content_owner": 0
+  },
+  {
+      "id": 5,
+      "songName": "Stay",
+      "image": "./assets/img/trending/stay.png",
+      "singer": [
+        "The Kid LAROI",
+        "Justin Bieber"
+      ],
+      "song": "./assets/song/Stay.mp3",
+      "render": "topSongUs-Uk",
+      "AlbumHot": 3,
+      "content_owner": 0
+  },
+  {
+      "id": 6,
+      "songName": "Hero",
+      "image": "./assets/img/trending/hero.png",
+      "singer":[
+        "Martin Garrix", 
+        "JVKE"
+      ] ,
+      "song": "./assets/song/Hero.mp3",
+      "render": "topHit2023",
+      "AlbumHot": 6,
+      "content_owner": 0
 
       
+  },
+  {
+      "id": 7,
+      "songName": "Unholy",
+      "image": "./assets/img/trending/unholy.png",
+      "singer": [
+        "Sam Smith",
+         "Kim Petras"
+      ] ,
+      "song": "./assets/song/Unholy.mp3",
+      "render": "topSongUs-Uk",
+      "AlbumHot": 6,
+      "content_owner": 0
+
+      
+  },
+  {
+      "id": 8,
+      "songName": "I like you",
+      "image": "./assets/img/trending/ilikeyou.png",
+      "singer": [
+        "Post Malone", 
+        "Doja Cat"  
+      ],
+      "song": "./assets/song/ILikeYou.mp3",
+      "render": "topHit2023",
+      "AlbumHot": 6,
+      "content_owner": 0
+
+      
+  },
+  {
+      "id": 9,
+      "songName": "Anh chưa thuơng em đến vậy đâu",
+      "image": "./assets/img/newSongs/VN/anhchuathuongemdenvaydau.png",
+      "singer": [
+        "Lady Mây"
+      ] ,
+      "song": "./assets/song/anhchuathuongemdenvaydau.mp3",
+      "render": "topHit2023",
+      "AlbumHot": 0,
+      "content_owner": 0
+
+      
+  },
+  {
+      "id": 10,
+      "songName": "Bóng dáng ai",
+      "image": "./assets/img/newSongs/VN/bongdangai.png",
+      "singer": [
+        "Pháo"
+      ] ,
+        "song": "./assets/song/kiabongdangai.mp3",
+      "render": "topHit2023",
+      "AlbumHot": 7,
+      "content_owner": 0
+
+      
+  },
+  {
+      "id": 11,
+      "songName": "BO XÌ BO",
+      "image": "./assets/img/newSongs/VN/boxibo.png",
+      "singer": [
+        "Hoàng Thùy Linh"  
+      ],
+      "song": "./assets/song/boxibo.mp3",
+      "render": "topHit2023",
+      "AlbumHot": 0,
+      "content_owner": 0
+
+      
+  },
+  {
+      "id": 12,
+      "songName": "Ghé vào tai",
+      "image": "./assets/img/newSongs/VN/ghevaotai.png",
+      "singer": [
+        "UMIE", 
+        "Freaky", 
+        "Hổ"
+        ] ,
+      "song": "./assets/song/ghevaotai.mp3",
+      "render": "topHit2023",
+      "AlbumHot": 7,
+      "content_owner": 0
+
+      
+  },
+  {
+      "id": 13,
+      "songName": "Lời tạm biệt chưa nói",
+      "image": "./assets/img/newSongs/VN/loitambietchuanoi.jpeg",
+      "singer": [
+        "GREY D", 
+        "ORANGE", 
+        "Kai Đinh"  
+      ] ,
+      "song": "./assets/song/loitambietchuanoi.mp3",
+      "render": "topHit2023",
+      "AlbumHot": 7,
+      "content_owner": 0
 
   },
+  {
+      "id": 14,
+      "songName": "Here width me",
+      "image": "./assets/img/newSongs/AM/Herewidthme.png",
+      "singer": [
+        "d4vd"
+      ] ,
+      "song": "./assets/song/HereWithMe.mp3",
+      "render": "topSongUs-Uk",
+      "AlbumHot": 6,
+      "content_owner": 0
+
+      
+  },
+  {
+      "id": 15,
+      "songName": "Flowers",
+      "image": "./assets/img/newSongs/AM/flowers.jpeg",
+      "singer": [
+        "Miley Cyrus"
+      ] ,
+      "song": "./assets/song/Flowers.mp3",
+      "render": "topHit2023",
+      "AlbumHot": 6,
+      "content_owner": 0
+
+      
+  },
+  {
+      "id": 16,
+      "songName": "Howling at the moon",
+      "image": "./assets/img/newSongs/AM/howlingatthemoon.png",
+      "singer": [
+        "Mike Posner", 
+        "Salem Ilese"
+      ] ,
+      "song": "./assets/song/HowlingAtTheMoon.mp3",
+      "render": "topHit2023",
+      "AlbumHot": 6,
+      "content_owner": 0
+
+      
+  },
+  {
+      "id": 17,
+      "songName": "Made you look",
+      "image": "./assets/img/newSongs/AM/madeyoulook.png",
+      "singer": [
+        "Meghan Trainor", 
+        "feat. Kim Petras"
+      ],
+      "song": "./assets/song/Made-You-Look-Meghan-Trainor 01.55.44.mp3",
+      "render": "topHit2023",
+      "AlbumHot": 6,
+      "content_owner": 0
+
+      
+  },
+  {
+      "id": 18,
+      "songName": "Open arms",
+      "image": "./assets/img/newSongs/AM/openarms.png",
+      "singer": [
+        "SZA",
+         "ft. Travis Scott"
+        ] ,
+      "song": "./assets/song/Open-Arms.mp3",
+      "render": "topSongUs-Uk",
+      "AlbumHot": 6,
+      "content_owner": 0
+  },
+  {
+      "id": 19,
+      "songName": "Catch",
+      "image": "./assets/img/newSongs/HQ/catch.jpeg",
+      "singer": [
+        "Epik High",
+        "feat. Hwa Sa"
+      ],
+      "song": "./assets/song/Catch.mp3",
+      "render": "topHit2023",
+      "AlbumHot": 7,
+      "content_owner": 0
+
+  },
+  {
+      "id": 20,
+      "songName": "OMG",
+      "image": "./assets/img/newSongs/HQ/omg.png",
+      "singer": [
+        "Miley Cyrus"
+      ] ,
+      "song": "./assets/song/OMG-NewJeans.mp3",
+      "render": "topHit2023",
+      "AlbumHot": 7,
+      "content_owner": 0
+
+      
+  },
+  {
+      "id": 21,
+      "songName": "Yesterday",
+      "image": "./assets/img/newSongs/HQ/yesterday.png",
+      "singer": [
+        "Jay Park"
+      ],
+      "song": "./assets/song/Yesterday-Jay-Park.mp3",
+      "render": "topHit2023",
+      "AlbumHot": 7,
+      "content_owner": 0
+
+      
+  },
+  {
+      "id": 22,
+      "songName": "Rising",
+      "image": "./assets/img/newSongs/HQ/rising.png",
+      "singer": [
+        "TripleS"  
+      ] ,
+        "song": "./assets/song/Rising-Triples.mp3",
+      "render": "topHit2023",
+      "AlbumHot": 7,
+      "content_owner": 0
+  },
+  
+  {
+      "id": 23,
+      "songName": "Shut dowm",
+      "image": "./assets/img/newSongs/HQ/shutdown.png",
+      "singer": [
+        "Blackpink"
+      ],
+      "song": "./assets/song/Shut-Down-BLACKPINK.mp3",
+      "render": "topHit2023",
+      "AlbumHot": 7,
+      "content_owner": 0
+
+  },
+  {
+      "id": 24,
+      "songName": "Bên trên tầng lầu",
+      "image": "./assets/img/songs/bentrentanglau.png",
+      "singer": [
+        "Tăng Duy Tân"
+      ],
+      "song": "./assets/song/bentrentanglau.mp3",
+      "render": "topHit2023",
+      "AlbumHot": 7,
+      "content_owner": 0
+
+  },
+
+  {
+    "id": 25,
+    "songName": "Sing Me to Sleep",
+    "image": "./assets/img/alanwalker/singmetosleep.png",
+    "singer": [
+      "Alan Walker"
+    ] ,
+    "song": "./assets/song/SingMetoSleep.mp3",
+    "render": false,
+    "AlbumHot": 1,
+    "content_owner": 0
+  },
+  {
+    "id": 26,
+    "songName": "Alone",
+    "image": "./assets/img/alanwalker/alone.png",
+    "singer": [
+      "Alan Walker",
+      "Ava Max"
+    ] ,
+    "song": "./assets/song",
+    "render": false,
+    "AlbumHot": 1,
+    "content_owner": 0
+  },
+  {
+    "id": 27,
+    "songName": "Hello World",
+    "image": "./assets/img/alanwalker/helloworld.jpeg",
+    "singer": [
+      "Alan Walker",
+      "Torine"
+    ] ,
+    "song": "./assets/song/HelloWorld.mp3",
+    "render": false,
+    "AlbumHot": 1,
+    "content_owner": 0
+  },
+  {
+    "id": 28,
+    "songName": "The Spectre",
+    "image": "./assets/img/alanwalker/the_spectre.png",
+    "singer": [
+      "Alan Walker"
+    ] ,
+    "song": "./assets/song/TheSpectre.mp3",
+    "render": false,
+    "AlbumHot": 1,
+    "content_owner": 0
+  },
+  {
+    "id": 29,
+    "songName": "Play",
+    "image": "./assets/img/alanwalker/play.png",
+    "singer": [
+      "Alan Walker"
+    ] ,
+    "song": "./assets/song/Play.mp3",
+    "render": false,
+    "AlbumHot": 1,
+    "content_owner": 0
+  },
+  {
+    "id": 30,
+    "songName": "Lily",
+    "image": "./assets/img/alanwalker/lily.png",
+    "singer": [
+      "Alan Walker"
+    ] ,
+    "song": "./assets/song/Lily.png",
+    "render": false,
+    "AlbumHot": 1,
+    "content_owner": 0
+  },
+  {
+    "id": 31,
+    "songName": "Faded",
+    "image": "./assets/img/alanwalker/faded.png",
+    "singer": [
+      "Alan Walker"
+    ] ,
+    "song": "./assets/song/Faded.mp3",
+    "render": false,
+    "AlbumHot": 1,
+    "content_owner": 0
+  },
+  {
+    "id": 32,
+    "songName": "All Falls Down",
+    "image": "./assets/img/alanwalker/AllFallsDown.png",
+    "singer": [
+      "Alan Walker"
+    ] ,
+    "song": "./assets/song/AllFallsDown.mp3",
+    "render": false,
+    "AlbumHot": 1,
+    "content_owner": 0
+  },
+  {
+    "id": 33,
+    "songName": "On My Way",
+    "image": "./assets/img/alanwalker/On_My_Way.png",
+    "singer": [
+      "Alan Walker"
+    ] ,
+    "song": "./assets/song/OnMyWay.mp3",
+    "render": false,
+    "AlbumHot": 1,
+    "content_owner": 0
+  },
+  {
+    "id": 34,
+    "songName": "End of Time",
+    "image": "./assets/img/alanwalker/endoftime.png",
+    "singer": [
+      "Alan Walker",
+      "K-391"
+    ] ,
+    "song": "./assets/song/End_of_Time.mp3",
+    "render": false,
+    "AlbumHot": 1,
+    "content_owner": 0
+  },
+  {
+    "id": 35,
+    "songName": "Ignite",
+    "image": "./assets/img/alanwalker/ignite.png",
+    "singer": [
+      "Alan Walker",
+      "Julie Bergan"
+    ] ,
+    "song": "./assets/song/ignite.png",
+    "render": false,
+    "AlbumHot": 1,
+    "content_owner": 0
+  },
+  {
+    "id": 36,
+    "songName": "Look What You Made Me Do",
+    "image": "./assets/img/taylor/LookWhatYouMadeMeDo.png",
+    "singer": [
+      "Taylor Swift"
+    ] ,
+    "song": "./assets/song/LookWhatYouMadeMeDo.mp3",
+    "render": false,
+    "AlbumHot": 2,
+    "content_owner": 0
+  },
+  {
+    "id": 37,
+    "songName": "Blank Space",
+    "image": "./assets/img/taylor/BlankSpace.png",
+    "singer": [
+      "Taylor Swift"
+    ] ,
+    "song": "./assets/song/BlankSpace.mp3",
+    "render": false,
+    "AlbumHot": 2,
+    "content_owner": 0
+  },
+  {
+    "id": 38,
+    "songName": "Gorgeous",
+    "image": "./assets/img/taylor/Gorgeous.png",
+    "singer": [
+      "Taylor Swift"
+    ] ,
+    "song": "./assets/song/Gorgeous.mp3",
+    "render": false,
+    "AlbumHot": 2,
+    "content_owner": 0
+  },
+  {
+    "id": 39,
+    "songName": "Love Story",
+    "image": "./assets/img/taylor/Lovestory.png",
+    "singer": [
+      "Taylor Swift"
+    ] ,
+    "song": "./assets/song/LoveStory.mp3",
+    "render": false,
+    "AlbumHot": 2,
+    "content_owner": 0
+  },
+  {
+    "id": 40,
+    "songName": "...ready For It?",
+    "image": "./assets/img/taylor/readyForIt?.png",
+    "singer": [
+      "Taylor Swift"
+    ] ,
+    "song": "./assets/song/readyForIt.mp3",
+    "render": false,
+    "AlbumHot": 2,
+    "content_owner": 0
+  },
+  {
+    "id": 41,
+    "songName": "Sorry",
+    "image": "./assets/img/JB/sorry.png",
+    "singer": [
+      "Taylor Swift"
+    ] ,
+    "song": "./assets/song/Sorry.mp3",
+    "render": false,
+    "AlbumHot": 3,
+    "content_owner": 0
+  },
+  {
+    "id": 42,
+    "songName": "What Do You Mean?",
+    "image": "./assets/img/JB/WhatDoYouMean.png",
+    "singer": [
+      "Justin Bieber"
+    ] ,
+    "song": "./assets/song/WhatDoYouMean.mp3",
+    "render": false,
+    "AlbumHot": 3,
+    "content_owner": 0
+  },
+  {
+    "id": 43,
+    "songName": "Love Yourself",
+    "image": "./assets/img/JB/LoveYourself.png",
+    "singer": [
+      "Justin Bieber"
+    ] ,
+    "song": "./assets/song/LoveYourself.mp3",
+    "render": false,
+    "AlbumHot": 3,
+    "content_owner": 0
+  },
+  {
+    "id": 44,
+    "songName": "Let Me Love You",
+    "image": "./assets/img/JB/LetMeLoveYou.jpeg",
+    "singer": [
+      "Justin Bieber",
+      "DJ Snake"
+    ] ,
+    "song": "./assets/song/LetMeLoveYou.mp3",
+    "render": false,
+    "AlbumHot": 3,
+    "content_owner": 0
+  },
+  {
+    "id": 45,
+    "songName": "Peaches",
+    "image": "./assets/img/JB/Peaches.png",
+    "singer": [
+      "Justin Bieber",
+      "Daniel Caesar",
+      "Giveon"
+    ] ,
+    "song": "./assets/song/Peaches.mp3",
+    "render": false,
+    "AlbumHot": 3,
+    "content_owner": 0
+  },
+  {
+    "id": 46,
+    "songName": "Shape of You",
+    "image": "./assets/img/JB/ShapeofYou.png",
+    "singer": [
+      "Ed Sheeran"
+    ] ,
+    "song": "./assets/song/ShapeofYou.mp3",
+    "render": false,
+    "AlbumHot": 4,
+    "content_owner": 0
+  },
+  {
+    "id": 47,
+    "songName": "Photograph",
+    "image": "./assets/img/JB/Photograph.png",
+    "singer": [
+      "Ed Sheeran"
+    ] ,
+    "song": "./assets/song/Photograph.mp3",
+    "render": false,
+    "AlbumHot": 4,
+    "content_owner": 0
+  },
+  {
+    "id": 48,
+    "songName": "Perfect",
+    "image": "./assets/img/ED/Perfect.jpeg",
+    "singer": [
+      "Ed Sheeran"
+    ] ,
+    "song": "./assets/song/Perfect.mp3",
+    "render": false,
+    "AlbumHot": 4,
+    "content_owner": 0
+  },
+  {
+    "id": 49,
+    "songName": "Thinking Out Loud",
+    "image": "./assets/img/ED/ThinkingOutLoud.png",
+    "singer": [
+      "Ed Sheeran"
+    ] ,
+    "song": "./assets/song/ThinkingOutLoud.mp3",
+    "render": false,
+    "AlbumHot": 4,
+    "content_owner": 0
+  },
+  {
+    "id": 50,
+    "songName": "Bad Habits",
+    "image": "./assets/img/ED/BadHabits.png",
+    "singer": [
+      "Ed Sheeran"
+    ] ,
+    "song": "./assets/song/BadHabits.mp3",
+    "render": false,
+    "AlbumHot": 4,
+    "content_owner": 0
+  },
+  {
+    "id": 51,
+    "songName": "Decisions",
+    "image": "./assets/img/morningsChill/decisions.png",
+    "singer": [
+      "NTR.MND(네이쳐마인드)"
+    ] ,
+    "song": "./assets/song/Decisions.mp3",
+    "render": false,
+    "AlbumHot": 5,
+    "content_owner": 0
+  },
+  {
+    "id": 52,
+    "songName": "gloom",
+    "image": "./assets/img/morningsChill/gloom.png",
+    "singer": [
+      "Prime June"
+    ] ,
+    "song": "./assets/song/gloom.mp3",
+    "render": false,
+    "AlbumHot": 5,
+    "content_owner": 0
+  },
+  {
+    "id": 53,
+    "songName": "be mine",
+    "image": "./assets/img/morningsChill/bemine.png",
+    "singer": [
+      "Jazzinuf"
+    ] ,
+    "song": "./assets/song/bemine.mp3",
+    "render": false,
+    "AlbumHot": 5,
+    "content_owner": 0
+  },
+  {
+    "id": 54,
+    "songName": "best girl",
+    "image": "./assets/img/morningsChill/bestgirl.png",
+    "singer": [
+      "Red pest"
+    ] ,
+    "song": "./assets/song/bestgirl.mp3",
+    "render": false,
+    "AlbumHot": 5,
+    "content_owner": 0
+  },
+  {
+    "id": 55,
+    "songName": "Football head ",
+    "image": "./assets/img/morningsChill/flamingosis.png",
+    "singer": [
+      "flamingosis"
+    ] ,
+    "song": "./assets/song/flamingosis.mp3",
+    "render": false,
+    "AlbumHot": 5,
+    "content_owner": 0
+  },
+  {
+    "id": 56,
+    "songName": "sunflowers",
+    "image": "./assets/img/morningsChill/sunflowers.png",
+    "singer": [
+      "Saib."
+    ] ,
+    "song": "./assets/song/Sunflowers.mp3",
+    "render": false,
+    "AlbumHot": 5,
+    "content_owner": 0
+  },
+  {
+    "id": 57,
+    "songName": "night driving",
+    "image": "./assets/img/morningsChill/nightdriving.png",
+    "singer": [
+      "Aqua cola"
+    ] ,
+    "song": "./assets/song/nightdriving.mp3",
+    "render": false,
+    "AlbumHot": 5,
+    "content_owner": 0
+  },
+  {
+    "id": 58,
+    "songName": "jhfly",
+    "image": "./assets/img/morningsChill/jhfly.png",
+    "singer": [
+      "Squid Ethics"
+    ] ,
+    "song": "./assets/song/jhfly.mp3",
+    "render": false,
+    "AlbumHot": 5,
+    "content_owner": 0
+  },
+  {
+    "id": 59,
+    "songName": "Springtime stroll",
+    "image": "./assets/img/morningsChill/Springtimestroll.png",
+    "singer": [
+      "secret crates"
+    ] ,
+    "song": "./assets/song/Springtimestroll.mp3",
+    "render": false,
+    "AlbumHot": 5,
+    "content_owner": 0
+  },
+  {
+    "id": 60,
+    "songName": "call me",
+    "image": "./assets/img/morningsChill/callme.png",
+    "singer": [
+      "flav"
+    ] ,
+    "song": "./assets/song/callme.mp3",
+    "render": false,
+    "AlbumHot": 5,
+    "content_owner": 0
+  },
+  {
+    "id": 61,
+    "songName": "Romance",
+    "image": "./assets/img/morningsChill/romance.png",
+    "singer": [
+      "Android52"
+    ] ,
+    "song": "./assets/song/romance.mp3",
+    "render": false,
+    "AlbumHot": 5,
+    "content_owner": 0
+  },
+  {
+    "id": 62,
+    "songName": "Brasil",
+    "image": "./assets/img/morningsChill/joubeats.png",
+    "singer": [
+      "joubeats"
+    ] ,
+    "song": "./assets/song/joubeats.mp3",
+    "render": false,
+    "AlbumHot": 5,
+    "content_owner": 0
+  },
+  {
+    "id": 63,
+    "songName": "Calm mornings",
+    "image": "./assets/img/morningsChill/samuraiguru.png",
+    "singer": [
+      "samurai guru"
+    ] ,
+    "song": "./assets/song/samuraiguru.mp3",
+    "render": false,
+    "AlbumHot": 5,
+    "content_owner": 0
+  },
+  {
+    "id": 64,
+    "songName": "guess i'll leave",
+    "image": "./assets/img/morningsChill/guessillleave.png",
+    "singer": [
+      "Funny Death"
+    ] ,
+    "song": "./assets/song/guessillleave.mp3",
+    "render": false,
+    "AlbumHot": 5,
+    "content_owner": 0
+  },
+  {
+    "id": 65,
+    "songName": "seeing your name makes me happy",
+    "image": "./assets/img/morningsChill/burbank.png",
+    "singer": [
+      "burbank"
+    ] ,
+    "song": "./assets/song/burbank.mp3",
+    "render": false,
+    "AlbumHot": 5,
+    "content_owner": 0
+  },
+
+  {
+    "id": 66,
+    "songName": "Heartbreak Anniversary",
+    "image": "./assets/img/usukGayNgien/HeartbreakAnniversary.png",
+    "singer": [
+      "Giveon"
+    ] ,
+    "song": "./assets/song/HeartbreakAnniversary.mp3",
+    "render": false,
+    "AlbumHot": 6,
+    "content_owner": 0
+  },
+
+  {
+    "id": 67,
+    "songName": "LIKE I WANT YOU",
+    "image": "./assets/img/usukGayNgien/LIKEIWANTYOU.png",
+    "singer": [
+      "Giveon"
+    ] ,
+    "song": "./assets/song/LIKEIWANTYOU.mp3",
+    "render": false,
+    "AlbumHot": 6,
+    "content_owner": 0
+  },
+  {
+    "id": 68,
+    "songName": "Yêu anh đi mẹ anh bán bánh mì",
+    "image": "./assets/img/trending2023/yeuanhdimeanhbanbanhmi.png",
+    "singer": [
+      "Phúc Du"
+    ] ,
+    "song": "./assets/song/yeuanhdimeanhbanbanhmi.mp3",
+    "render": false,
+    "AlbumHot": 7,
+    "content_owner": 0
+  },
+  {
+    "id": 69,
+    "songName": "Ưng quá chừng",
+    "image": "./assets/img/trending2023/ungquatrung.png",
+    "singer": [
+      "AMEE"
+    ] ,
+    "song": "./assets/song/ungquatrung.mp3",
+    "render": false,
+    "AlbumHot": 7,
+    "content_owner": 0
+  },
+  {
+    "id": 70,
+    "songName": "Ngủ Một Mình",
+    "image": "./assets/img/trending2023/ngumotminh.png",
+    "singer": [
+      "HIEUTHUHAI",
+      "Negav", 
+      "Kewtiie"
+    ] ,
+    "song": "./assets/song/ngumotminh.mp3",
+    "render": false,
+    "AlbumHot": 7,
+    "content_owner": 0
+  },
+  {
+    "id": 71,
+    "songName": "Em Đồng Ý (I Do)",
+    "image": "./assets/img/trending2023/emdongy.png",
+    "singer": [
+      "Đức Phúc",
+      "911"
+    ] ,
+    "song": "./assets/song/emdongy.mp3",
+    "render": false,
+    "AlbumHot": 7,
+    "content_owner": 0
+  },
+  {
+    "id": 72,
+    "songName": "Nếu lúc đó",
+    "image": "./assets/img/trending2023/neulucdo.png",
+    "singer": [
+      "tlinh",
+      "2Pillz"
+    ] ,
+    "song": "./assets/song/neulucdo.mp3",
+    "render": false,
+    "AlbumHot": 7,
+    "content_owner": 0
+  },
+  {
+    "id": 73,
+    "songName": "Để tôi ôm em bằng giai điệu này",
+    "image": "./assets/img/trending2023/detoiomembanggiaidieunay.png",
+    "singer": [
+      "Kai Đinh",
+      "Min",
+      "GRAY D"
+    ] ,
+    "song": "./assets/song/detoiomembanggiaidieunay.mp3",
+    "render": false,
+    "AlbumHot": 7,
+    "content_owner": 0
+  },
+  {
+    "id": 74,
+    "songName": "11:11",
+    "image": "./assets/img/trending2023/1111.png",
+    "singer": [
+      "MiiNa",
+      "RIN9",
+      "DREAMeR"
+    ] ,
+    "song": "./assets/song/1111.mp3",
+    "render": false,
+    "AlbumHot": 7,
+    "content_owner": 0
+  },
+  {
+    "id": 75,
+    "songName": "Bí mật nhỏ",
+    "image": "./assets/img/trending2023/bimatnho.png",
+    "singer": [
+      "B Ray",
+      "Hoàng Tôn",
+      "Bảo Hân Helia"
+    ] ,
+    "song": "./assets/song/bimatnho.mp3",
+    "render": false,
+    "AlbumHot": 7,
+    "content_owner": 0
+  },
+  {
+    "id": 76,
+    "songName": "Rồi ta sẽ ngắm pháo hao cùng nhau",
+    "image": "./assets/img/trending2023/roitasengamphaohoacungnhau.png",
+    "singer": [
+      "O.lew"
+    ] ,
+    "song": "./assets/song/roitasengamphaohoacungnhau.mp3",
+    "render": false,
+    "AlbumHot": 7,
+    "content_owner": 0
+  }
+],
 
   "TopAlbumHot": {
     "albumhot": [
@@ -633,6 +984,7 @@
         "id": 1,
         "name": "Top bài hát hay của Alan Walker",
         "image": "./assets/img/AlbumHot/abhAW.png"
+
       },
       {
         "id": 2,
@@ -651,8 +1003,8 @@
       },
       {
         "id": 5,
-        "name": "Top bài hát hay của The Chainsmokers",
-        "image": "./assets/img/AlbumHot/abhTC.png"
+        "name": "Mornings Chill",
+        "image": "./assets/img/AlbumHot/morningsChill.png"
       },
       {
         "id": 6,
@@ -701,8 +1053,7 @@
 
   },
 
-  "singer" : 
-     [
+  "singer" : [
       {
         "id" : 1,
         "name" : "DALAB",
