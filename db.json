@@ -8,7 +8,7 @@
         "Chillies"
       ],
       "song": "./assets/song/giacmokhac.mp3",
-      "render": "topHit2023",
+      "render": 1,
       "AlbumHot": 7,
       "content_owner": 0
   },
@@ -20,7 +20,7 @@
         "Mono"
       ],
       "song": "./assets/song/WaitingForYou.mp3",
-      "render": "topHit2023",
+      "render": 1,
       "AlbumHot": 7,
       "content_owner": 0
   },
@@ -33,7 +33,7 @@
         "ft. Cheng"
       ],
       "song": "./assets/song/luonyeudoi.mp3",
-      "render": "topHit2023",
+      "render": 1,
       "AlbumHot": 7,
       "content_owner": 0
   },
@@ -45,7 +45,7 @@
         "Trung Quân Idol"
       ],
       "song": "./assets/song/anhtudonhungcodon.mp3",
-      "render": "topHit2023",
+      "render": 1,
       "AlbumHot": 0,
       "content_owner": 0
   },
@@ -58,7 +58,7 @@
         "Justin Bieber"
       ],
       "song": "./assets/song/Stay.mp3",
-      "render": "topSongUs-Uk",
+      "render": 1,
       "AlbumHot": 3,
       "content_owner": 0
   },
@@ -71,7 +71,7 @@
         "JVKE"
       ] ,
       "song": "./assets/song/Hero.mp3",
-      "render": "topHit2023",
+      "render": 1,
       "AlbumHot": 6,
       "content_owner": 0
 
@@ -86,7 +86,7 @@
          "Kim Petras"
       ] ,
       "song": "./assets/song/Unholy.mp3",
-      "render": "topSongUs-Uk",
+      "render": 1,
       "AlbumHot": 6,
       "content_owner": 0
 
@@ -101,11 +101,9 @@
         "Doja Cat"  
       ],
       "song": "./assets/song/ILikeYou.mp3",
-      "render": "topHit2023",
+      "render": 1,
       "AlbumHot": 6,
       "content_owner": 0
-
-      
   },
   {
       "id": 9,
@@ -115,7 +113,7 @@
         "Lady Mây"
       ] ,
       "song": "./assets/song/anhchuathuongemdenvaydau.mp3",
-      "render": "topHit2023",
+      "render": 2,
       "AlbumHot": 0,
       "content_owner": 0
 
@@ -129,7 +127,7 @@
         "Pháo"
       ] ,
         "song": "./assets/song/kiabongdangai.mp3",
-      "render": "topHit2023",
+      "render": 2,
       "AlbumHot": 7,
       "content_owner": 0
 
@@ -143,7 +141,7 @@
         "Hoàng Thùy Linh"  
       ],
       "song": "./assets/song/boxibo.mp3",
-      "render": "topHit2023",
+      "render": 2,
       "AlbumHot": 0,
       "content_owner": 0
 
@@ -159,7 +157,7 @@
         "Hổ"
         ] ,
       "song": "./assets/song/ghevaotai.mp3",
-      "render": "topHit2023",
+      "render": 2,
       "AlbumHot": 7,
       "content_owner": 0
 
@@ -175,7 +173,7 @@
         "Kai Đinh"  
       ] ,
       "song": "./assets/song/loitambietchuanoi.mp3",
-      "render": "topHit2023",
+      "render": 2,
       "AlbumHot": 7,
       "content_owner": 0
 
@@ -188,7 +186,7 @@
         "d4vd"
       ] ,
       "song": "./assets/song/HereWithMe.mp3",
-      "render": "topSongUs-Uk",
+      "render": 2,
       "AlbumHot": 6,
       "content_owner": 0
 
@@ -202,7 +200,7 @@
         "Miley Cyrus"
       ] ,
       "song": "./assets/song/Flowers.mp3",
-      "render": "topHit2023",
+      "render": 2,
       "AlbumHot": 6,
       "content_owner": 0
 
@@ -217,7 +215,7 @@
         "Salem Ilese"
       ] ,
       "song": "./assets/song/HowlingAtTheMoon.mp3",
-      "render": "topHit2023",
+      "render": 2,
       "AlbumHot": 6,
       "content_owner": 0
 
@@ -232,7 +230,7 @@
         "feat. Kim Petras"
       ],
       "song": "./assets/song/Made-You-Look-Meghan-Trainor 01.55.44.mp3",
-      "render": "topHit2023",
+      "render": 2,
       "AlbumHot": 6,
       "content_owner": 0
 
@@ -247,7 +245,7 @@
          "ft. Travis Scott"
         ] ,
       "song": "./assets/song/Open-Arms.mp3",
-      "render": "topSongUs-Uk",
+      "render": 2,
       "AlbumHot": 6,
       "content_owner": 0
   },
@@ -260,7 +258,7 @@
         "feat. Hwa Sa"
       ],
       "song": "./assets/song/Catch.mp3",
-      "render": "topHit2023",
+      "render": 2,
       "AlbumHot": 7,
       "content_owner": 0
 
@@ -273,7 +271,7 @@
         "Miley Cyrus"
       ] ,
       "song": "./assets/song/OMG-NewJeans.mp3",
-      "render": "topHit2023",
+      "render": 2,
       "AlbumHot": 7,
       "content_owner": 0
 
@@ -287,7 +285,7 @@
         "Jay Park"
       ],
       "song": "./assets/song/Yesterday-Jay-Park.mp3",
-      "render": "topHit2023",
+      "render": 2,
       "AlbumHot": 7,
       "content_owner": 0
 
@@ -301,7 +299,7 @@
         "TripleS"  
       ] ,
         "song": "./assets/song/Rising-Triples.mp3",
-      "render": "topHit2023",
+      "render": 2,
       "AlbumHot": 7,
       "content_owner": 0
   },
@@ -314,7 +312,7 @@
         "Blackpink"
       ],
       "song": "./assets/song/Shut-Down-BLACKPINK.mp3",
-      "render": "topHit2023",
+      "render": 2,
       "AlbumHot": 7,
       "content_owner": 0
 
@@ -327,7 +325,7 @@
         "Tăng Duy Tân"
       ],
       "song": "./assets/song/bentrentanglau.mp3",
-      "render": "topHit2023",
+      "render": 2,
       "AlbumHot": 7,
       "content_owner": 0
 
@@ -866,7 +864,7 @@
       "Phúc Du"
     ] ,
     "song": "./assets/song/yeuanhdimeanhbanbanhmi.mp3",
-    "render": false,
+    "render": 2,
     "AlbumHot": 7,
     "content_owner": 0
   },
@@ -878,7 +876,7 @@
       "AMEE"
     ] ,
     "song": "./assets/song/ungquatrung.mp3",
-    "render": false,
+    "render": 2,
     "AlbumHot": 7,
     "content_owner": 0
   },
@@ -892,7 +890,7 @@
       "Kewtiie"
     ] ,
     "song": "./assets/song/ngumotminh.mp3",
-    "render": false,
+    "render": 2,
     "AlbumHot": 7,
     "content_owner": 0
   },
@@ -905,7 +903,7 @@
       "911"
     ] ,
     "song": "./assets/song/emdongy.mp3",
-    "render": false,
+    "render": 2,
     "AlbumHot": 7,
     "content_owner": 0
   },
@@ -918,7 +916,7 @@
       "2Pillz"
     ] ,
     "song": "./assets/song/neulucdo.mp3",
-    "render": false,
+    "render": 2,
     "AlbumHot": 7,
     "content_owner": 0
   },
@@ -932,7 +930,7 @@
       "GRAY D"
     ] ,
     "song": "./assets/song/detoiomembanggiaidieunay.mp3",
-    "render": false,
+    "render": 2,
     "AlbumHot": 7,
     "content_owner": 0
   },
@@ -946,7 +944,7 @@
       "DREAMeR"
     ] ,
     "song": "./assets/song/1111.mp3",
-    "render": false,
+    "render": 2,
     "AlbumHot": 7,
     "content_owner": 0
   },
@@ -972,7 +970,7 @@
       "O.lew"
     ] ,
     "song": "./assets/song/roitasengamphaohoacungnhau.mp3",
-    "render": false,
+    "render": 2,
     "AlbumHot": 7,
     "content_owner": 0
   }
