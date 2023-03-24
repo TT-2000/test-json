@@ -523,7 +523,7 @@
       "Taylor Swift"
     ] ,
     "song": "./assets/song/readyForIt.mp3",
-    "render": false,
+    "render": 1,
     "AlbumHot": 2,
     "content_owner": 0
   },
@@ -535,7 +535,7 @@
       "Taylor Swift"
     ] ,
     "song": "./assets/song/Sorry.mp3",
-    "render": false,
+    "render": 1,
     "AlbumHot": 3,
     "content_owner": 0
   },
@@ -586,7 +586,7 @@
       "Giveon"
     ] ,
     "song": "./assets/song/Peaches.mp3",
-    "render": false,
+    "render": 1,
     "AlbumHot": 3,
     "content_owner": 0
   },
@@ -610,7 +610,7 @@
       "Ed Sheeran"
     ] ,
     "song": "./assets/song/Photograph.mp3",
-    "render": false,
+    "render": 1,
     "AlbumHot": 4,
     "content_owner": 0
   },
@@ -622,7 +622,7 @@
       "Ed Sheeran"
     ] ,
     "song": "./assets/song/Perfect.mp3",
-    "render": false,
+    "render": 1,
     "AlbumHot": 4,
     "content_owner": 0
   },
@@ -634,7 +634,7 @@
       "Ed Sheeran"
     ] ,
     "song": "./assets/song/ThinkingOutLoud.mp3",
-    "render": false,
+    "render": 1,
     "AlbumHot": 4,
     "content_owner": 0
   },
@@ -646,7 +646,7 @@
       "Ed Sheeran"
     ] ,
     "song": "./assets/song/BadHabits.mp3",
-    "render": false,
+    "render": 1,
     "AlbumHot": 4,
     "content_owner": 0
   },
@@ -839,7 +839,7 @@
       "Giveon"
     ] ,
     "song": "./assets/song/HeartbreakAnniversary.mp3",
-    "render": false,
+    "render": 1,
     "AlbumHot": 6,
     "content_owner": 0
   },
@@ -852,7 +852,7 @@
       "Giveon"
     ] ,
     "song": "./assets/song/LIKEIWANTYOU.mp3",
-    "render": false,
+    "render": 1,
     "AlbumHot": 6,
     "content_owner": 0
   },
@@ -876,7 +876,7 @@
       "AMEE"
     ] ,
     "song": "./assets/song/ungquatrung.mp3",
-    "render": 2,
+    "render": 1,
     "AlbumHot": 7,
     "content_owner": 0
   },
