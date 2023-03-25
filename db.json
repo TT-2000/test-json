@@ -518,11 +518,11 @@
   {
     "id": 40,
     "songName": "...ready For It?",
-    "image": "./assets/img/taylor/readyForIt?.png",
+    "image": "./assets/img/taylor/readyForIt.png",
     "singer": [
       "Taylor Swift"
     ] ,
-    "song": "./assets/song/readyForIt?.mp3",
+    "song": "./assets/song/readyForIt.mp3",
     "render": 1,
     "AlbumHot": 2,
     "content_owner": 0
