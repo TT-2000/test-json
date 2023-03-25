@@ -506,7 +506,7 @@
   {
     "id": 39,
     "songName": "Love Story",
-    "image": "./assets/img/taylor/Lovestory.png",
+    "image": "./assets/img/taylor/Lovestory.jpg",
     "singer": [
       "Taylor Swift"
     ] ,
@@ -522,7 +522,7 @@
     "singer": [
       "Taylor Swift"
     ] ,
-    "song": "./assets/song/readyForIt.mp3",
+    "song": "./assets/song/readyForIt?.mp3",
     "render": 1,
     "AlbumHot": 2,
     "content_owner": 0
@@ -593,7 +593,7 @@
   {
     "id": 46,
     "songName": "Shape of You",
-    "image": "./assets/img/JB/ShapeofYou.png",
+    "image": "./assets/img/ED/ShapeofYou.png",
     "singer": [
       "Ed Sheeran"
     ] ,
@@ -605,7 +605,7 @@
   {
     "id": 47,
     "songName": "Photograph",
-    "image": "./assets/img/JB/Photograph.png",
+    "image": "./assets/img/ED/Photograph.png",
     "singer": [
       "Ed Sheeran"
     ] ,
@@ -871,7 +871,7 @@
   {
     "id": 69,
     "songName": "Ưng quá chừng",
-    "image": "./assets/img/trending2023/ungquatrung.png",
+    "image": "./assets/img/trending2023/ungquachung.png",
     "singer": [
       "AMEE"
     ] ,
