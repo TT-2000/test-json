@@ -400,7 +400,7 @@
     "singer": [
       "Alan Walker"
     ] ,
-    "song": "./assets/song/Lily.png",
+    "song": "./assets/song/Lily.mp3",
     "render": false,
     "AlbumHot": 1,
     "content_owner": 0
@@ -449,7 +449,7 @@
       "Alan Walker",
       "K-391"
     ] ,
-    "song": "./assets/song/End_of_Time.mp3",
+    "song": "./assets/song/EndofTime.mp3",
     "render": false,
     "AlbumHot": 1,
     "content_owner": 0
@@ -462,7 +462,7 @@
       "Alan Walker",
       "Julie Bergan"
     ] ,
-    "song": "./assets/song/ignite.png",
+    "song": "./assets/song/ignite.mp3",
     "render": false,
     "AlbumHot": 1,
     "content_owner": 0
