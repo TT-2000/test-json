@@ -35,7 +35,7 @@
       "song": "./assets/song/luonyeudoi.mp3",
       "render": 1,
       "AlbumHot": 7,
-      "content_owner": 0
+      "content_owner": 2
   },
   {
       "id": 4,
@@ -60,7 +60,7 @@
       "song": "./assets/song/Stay.mp3",
       "render": 1,
       "AlbumHot": 3,
-      "content_owner": 0
+      "content_owner": 12
   },
   {
       "id": 6,
@@ -73,7 +73,7 @@
       "song": "./assets/song/Hero.mp3",
       "render": 1,
       "AlbumHot": 6,
-      "content_owner": 0
+      "content_owner": 11
 
       
   },
@@ -341,7 +341,7 @@
     "song": "./assets/song/SingMetoSleep.mp3",
     "render": false,
     "AlbumHot": 1,
-    "content_owner": 0
+    "content_owner": 7
   },
   {
     "id": 26,
@@ -354,7 +354,7 @@
     "song": "./assets/song",
     "render": false,
     "AlbumHot": 1,
-    "content_owner": 0
+    "content_owner": 7
   },
   {
     "id": 27,
@@ -367,7 +367,7 @@
     "song": "./assets/song/HelloWorld.mp3",
     "render": false,
     "AlbumHot": 1,
-    "content_owner": 0
+    "content_owner": 7
   },
   {
     "id": 28,
@@ -379,7 +379,7 @@
     "song": "./assets/song/TheSpectre.mp3",
     "render": false,
     "AlbumHot": 1,
-    "content_owner": 0
+    "content_owner": 7
   },
   {
     "id": 29,
@@ -391,7 +391,7 @@
     "song": "./assets/song/Play.mp3",
     "render": false,
     "AlbumHot": 1,
-    "content_owner": 0
+    "content_owner": 7
   },
   {
     "id": 30,
@@ -403,7 +403,7 @@
     "song": "./assets/song/Lily.mp3",
     "render": false,
     "AlbumHot": 1,
-    "content_owner": 0
+    "content_owner": 7
   },
   {
     "id": 31,
@@ -415,7 +415,7 @@
     "song": "./assets/song/Faded.mp3",
     "render": false,
     "AlbumHot": 1,
-    "content_owner": 0
+    "content_owner": 7
   },
   {
     "id": 32,
@@ -427,7 +427,7 @@
     "song": "./assets/song/AllFallsDown.mp3",
     "render": false,
     "AlbumHot": 1,
-    "content_owner": 0
+    "content_owner": 7
   },
   {
     "id": 33,
@@ -439,7 +439,7 @@
     "song": "./assets/song/OnMyWay.mp3",
     "render": false,
     "AlbumHot": 1,
-    "content_owner": 0
+    "content_owner": 7
   },
   {
     "id": 34,
@@ -452,7 +452,7 @@
     "song": "./assets/song/EndofTime.mp3",
     "render": false,
     "AlbumHot": 1,
-    "content_owner": 0
+    "content_owner": 7
   },
   {
     "id": 35,
@@ -465,7 +465,7 @@
     "song": "./assets/song/ignite.mp3",
     "render": false,
     "AlbumHot": 1,
-    "content_owner": 0
+    "content_owner": 7
   },
   {
     "id": 36,
@@ -477,7 +477,7 @@
     "song": "./assets/song/LookWhatYouMadeMeDo.mp3",
     "render": false,
     "AlbumHot": 2,
-    "content_owner": 0
+    "content_owner": 9
   },
   {
     "id": 37,
@@ -489,7 +489,7 @@
     "song": "./assets/song/BlankSpace.mp3",
     "render": false,
     "AlbumHot": 2,
-    "content_owner": 0
+    "content_owner": 9
   },
   {
     "id": 38,
@@ -501,7 +501,7 @@
     "song": "./assets/song/Gorgeous.mp3",
     "render": false,
     "AlbumHot": 2,
-    "content_owner": 0
+    "content_owner": 9
   },
   {
     "id": 39,
@@ -513,7 +513,7 @@
     "song": "./assets/song/LoveStory.mp3",
     "render": false,
     "AlbumHot": 2,
-    "content_owner": 0
+    "content_owner": 9
   },
   {
     "id": 40,
@@ -525,7 +525,7 @@
     "song": "./assets/song/readyForIt.mp3",
     "render": 1,
     "AlbumHot": 2,
-    "content_owner": 0
+    "content_owner": 9
   },
   {
     "id": 41,
@@ -537,7 +537,7 @@
     "song": "./assets/song/Sorry.mp3",
     "render": 1,
     "AlbumHot": 3,
-    "content_owner": 0
+    "content_owner": 9
   },
   {
     "id": 42,
@@ -549,7 +549,7 @@
     "song": "./assets/song/WhatDoYouMean.mp3",
     "render": false,
     "AlbumHot": 3,
-    "content_owner": 0
+    "content_owner": 12
   },
   {
     "id": 43,
@@ -561,7 +561,7 @@
     "song": "./assets/song/LoveYourself.mp3",
     "render": false,
     "AlbumHot": 3,
-    "content_owner": 0
+    "content_owner": 12
   },
   {
     "id": 44,
@@ -574,7 +574,7 @@
     "song": "./assets/song/LetMeLoveYou.mp3",
     "render": false,
     "AlbumHot": 3,
-    "content_owner": 0
+    "content_owner": 12
   },
   {
     "id": 45,
@@ -588,7 +588,7 @@
     "song": "./assets/song/Peaches.mp3",
     "render": 1,
     "AlbumHot": 3,
-    "content_owner": 0
+    "content_owner": 12
   },
   {
     "id": 46,
@@ -600,7 +600,7 @@
     "song": "./assets/song/ShapeofYou.mp3",
     "render": false,
     "AlbumHot": 4,
-    "content_owner": 0
+    "content_owner": 10
   },
   {
     "id": 47,
@@ -612,7 +612,7 @@
     "song": "./assets/song/Photograph.mp3",
     "render": 1,
     "AlbumHot": 4,
-    "content_owner": 0
+    "content_owner": 10
   },
   {
     "id": 48,
@@ -624,7 +624,7 @@
     "song": "./assets/song/Perfect.mp3",
     "render": 1,
     "AlbumHot": 4,
-    "content_owner": 0
+    "content_owner": 10
   },
   {
     "id": 49,
@@ -636,7 +636,7 @@
     "song": "./assets/song/ThinkingOutLoud.mp3",
     "render": 1,
     "AlbumHot": 4,
-    "content_owner": 0
+    "content_owner": 10
   },
   {
     "id": 50,
@@ -648,7 +648,7 @@
     "song": "./assets/song/BadHabits.mp3",
     "render": 1,
     "AlbumHot": 4,
-    "content_owner": 0
+    "content_owner": 10
   },
   {
     "id": 51,
@@ -973,7 +973,648 @@
     "render": 2,
     "AlbumHot": 7,
     "content_owner": 0
+  },
+  {
+    "id": 77,
+    "songName": "Until I Found You ",
+    "image": "./assets/img/trending2023/roitasengamphaohoacungnhau.png",
+    "singer": [
+      "Stephen Sanchez"
+    ] ,
+    "song": "./assets/song/UntilIFoundYou.mp3",
+    "render": 1,
+    "AlbumHot": 7,
+    "content_owner": 0
+  },
+
+
+  {
+    "id": 78,
+    "songName": "Ngày Khác Lạ",
+    "image": "./assets/img/denvau/ngaykhacla.png",
+    "singer": [
+      "Đen Vâu",
+      "Giang Phạm", 
+      "Triple D"
+    ] ,
+    "song": "./assets/song/ngaykhacla.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 2
+  },
+  {
+    "id": 79,
+    "songName": "Trốn tìm",
+    "image": "./assets/img/den/trontim.png",
+    "singer": [
+      "Đen Vâu"
+    ] ,
+    "song": "./assets/song/trontim.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 2
+  },
+  {
+    "id": 80,
+    "songName": "Một triệu like",
+    "image": "./assets/img/den/mottrieulike.png",
+    "singer": [
+      "Đen Vâu"
+
+    ] ,
+    "song": "./assets/song/mottrieulike.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 2
+  },
+  {
+    "id": 81,
+    "songName": "Mười năm",
+    "image": "./assets/img/den/muoinam.png",
+    "singer": [
+      "Đen Vâu",
+      "Ngọc Linh" 
+     
+    ] ,
+    "song": "./assets/song/muoinam.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 2
+  },
+  {
+    "id": 82,
+    "songName": "Trời hôm nay nhiều mây cực",
+    "image": "./assets/img/den/troihomnaynhieumaycuc.png",
+    "singer": [
+      "Đen Vâu"
+    ] ,
+    "song": "./assets/song/troihomnaynhieumaycuc.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 2
+  },
+  {
+    "id": 83,
+    "songName": "Hai triệu năm",
+    "image": "./assets/img/den/haitrieunam.png",
+    "singer": [
+      "Đen Vâu"
+    ] ,
+    "song": "./assets/song/haitrieunam.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 2
+  },
+
+  {
+    "id": 84,
+    "songName": "Nước mắt em thay bằng tình yêu mới",
+    "image": "./assets/img/dalab/nuocmatemthaybangtinhyeumoi.png",
+    "singer": [
+      "Da LAB",
+      "Tóc Tiên"
+    ] ,
+    "song": "./assets/song/nuocmatemthaybangtinhyeumoi.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 1
+  },
+  {
+    "id": 85,
+    "songName": "Thanh xuân",
+    "image": "./assets/img/dalab/thanhxuan.png",
+    "singer": [
+      "Da LAB"
+    ] ,
+    "song": "./assets/song/thanhxuan.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 1
+  },
+  {
+    "id": 86,
+    "songName": "Từ ngày em đến",
+    "image": "./assets/img/dalab/tungayemden.png",
+    "singer": [
+      "Da LAB"
+    ] ,
+    "song": "./assets/song/tungayemden.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 1
+  },
+  {
+    "id": 87,
+    "songName": "Thức giấc",
+    "image": "./assets/img/dalab/thucgiac.png",
+    "singer": [
+      "Da LAB"
+    ] ,
+    "song": "./assets/song/thucgiac.mp3",
+    "render": 1,
+    "AlbumHot": 7,
+    "content_owner": 1
+  },
+  {
+    "id": 88,
+    "songName": "Gác lại lo âu",
+    "image": "./assets/img/dalab/gaclailoau.png",
+    "singer": [
+      "Da LAB",
+      "Miu Lê"
+    ] ,
+    "song": "./assets/song/gaclailoau.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 1
+  },
+  {
+    "id": 89,
+    "songName": "Chạy khỏi thế giới này",
+    "image": "./assets/img/dalab/chaykhoithegioinay.png",
+    "singer": [
+      "Da LAB",
+      "Phương Ly"
+    ] ,
+    "song": "./assets/song/chaykhoithegioinay.mp3",
+    "render": 1,
+    "AlbumHot": 7,
+    "content_owner": 1
+  },
+  {
+    "id": 90,
+    "songName": "Cheap Thrills",
+    "image": "./assets/img/sia/CheapThrills.png",
+    "singer": [
+      "Sia"
+    ] ,
+    "song": "./assets/song/CheapThrills.mp3",
+    "render": 1,
+    "AlbumHot": 6,
+    "content_owner": 3
+  },
+  {
+    "id": 91,
+    "songName": "Thunderclouds",
+    "image": "./assets/img/sia/Thunderclouds.png",
+    "singer": [
+      "Sia",
+      "LDS",
+      "Diplo"
+    ] ,
+    "song": "./assets/song/Thunderclouds.mp3",
+    "render": 1,
+    "AlbumHot": 6,
+    "content_owner": 3
+  },
+  {
+    "id": 92,
+    "songName": "Snowman",
+    "image": "./assets/img/sia/Snowman.png",
+    "singer": [
+      "Sia"
+    ] ,
+    "song": "./assets/song/Snowman.mp3",
+    "render": 1,
+    "AlbumHot": 6,
+    "content_owner": 3
+  },
+  {
+    "id": 93,
+    "songName": "See You Again",
+    "image": "./assets/img/usukGayNgien/SeeYouAgain.png",
+    "singer": [
+      "Wiz Khalifa",
+      "Charlie Puth"
+    ] ,
+    "song": "./assets/song/SeeYouAgain.mp3",
+    "render": 1,
+    "AlbumHot": 6,
+    "content_owner": 0
+  },
+
+  {
+    "id": 94,
+    "songName": "Hymn For The Weekend",
+    "image": "./assets/img/usukGayNgien/HymnForTheWeekend.png",
+    "singer": [
+      "Coldplay"
+    ] ,
+    "song": "./assets/song/HymnForTheWeekend.mp3",
+    "render": 0,
+    "AlbumHot": 6,
+    "content_owner": 0
+  },
+  {
+    "id": 95,
+    "songName": "Waiting For Love",
+    "image": "./assets/img/usukGayNgien/WaitingForLove.png",
+    "singer": [
+      "Avicii"
+    ] ,
+    "song": "./assets/song/WaitingForLove.mp3",
+    "render": 1,
+    "AlbumHot": 6,
+    "content_owner": 0
+  },
+  {
+    "id": 96,
+    "songName": "Elastic Heart",
+    "image": "./assets/img/sia/ElasticHeart.png",
+    "singer": [
+      "Sia"
+    ] ,
+    "song": "./assets/song/ElasticHeart.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 3
+  },
+
+  {
+    "id": 97,
+    "songName": "Beautiful Now",
+    "image": "./assets/img/usukGayNgien/BeautifulNow.png",
+    "singer": [
+      "Sia"
+    ] ,
+    "song": "./assets/song/BeautifulNow.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 3
+  },
+
+  {
+    "id": 98,
+    "songName": "Muộn rồi mà sao còn",
+    "image": "./assets/img/mtp/muonroimasaocon.png",
+    "singer": [
+      "Sơn Tùng M-TP"
+    ] ,
+    "song": "./assets/song/muonroimasaocon.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 6
+  },
+  {
+    "id": 99,
+    "songName": "Lạc trôi",
+    "image": "./assets/img/mtp/lactroi.png",
+    "singer": [
+      "Sơn Tùng M-TP"
+    ] ,
+    "song": "./assets/song/lactroi.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 6
+  },
+  {
+    "id": 100,
+    "songName": "Titanium",
+    "image": "./assets/img/sia/Titanium.png",
+    "singer": [
+      "David Guetta",
+      "Sia"
+    ] ,
+    "song": "./assets/song/Titanium.mp3",
+    "render": 1,
+    "AlbumHot": 6,
+    "content_owner": 3
+  },
+  {
+    "id": 101,
+    "songName": "More Than You Know",
+    "image": "./assets/img/usukGayNgien/MoreThanYouKnow.png",
+    "singer": [
+      "Axwell Λ Ingrosso"
+    ] ,
+    "song": "./assets/song/MoreThanYouKnow.mp3",
+    "render": 1,
+    "AlbumHot": 6,
+    "content_owner": 0
+  },
+  {
+    "id": 102,
+    "songName": "Marry You",
+    "image": "./assets/img/BrunoMars/MarryYou.png",
+    "singer": [
+      "Bruno Mars"
+    ] ,
+    "song": "./assets/song/MarryYou.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 4
+  },
+
+  {
+    "id": 103,
+    "songName": "Believer",
+    "image": "./assets/img/ImagineDragons/Believer.png",
+    "singer": [
+      "Imagine Dragons"
+    ] ,
+    "song": "./assets/song/Believer.mp3",
+    "render": 0,
+    "AlbumHot": 7,
+    "content_owner": 5
+  },
+
+  {
+    "id": 104,
+    "songName": "Thunder",
+    "image": "./assets/img/ImagineDragons/Thunder.png",
+    "singer": [
+      "Imagine Dragons"
+    ] ,
+    "song": "./assets/song/Thunder.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 5
+  },
+
+
+  {
+    "id": 105,
+    "songName": "Talking To The Moon",
+    "image": "./assets/img/BrunoMars/TalkingToTheMoon.png",
+    "singer": [
+      "Bruno Mars"
+    ] ,
+    "song": "./assets/song/TalkingToTheMoon.mp3",
+    "render": 1,
+    "AlbumHot": 6,
+    "content_owner": 4
+  },
+
+  {
+    "id": 106,
+    "songName": "There For You",
+    "image": "./assets/img/usukGayNgien/ThereForYou.png",
+    "singer": [
+      "Martin Garrix",
+      "Troye Sivan"
+
+    ] ,
+    "song": "./assets/song/ThereForYou.mp3",
+    "render": 0,
+    "AlbumHot": 6,
+    "content_owner": 11
+  },
+  {
+    "id": 107,
+    "songName": "Head In The Clouds",
+    "image": "./assets/img/usukGayNgien/HeadInTheClouds.png",
+    "singer": [
+      "Hayd"
+
+    ] ,
+    "song": "./assets/song/HeadInTheClouds.mp3",
+    "render": 0,
+    "AlbumHot": 6,
+    "content_owner": 0
+  },
+  {
+    "id": 108,
+    "songName": "The Lazy Song",
+    "image": "./assets/img/BrunoMars/TheLazySong.png",
+    "singer": [
+      "Bruno Mars"
+    ] ,
+    "song": "./assets/song/TheLazySong.mp3",
+    "render": 0,
+    "AlbumHot": 6,
+    "content_owner": 4
+  },
+
+  {
+    "id": 109,
+    "songName": "Radioactive",
+    "image": "./assets/img/ImagineDragons/Radioactive.png",
+    "singer": [
+      "Imagine Dragons"
+    ] ,
+    "song": "./assets/song/Radioactive.mp3",
+    "render": 0,
+    "AlbumHot": 6,
+    "content_owner": 5
+  },
+
+  {
+    "id": 110,
+    "songName": "Chúng ta của hiện tại",
+    "image": "./assets/img/mtp/chungtacuahientai.png",
+    "singer": [
+      "Sơn Tùng M-TP"
+    ] ,
+    "song": "./assets/song/chungtacuahientai.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 6
+  },
+
+
+  {
+    "id": 111,
+    "songName": "Hello",
+    "image": "./assets/img/adele/hello.png",
+    "singer": [
+      "Adele"
+    ] ,
+    "song": "./assets/song/hello.mp3",
+    "render": 0,
+    "AlbumHot": 6,
+    "content_owner": 7
+  },
+
+  {
+    "id": 112,
+    "songName": "Rolling in the Deep",
+    "image": "./assets/img/adele/RollingintheDeep.png",
+    "singer": [
+      "Adele"
+    ] ,
+    "song": "./assets/song/RollingintheDeep.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 7
+  },
+
+
+  {
+    "id": 113,
+    "songName": "Whatever It Takes",
+    "image": "./assets/img/ImagineDragons/WhateverItTakes.png",
+    "singer": [
+      "Imagine Dragons"
+    ] ,
+    "song": "./assets/song/WhateverItTakes.mp3",
+    "render": 0,
+    "AlbumHot": 6,
+    "content_owner": 5
+  },
+
+  {
+    "id": 114,
+    "songName": "That's What I Like ",
+    "image": "./assets/img/BrunoMars/ThatWhatILike .png",
+    "singer": [
+      "Bruno Mars"
+    ] ,
+    "song": "./assets/song/ThatWhatILike .mp3",
+    "render": 0,
+    "AlbumHot": 6,
+    "content_owner": 4
+  },
+
+
+  {
+    "id": 115,
+    "songName": "Just The Way You Are",
+    "image": "./assets/img/BrunoMars/JustTheWayYouAre .png",
+    "singer": [
+      "Bruno Mars"
+    ] ,
+    "song": "./assets/song/JustTheWayYouAre .mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 4
+  },
+
+  {
+    "id": 116,
+    "songName": "Bad Liar",
+    "image": "./assets/img/ImagineDragons/BadLiar.png",
+    "singer": [
+      "Imagine Dragons"
+    ] ,
+    "song": "./assets/song/BadLiar.mp3",
+    "render": 0,
+    "AlbumHot": 6,
+    "content_owner": 5
+  },
+
+  {
+    "id": 117,
+    "songName": "Nutural",
+    "image": "./assets/img/ImagineDragons/Nutural.png",
+    "singer": [
+      "Imagine Dragons"
+    ] ,
+    "song": "./assets/song/Nutural.mp3",
+    "render": 0,
+    "AlbumHot": 6,
+    "content_owner": 5
+  },
+
+  {
+    "id": 118,
+    "songName": "Someone Like You",
+    "image": "./assets/img/adele/SomeoneLikeYou.png",
+    "singer": [
+      "Adele"
+    ] ,
+    "song": "./assets/song/SomeoneLikeYou.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 7
+  },
+
+  {
+    "id": 119,
+    "songName": "Set Fire To The Rain",
+    "image": "./assets/img/adele/SetFireToTheRain.png",
+    "singer": [
+      "Adele"
+    ] ,
+    "song": "./assets/song/SetFireToTheRain.mp3",
+    "render": 0,
+    "AlbumHot": 6,
+    "content_owner": 7
+  },
+
+
+  {
+    "id": 120,
+    "songName": "Hay trao cho anh",
+    "image": "./assets/img/mtp/haytraochoanh.png",
+    "singer": [
+      "Sơn Tùng M-TP",
+      "Snoop Dogg"
+
+    ] ,
+    "song": "./assets/song/haytraochoanh.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 6
+  },
+  
+  {
+    "id": 121,
+    "songName": "Closer",
+    "image": "./assets/img/usukGayNgien/Closer.png",
+    "singer": [
+      "The Chainsmokers"
+    ] ,
+    "song": "./assets/song/Closer.mp3",
+    "render": 0,
+    "AlbumHot": 6,
+    "content_owner": 0
+  },
+
+    
+  {
+    "id": 122,
+    "songName": "Symphony",
+    "image": "./assets/img/usukGayNgien/Symphony.png",
+    "singer": [
+      "Clean Bandit"
+    ] ,
+    "song": "./assets/song/Symphony.mp3",
+    "render": 0,
+    "AlbumHot": 6,
+    "content_owner": 0
+  },
+
+  {
+    "id": 123,
+    "songName": "Treat You Better",
+    "image": "./assets/img/usukGayNgien/TreatYouBetter.png",
+    "singer": [
+      "Shawn Mendes"
+    ] ,
+    "song": "./assets/song/TreatYouBetter.mp3",
+    "render": 0,
+    "AlbumHot": 6,
+    "content_owner": 0
+  },
+
+  {
+    "id": 124,
+    "songName": "Dusk Till Dawn",
+    "image": "./assets/img/usukGayNgien/DuskTillDawn.png",
+    "singer": [
+      "ZAYN",
+      "Sia"
+    ] ,
+    "song": "./assets/song/DuskTillDawn.mp3",
+    "render": 0,
+    "AlbumHot": 6,
+    "content_owner": 0
+  },
+  {
+    "id": 125,
+    "songName": "Có chắc yêu là đây",
+    "image": "./assets/img/mtp/cochacyeuladay.png",
+    "singer": [
+      "Sơn Tùng M-TP"
+    ] ,
+    "song": "./assets/song/cochacyeuladay.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 6
   }
+
+
+
 ],
 
   "TopAlbumHot": {
@@ -1054,7 +1695,7 @@
   "singer" : [
       {
         "id" : 1,
-        "name" : "DALAB",
+        "name" : "Da LAB",
         "type" : "Nhóm nhạc",
         "image" : "./assets/img/singers/dalab.png"
       },
@@ -1096,11 +1737,34 @@
       },
       {
         "id" : 8,
-        "name" : "BlackPink",
-        "type" : "Nhóm nhạc",
-        "image" : "./assets/img/singer/bb.png"
+        "name" : "Alan Walker",
+        "type" : "DJ",
+        "image" : "./assets/img/singer/alanwalker.png"
+      },
+      {
+        "id" : 9,
+        "name" : "Taylor Swift",
+        "type" : "Ca sĩ",
+        "image" : "./assets/img/singer/TaylorSwift.png"
+      },
+      {
+        "id" : 10,
+        "name" : "Ed Sheeran",
+        "type" : "Ca sĩ",
+        "image" : "./assets/img/singer/EdSheeran.png"
+      },
+      {
+        "id" : 11,
+        "name" : "Martin Garrix",
+        "type" : "DJ",
+        "image" : "./assets/img/singer/MartinGarrix.png"
+      },
+      {
+        "id" : 12,
+        "name" : "Justin Bieber",
+        "type" : "Ca sĩ",
+        "image" : "./assets/img/singer/JB.png"
       }
-
     ]
   
 
