@@ -325,7 +325,7 @@
         "Tăng Duy Tân"
       ],
       "song": "./assets/song/bentrentanglau.mp3",
-      "render": 2,
+      "render": 0,
       "AlbumHot": 7,
       "content_owner": 0
 
@@ -864,7 +864,7 @@
       "Phúc Du"
     ] ,
     "song": "./assets/song/yeuanhdimeanhbanbanhmi.mp3",
-    "render": 2,
+    "render": 0,
     "AlbumHot": 7,
     "content_owner": 0
   },
@@ -890,7 +890,7 @@
       "Kewtiie"
     ] ,
     "song": "./assets/song/ngumotminh.mp3",
-    "render": 2,
+    "render": 0,
     "AlbumHot": 7,
     "content_owner": 0
   },
@@ -903,7 +903,7 @@
       "911"
     ] ,
     "song": "./assets/song/emdongy.mp3",
-    "render": 2,
+    "render": 0,
     "AlbumHot": 7,
     "content_owner": 0
   },
@@ -916,7 +916,7 @@
       "2Pillz"
     ] ,
     "song": "./assets/song/neulucdo.mp3",
-    "render": 2,
+    "render": 0,
     "AlbumHot": 7,
     "content_owner": 0
   },
@@ -930,7 +930,7 @@
       "GRAY D"
     ] ,
     "song": "./assets/song/detoiomembanggiaidieunay.mp3",
-    "render": 2,
+    "render": 0,
     "AlbumHot": 7,
     "content_owner": 0
   },
@@ -944,7 +944,7 @@
       "DREAMeR"
     ] ,
     "song": "./assets/song/1111.mp3",
-    "render": 2,
+    "render": 0,
     "AlbumHot": 7,
     "content_owner": 0
   },
@@ -970,7 +970,7 @@
       "O.lew"
     ] ,
     "song": "./assets/song/roitasengamphaohoacungnhau.mp3",
-    "render": 2,
+    "render": 0,
     "AlbumHot": 7,
     "content_owner": 0
   },
