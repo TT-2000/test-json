@@ -991,7 +991,7 @@
   {
     "id": 78,
     "songName": "Ngày Khác Lạ",
-    "image": "./assets/img/denvau/ngaykhacla.png",
+    "image": "./assets/img/den/ngaykhacla.png",
     "singer": [
       "Đen Vâu",
       "Giang Phạm", 
@@ -1118,7 +1118,7 @@
   {
     "id": 88,
     "songName": "Gác lại lo âu",
-    "image": "./assets/img/dalab/gaclailoau.png",
+    "image": "./assets/img/dalab/gaclaiaulo.png",
     "singer": [
       "Da LAB",
       "Miu Lê"
@@ -1455,11 +1455,11 @@
   {
     "id": 114,
     "songName": "That's What I Like ",
-    "image": "./assets/img/BrunoMars/ThatWhatILike .png",
+    "image": "./assets/img/BrunoMars/ThatWhatILike.png",
     "singer": [
       "Bruno Mars"
     ] ,
-    "song": "./assets/song/ThatWhatILike .mp3",
+    "song": "./assets/song/ThatWhatILike.mp3",
     "render": 0,
     "AlbumHot": 6,
     "content_owner": 4
@@ -1469,11 +1469,11 @@
   {
     "id": 115,
     "songName": "Just The Way You Are",
-    "image": "./assets/img/BrunoMars/JustTheWayYouAre .png",
+    "image": "./assets/img/BrunoMars/JustTheWayYouAre.png",
     "singer": [
       "Bruno Mars"
     ] ,
-    "song": "./assets/song/JustTheWayYouAre .mp3",
+    "song": "./assets/song/JustTheWayYouAre.mp3",
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 4
@@ -1494,12 +1494,12 @@
 
   {
     "id": 117,
-    "songName": "Nutural",
-    "image": "./assets/img/ImagineDragons/Nutural.png",
+    "songName": "Natural",
+    "image": "./assets/img/ImagineDragons/Natural.png",
     "singer": [
       "Imagine Dragons"
     ] ,
-    "song": "./assets/song/Nutural.mp3",
+    "song": "./assets/song/Natural.mp3",
     "render": 0,
     "AlbumHot": 6,
     "content_owner": 5
