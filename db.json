@@ -1764,6 +1764,12 @@
         "name" : "Justin Bieber",
         "type" : "Ca sĩ",
         "image" : "./assets/img/singer/JB.png"
+      },
+      {
+        "id" : 13,
+        "name" : "Blackpink",
+        "type" : "Ca sĩ",
+        "image" : "./assets/img/singer/bb.png"
       }
     ]
   
