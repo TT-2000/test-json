@@ -10,7 +10,10 @@
       "song": "./assets/song/giacmokhac.mp3",
       "render": 1,
       "AlbumHot": 7,
-      "content_owner": 0
+      "content_owner": 0,
+      "albumVN": 0,
+      "ranking": 0,
+      "album": 0
   },
   {
       "id": 2,
@@ -22,7 +25,10 @@
       "song": "./assets/song/WaitingForYou.mp3",
       "render": 1,
       "AlbumHot": 7,
-      "content_owner": 0
+      "content_owner": 0,
+      "albumVN": 0,
+      "ranking": 0,
+      "album": 0
   },
   {
       "id": 3,
@@ -35,7 +41,10 @@
       "song": "./assets/song/luonyeudoi.mp3",
       "render": 1,
       "AlbumHot": 7,
-      "content_owner": 2
+      "content_owner": 2,
+      "albumVN": 0,
+      "ranking": 0,
+      "album": 0
   },
   {
       "id": 4,
@@ -47,7 +56,10 @@
       "song": "./assets/song/anhtudonhungcodon.mp3",
       "render": 1,
       "AlbumHot": 0,
-      "content_owner": 0
+      "content_owner": 0,
+      "albumVN": 0,
+      "ranking": 0,
+      "album": 0
   },
   {
       "id": 5,
@@ -60,7 +72,10 @@
       "song": "./assets/song/Stay.mp3",
       "render": 1,
       "AlbumHot": 3,
-      "content_owner": 12
+      "content_owner": 12,
+      "albumVN": 0,
+      "ranking": 0,
+      "album": 0
   },
   {
       "id": 6,
@@ -73,7 +88,10 @@
       "song": "./assets/song/Hero.mp3",
       "render": 1,
       "AlbumHot": 6,
-      "content_owner": 11
+      "content_owner": 11,
+      "albumVN": 0,
+      "ranking": 0,
+      "album": 0
 
       
   },
@@ -88,7 +106,10 @@
       "song": "./assets/song/Unholy.mp3",
       "render": 1,
       "AlbumHot": 6,
-      "content_owner": 0
+      "content_owner": 0,
+      "albumVN": 0,
+      "ranking": 0,
+      "album": 0
 
       
   },
@@ -103,7 +124,10 @@
       "song": "./assets/song/ILikeYou.mp3",
       "render": 1,
       "AlbumHot": 6,
-      "content_owner": 0
+      "content_owner": 0,
+      "albumVN": 0,
+      "ranking": 0,
+      "album": 0
   },
   {
       "id": 9,
@@ -115,7 +139,10 @@
       "song": "./assets/song/anhchuathuongemdenvaydau.mp3",
       "render": 2,
       "AlbumHot": 0,
-      "content_owner": 0
+      "content_owner": 0,
+      "albumVN": 0,
+      "ranking": 0,
+      "album": 0
 
       
   },
@@ -129,7 +156,10 @@
         "song": "./assets/song/kiabongdangai.mp3",
       "render": 2,
       "AlbumHot": 7,
-      "content_owner": 0
+      "content_owner": 0,
+      "albumVN": 0,
+      "ranking": 0,
+      "album": 0
 
       
   },
@@ -143,7 +173,10 @@
       "song": "./assets/song/boxibo.mp3",
       "render": 2,
       "AlbumHot": 0,
-      "content_owner": 0
+      "content_owner": 0,
+      "albumVN": 0,
+      "ranking": 0,
+      "album": 0
 
       
   },
@@ -159,7 +192,10 @@
       "song": "./assets/song/ghevaotai.mp3",
       "render": 2,
       "AlbumHot": 7,
-      "content_owner": 0
+      "content_owner": 0,
+      "albumVN": 0,
+      "ranking": 0,
+      "album": 0
 
       
   },
@@ -175,7 +211,10 @@
       "song": "./assets/song/loitambietchuanoi.mp3",
       "render": 2,
       "AlbumHot": 7,
-      "content_owner": 0
+      "content_owner": 0,
+      "albumVN": 0,
+      "ranking": 0,
+      "album": 0
 
   },
   {
@@ -188,7 +227,10 @@
       "song": "./assets/song/HereWithMe.mp3",
       "render": 2,
       "AlbumHot": 6,
-      "content_owner": 0
+      "content_owner": 0,
+      "albumVN": 0,
+      "ranking": 0,
+      "album": 0
 
       
   },
@@ -202,7 +244,10 @@
       "song": "./assets/song/Flowers.mp3",
       "render": 2,
       "AlbumHot": 6,
-      "content_owner": 0
+      "content_owner": 0,
+      "albumVN": 0,
+      "ranking": 0,
+      "album": 0
 
       
   },
@@ -217,7 +262,10 @@
       "song": "./assets/song/HowlingAtTheMoon.mp3",
       "render": 2,
       "AlbumHot": 6,
-      "content_owner": 0
+      "content_owner": 0,
+      "albumVN": 0,
+      "ranking": 0,
+      "album": 0
 
       
   },
@@ -232,7 +280,10 @@
       "song": "./assets/song/Made-You-Look-Meghan-Trainor 01.55.44.mp3",
       "render": 2,
       "AlbumHot": 6,
-      "content_owner": 0
+      "content_owner": 0,
+      "albumVN": 0,
+      "ranking": 0,
+      "album": 0
 
       
   },
@@ -247,7 +298,10 @@
       "song": "./assets/song/Open-Arms.mp3",
       "render": 2,
       "AlbumHot": 6,
-      "content_owner": 0
+      "content_owner": 0,
+      "albumVN": 0,
+      "ranking": 0,
+      "album": 0
   },
   {
       "id": 19,
@@ -260,7 +314,10 @@
       "song": "./assets/song/Catch.mp3",
       "render": 2,
       "AlbumHot": 7,
-      "content_owner": 0
+      "content_owner": 0,
+      "albumVN": 0,
+      "ranking": 0,
+      "album": 0
 
   },
   {
@@ -273,7 +330,10 @@
       "song": "./assets/song/OMG-NewJeans.mp3",
       "render": 2,
       "AlbumHot": 7,
-      "content_owner": 0
+      "content_owner": 0,
+      "albumVN": 0,
+      "ranking": 0,
+      "album": 0
 
       
   },
@@ -287,7 +347,10 @@
       "song": "./assets/song/Yesterday-Jay-Park.mp3",
       "render": 2,
       "AlbumHot": 7,
-      "content_owner": 0
+      "content_owner": 0,
+      "albumVN": 0,
+      "ranking": 0,
+      "album": 0
 
       
   },
@@ -301,7 +364,10 @@
         "song": "./assets/song/Rising-Triples.mp3",
       "render": 2,
       "AlbumHot": 7,
-      "content_owner": 0
+      "content_owner": 0,
+      "albumVN": 0,
+      "ranking": 0,
+      "album": 0
   },
   
   {
@@ -314,7 +380,10 @@
       "song": "./assets/song/Shut-Down-BLACKPINK.mp3",
       "render": 2,
       "AlbumHot": 7,
-      "content_owner": 0
+      "content_owner": 0,
+      "albumVN": 0,
+      "ranking": 0,
+      "album": 0
 
   },
   {
@@ -327,7 +396,10 @@
       "song": "./assets/song/bentrentanglau.mp3",
       "render": 0,
       "AlbumHot": 7,
-      "content_owner": 0
+      "content_owner": 0,
+      "albumVN": 0,
+      "ranking": 0,
+      "album": 0
 
   },
 
@@ -341,7 +413,10 @@
     "song": "./assets/song/SingMetoSleep.mp3",
     "render": false,
     "AlbumHot": 1,
-    "content_owner": 7
+    "content_owner": 7,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 26,
@@ -354,7 +429,10 @@
     "song": "./assets/song",
     "render": false,
     "AlbumHot": 1,
-    "content_owner": 7
+    "content_owner": 7,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 27,
@@ -367,7 +445,10 @@
     "song": "./assets/song/HelloWorld.mp3",
     "render": false,
     "AlbumHot": 1,
-    "content_owner": 7
+    "content_owner": 7,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 28,
@@ -379,7 +460,10 @@
     "song": "./assets/song/TheSpectre.mp3",
     "render": false,
     "AlbumHot": 1,
-    "content_owner": 7
+    "content_owner": 7,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 29,
@@ -391,7 +475,10 @@
     "song": "./assets/song/Play.mp3",
     "render": false,
     "AlbumHot": 1,
-    "content_owner": 7
+    "content_owner": 7,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 30,
@@ -403,7 +490,10 @@
     "song": "./assets/song/Lily.mp3",
     "render": false,
     "AlbumHot": 1,
-    "content_owner": 7
+    "content_owner": 7,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 31,
@@ -415,7 +505,10 @@
     "song": "./assets/song/Faded.mp3",
     "render": false,
     "AlbumHot": 1,
-    "content_owner": 7
+    "content_owner": 7,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 32,
@@ -427,7 +520,10 @@
     "song": "./assets/song/AllFallsDown.mp3",
     "render": false,
     "AlbumHot": 1,
-    "content_owner": 7
+    "content_owner": 7,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 33,
@@ -439,7 +535,10 @@
     "song": "./assets/song/OnMyWay.mp3",
     "render": false,
     "AlbumHot": 1,
-    "content_owner": 7
+    "content_owner": 7,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 34,
@@ -452,7 +551,10 @@
     "song": "./assets/song/EndofTime.mp3",
     "render": false,
     "AlbumHot": 1,
-    "content_owner": 7
+    "content_owner": 7,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 35,
@@ -465,7 +567,10 @@
     "song": "./assets/song/ignite.mp3",
     "render": false,
     "AlbumHot": 1,
-    "content_owner": 7
+    "content_owner": 7,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 36,
@@ -477,7 +582,10 @@
     "song": "./assets/song/LookWhatYouMadeMeDo.mp3",
     "render": false,
     "AlbumHot": 2,
-    "content_owner": 9
+    "content_owner": 9,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 37,
@@ -489,7 +597,10 @@
     "song": "./assets/song/BlankSpace.mp3",
     "render": false,
     "AlbumHot": 2,
-    "content_owner": 9
+    "content_owner": 9,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 38,
@@ -501,7 +612,10 @@
     "song": "./assets/song/Gorgeous.mp3",
     "render": false,
     "AlbumHot": 2,
-    "content_owner": 9
+    "content_owner": 9,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 39,
@@ -513,7 +627,10 @@
     "song": "./assets/song/LoveStory.mp3",
     "render": false,
     "AlbumHot": 2,
-    "content_owner": 9
+    "content_owner": 9,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 40,
@@ -525,7 +642,10 @@
     "song": "./assets/song/readyForIt.mp3",
     "render": 1,
     "AlbumHot": 2,
-    "content_owner": 9
+    "content_owner": 9,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 41,
@@ -537,7 +657,10 @@
     "song": "./assets/song/Sorry.mp3",
     "render": 1,
     "AlbumHot": 3,
-    "content_owner": 9
+    "content_owner": 9,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 42,
@@ -549,7 +672,10 @@
     "song": "./assets/song/WhatDoYouMean.mp3",
     "render": false,
     "AlbumHot": 3,
-    "content_owner": 12
+    "content_owner": 12,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 43,
@@ -561,7 +687,10 @@
     "song": "./assets/song/LoveYourself.mp3",
     "render": false,
     "AlbumHot": 3,
-    "content_owner": 12
+    "content_owner": 12,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 44,
@@ -574,7 +703,10 @@
     "song": "./assets/song/LetMeLoveYou.mp3",
     "render": false,
     "AlbumHot": 3,
-    "content_owner": 12
+    "content_owner": 12,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 45,
@@ -588,7 +720,10 @@
     "song": "./assets/song/Peaches.mp3",
     "render": 1,
     "AlbumHot": 3,
-    "content_owner": 12
+    "content_owner": 12,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 46,
@@ -600,7 +735,10 @@
     "song": "./assets/song/ShapeofYou.mp3",
     "render": false,
     "AlbumHot": 4,
-    "content_owner": 10
+    "content_owner": 10,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 47,
@@ -612,7 +750,10 @@
     "song": "./assets/song/Photograph.mp3",
     "render": 1,
     "AlbumHot": 4,
-    "content_owner": 10
+    "content_owner": 10,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 48,
@@ -624,7 +765,10 @@
     "song": "./assets/song/Perfect.mp3",
     "render": 1,
     "AlbumHot": 4,
-    "content_owner": 10
+    "content_owner": 10,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 49,
@@ -636,7 +780,10 @@
     "song": "./assets/song/ThinkingOutLoud.mp3",
     "render": 1,
     "AlbumHot": 4,
-    "content_owner": 10
+    "content_owner": 10,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 50,
@@ -648,7 +795,10 @@
     "song": "./assets/song/BadHabits.mp3",
     "render": 1,
     "AlbumHot": 4,
-    "content_owner": 10
+    "content_owner": 10,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 51,
@@ -660,7 +810,10 @@
     "song": "./assets/song/Decisions.mp3",
     "render": false,
     "AlbumHot": 5,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 52,
@@ -672,7 +825,10 @@
     "song": "./assets/song/gloom.mp3",
     "render": false,
     "AlbumHot": 5,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 53,
@@ -684,7 +840,10 @@
     "song": "./assets/song/bemine.mp3",
     "render": false,
     "AlbumHot": 5,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 54,
@@ -696,7 +855,10 @@
     "song": "./assets/song/bestgirl.mp3",
     "render": false,
     "AlbumHot": 5,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 55,
@@ -708,7 +870,10 @@
     "song": "./assets/song/flamingosis.mp3",
     "render": false,
     "AlbumHot": 5,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 56,
@@ -720,7 +885,10 @@
     "song": "./assets/song/Sunflowers.mp3",
     "render": false,
     "AlbumHot": 5,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 57,
@@ -732,7 +900,10 @@
     "song": "./assets/song/nightdriving.mp3",
     "render": false,
     "AlbumHot": 5,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 58,
@@ -744,7 +915,10 @@
     "song": "./assets/song/jhfly.mp3",
     "render": false,
     "AlbumHot": 5,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 59,
@@ -756,7 +930,10 @@
     "song": "./assets/song/Springtimestroll.mp3",
     "render": false,
     "AlbumHot": 5,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 60,
@@ -768,7 +945,10 @@
     "song": "./assets/song/callme.mp3",
     "render": false,
     "AlbumHot": 5,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 61,
@@ -780,7 +960,10 @@
     "song": "./assets/song/romance.mp3",
     "render": false,
     "AlbumHot": 5,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 62,
@@ -792,7 +975,10 @@
     "song": "./assets/song/joubeats.mp3",
     "render": false,
     "AlbumHot": 5,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 63,
@@ -804,7 +990,10 @@
     "song": "./assets/song/samuraiguru.mp3",
     "render": false,
     "AlbumHot": 5,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 64,
@@ -816,7 +1005,10 @@
     "song": "./assets/song/guessillleave.mp3",
     "render": false,
     "AlbumHot": 5,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 65,
@@ -828,7 +1020,10 @@
     "song": "./assets/song/burbank.mp3",
     "render": false,
     "AlbumHot": 5,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
 
   {
@@ -841,7 +1036,10 @@
     "song": "./assets/song/HeartbreakAnniversary.mp3",
     "render": 1,
     "AlbumHot": 6,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
 
   {
@@ -854,7 +1052,10 @@
     "song": "./assets/song/LIKEIWANTYOU.mp3",
     "render": 1,
     "AlbumHot": 6,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 68,
@@ -866,7 +1067,10 @@
     "song": "./assets/song/yeuanhdimeanhbanbanhmi.mp3",
     "render": 0,
     "AlbumHot": 7,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 69,
@@ -878,7 +1082,10 @@
     "song": "./assets/song/ungquatrung.mp3",
     "render": 1,
     "AlbumHot": 7,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 70,
@@ -892,7 +1099,10 @@
     "song": "./assets/song/ngumotminh.mp3",
     "render": 0,
     "AlbumHot": 7,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 71,
@@ -905,7 +1115,10 @@
     "song": "./assets/song/emdongy.mp3",
     "render": 0,
     "AlbumHot": 7,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 72,
@@ -918,7 +1131,10 @@
     "song": "./assets/song/neulucdo.mp3",
     "render": 0,
     "AlbumHot": 7,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 73,
@@ -932,7 +1148,10 @@
     "song": "./assets/song/detoiomembanggiaidieunay.mp3",
     "render": 0,
     "AlbumHot": 7,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 74,
@@ -946,7 +1165,10 @@
     "song": "./assets/song/1111.mp3",
     "render": 0,
     "AlbumHot": 7,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 75,
@@ -960,7 +1182,10 @@
     "song": "./assets/song/bimatnho.mp3",
     "render": false,
     "AlbumHot": 7,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 76,
@@ -972,7 +1197,10 @@
     "song": "./assets/song/roitasengamphaohoacungnhau.mp3",
     "render": 0,
     "AlbumHot": 7,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 77,
@@ -984,7 +1212,10 @@
     "song": "./assets/song/UntilIFoundYou.mp3",
     "render": 1,
     "AlbumHot": 7,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
 
 
@@ -1000,7 +1231,10 @@
     "song": "./assets/song/ngaykhacla.mp3",
     "render": 0,
     "AlbumHot": 0,
-    "content_owner": 2
+    "content_owner": 2,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 79,
@@ -1012,7 +1246,10 @@
     "song": "./assets/song/trontim.mp3",
     "render": 0,
     "AlbumHot": 0,
-    "content_owner": 2
+    "content_owner": 2,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 80,
@@ -1025,7 +1262,10 @@
     "song": "./assets/song/mottrieulike.mp3",
     "render": 0,
     "AlbumHot": 0,
-    "content_owner": 2
+    "content_owner": 2,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 81,
@@ -1039,7 +1279,10 @@
     "song": "./assets/song/muoinam.mp3",
     "render": 0,
     "AlbumHot": 0,
-    "content_owner": 2
+    "content_owner": 2,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 82,
@@ -1051,7 +1294,10 @@
     "song": "./assets/song/troihomnaynhieumaycuc.mp3",
     "render": 0,
     "AlbumHot": 0,
-    "content_owner": 2
+    "content_owner": 2,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 83,
@@ -1063,7 +1309,10 @@
     "song": "./assets/song/haitrieunam.mp3",
     "render": 0,
     "AlbumHot": 0,
-    "content_owner": 2
+    "content_owner": 2,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
 
   {
@@ -1077,7 +1326,10 @@
     "song": "./assets/song/nuocmatemthaybangtinhyeumoi.mp3",
     "render": 0,
     "AlbumHot": 0,
-    "content_owner": 1
+    "content_owner": 1,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 85,
@@ -1089,7 +1341,10 @@
     "song": "./assets/song/thanhxuan.mp3",
     "render": 0,
     "AlbumHot": 0,
-    "content_owner": 1
+    "content_owner": 1,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 86,
@@ -1101,7 +1356,10 @@
     "song": "./assets/song/tungayemden.mp3",
     "render": 0,
     "AlbumHot": 0,
-    "content_owner": 1
+    "content_owner": 1,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 87,
@@ -1113,7 +1371,10 @@
     "song": "./assets/song/thucgiac.mp3",
     "render": 1,
     "AlbumHot": 7,
-    "content_owner": 1
+    "content_owner": 1,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 88,
@@ -1126,7 +1387,10 @@
     "song": "./assets/song/gaclailoau.mp3",
     "render": 0,
     "AlbumHot": 0,
-    "content_owner": 1
+    "content_owner": 1,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 89,
@@ -1139,7 +1403,10 @@
     "song": "./assets/song/chaykhoithegioinay.mp3",
     "render": 1,
     "AlbumHot": 7,
-    "content_owner": 1
+    "content_owner": 1,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 90,
@@ -1151,7 +1418,10 @@
     "song": "./assets/song/CheapThrills.mp3",
     "render": 1,
     "AlbumHot": 6,
-    "content_owner": 3
+    "content_owner": 3,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 91,
@@ -1165,7 +1435,10 @@
     "song": "./assets/song/Thunderclouds.mp3",
     "render": 1,
     "AlbumHot": 6,
-    "content_owner": 3
+    "content_owner": 3,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 92,
@@ -1177,7 +1450,10 @@
     "song": "./assets/song/Snowman.mp3",
     "render": 1,
     "AlbumHot": 6,
-    "content_owner": 3
+    "content_owner": 3,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 93,
@@ -1190,7 +1466,10 @@
     "song": "./assets/song/SeeYouAgain.mp3",
     "render": 1,
     "AlbumHot": 6,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
 
   {
@@ -1203,7 +1482,10 @@
     "song": "./assets/song/HymnForTheWeekend.mp3",
     "render": 0,
     "AlbumHot": 6,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 95,
@@ -1215,7 +1497,10 @@
     "song": "./assets/song/WaitingForLove.mp3",
     "render": 1,
     "AlbumHot": 6,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 96,
@@ -1227,7 +1512,10 @@
     "song": "./assets/song/ElasticHeart.mp3",
     "render": 0,
     "AlbumHot": 0,
-    "content_owner": 3
+    "content_owner": 3,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
 
   {
@@ -1240,7 +1528,10 @@
     "song": "./assets/song/BeautifulNow.mp3",
     "render": 0,
     "AlbumHot": 0,
-    "content_owner": 3
+    "content_owner": 3,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
 
   {
@@ -1253,7 +1544,10 @@
     "song": "./assets/song/muonroimasaocon.mp3",
     "render": 0,
     "AlbumHot": 0,
-    "content_owner": 6
+    "content_owner": 6,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 99,
@@ -1265,7 +1559,10 @@
     "song": "./assets/song/lactroi.mp3",
     "render": 0,
     "AlbumHot": 0,
-    "content_owner": 6
+    "content_owner": 6,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 100,
@@ -1278,7 +1575,10 @@
     "song": "./assets/song/Titanium.mp3",
     "render": 1,
     "AlbumHot": 6,
-    "content_owner": 3
+    "content_owner": 3,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 101,
@@ -1290,7 +1590,10 @@
     "song": "./assets/song/MoreThanYouKnow.mp3",
     "render": 1,
     "AlbumHot": 6,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 102,
@@ -1302,7 +1605,10 @@
     "song": "./assets/song/MarryYou.mp3",
     "render": 0,
     "AlbumHot": 0,
-    "content_owner": 4
+    "content_owner": 4,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
 
   {
@@ -1315,7 +1621,10 @@
     "song": "./assets/song/Believer.mp3",
     "render": 0,
     "AlbumHot": 7,
-    "content_owner": 5
+    "content_owner": 5,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
 
   {
@@ -1328,7 +1637,10 @@
     "song": "./assets/song/Thunder.mp3",
     "render": 0,
     "AlbumHot": 0,
-    "content_owner": 5
+    "content_owner": 5,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
 
 
@@ -1342,7 +1654,10 @@
     "song": "./assets/song/TalkingToTheMoon.mp3",
     "render": 1,
     "AlbumHot": 6,
-    "content_owner": 4
+    "content_owner": 4,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
 
   {
@@ -1357,7 +1672,10 @@
     "song": "./assets/song/ThereForYou.mp3",
     "render": 0,
     "AlbumHot": 6,
-    "content_owner": 11
+    "content_owner": 11,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 107,
@@ -1370,7 +1688,10 @@
     "song": "./assets/song/HeadInTheClouds.mp3",
     "render": 0,
     "AlbumHot": 6,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 108,
@@ -1382,7 +1703,10 @@
     "song": "./assets/song/TheLazySong.mp3",
     "render": 0,
     "AlbumHot": 6,
-    "content_owner": 4
+    "content_owner": 4,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
 
   {
@@ -1395,7 +1719,10 @@
     "song": "./assets/song/Radioactive.mp3",
     "render": 0,
     "AlbumHot": 6,
-    "content_owner": 5
+    "content_owner": 5,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
 
   {
@@ -1408,7 +1735,10 @@
     "song": "./assets/song/chungtacuahientai.mp3",
     "render": 0,
     "AlbumHot": 0,
-    "content_owner": 6
+    "content_owner": 6,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
 
 
@@ -1422,7 +1752,10 @@
     "song": "./assets/song/hello.mp3",
     "render": 0,
     "AlbumHot": 6,
-    "content_owner": 7
+    "content_owner": 7,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
 
   {
@@ -1435,7 +1768,10 @@
     "song": "./assets/song/RollingintheDeep.mp3",
     "render": 0,
     "AlbumHot": 0,
-    "content_owner": 7
+    "content_owner": 7,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
 
 
@@ -1449,7 +1785,10 @@
     "song": "./assets/song/WhateverItTakes.mp3",
     "render": 0,
     "AlbumHot": 6,
-    "content_owner": 5
+    "content_owner": 5,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
 
   {
@@ -1462,7 +1801,10 @@
     "song": "./assets/song/ThatWhatILike.mp3",
     "render": 0,
     "AlbumHot": 6,
-    "content_owner": 4
+    "content_owner": 4,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
 
 
@@ -1476,7 +1818,10 @@
     "song": "./assets/song/JustTheWayYouAre.mp3",
     "render": 0,
     "AlbumHot": 0,
-    "content_owner": 4
+    "content_owner": 4,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
 
   {
@@ -1489,7 +1834,10 @@
     "song": "./assets/song/BadLiar.mp3",
     "render": 0,
     "AlbumHot": 6,
-    "content_owner": 5
+    "content_owner": 5,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
 
   {
@@ -1502,7 +1850,10 @@
     "song": "./assets/song/Natural.mp3",
     "render": 0,
     "AlbumHot": 6,
-    "content_owner": 5
+    "content_owner": 5,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
 
   {
@@ -1515,7 +1866,10 @@
     "song": "./assets/song/SomeoneLikeYou.mp3",
     "render": 0,
     "AlbumHot": 0,
-    "content_owner": 7
+    "content_owner": 7,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
 
   {
@@ -1528,7 +1882,10 @@
     "song": "./assets/song/SetFireToTheRain.mp3",
     "render": 0,
     "AlbumHot": 6,
-    "content_owner": 7
+    "content_owner": 7,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
 
 
@@ -1544,7 +1901,10 @@
     "song": "./assets/song/haytraochoanh.mp3",
     "render": 0,
     "AlbumHot": 0,
-    "content_owner": 6
+    "content_owner": 6,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   
   {
@@ -1557,7 +1917,10 @@
     "song": "./assets/song/Closer.mp3",
     "render": 0,
     "AlbumHot": 6,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
 
     
@@ -1571,7 +1934,10 @@
     "song": "./assets/song/Symphony.mp3",
     "render": 0,
     "AlbumHot": 6,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
 
   {
@@ -1584,7 +1950,10 @@
     "song": "./assets/song/TreatYouBetter.mp3",
     "render": 0,
     "AlbumHot": 6,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
 
   {
@@ -1598,7 +1967,10 @@
     "song": "./assets/song/DuskTillDawn.mp3",
     "render": 0,
     "AlbumHot": 6,
-    "content_owner": 0
+    "content_owner": 0,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   },
   {
     "id": 125,
@@ -1610,14 +1982,17 @@
     "song": "./assets/song/cochacyeuladay.mp3",
     "render": 0,
     "AlbumHot": 0,
-    "content_owner": 6
+    "content_owner": 6,
+    "albumVN": 0,
+    "ranking": 0,
+    "album": 0
   }
 
 
 
 ],
 
-  "TopAlbumHot": {
+  
     "albumhot": [
       {
         "id": 1,
@@ -1657,6 +2032,7 @@
       }
 
     ],
+
     "VuTruNhacViet": [
       {
         "id": 1,
@@ -1688,9 +2064,9 @@
         "name": "Lofi Việt",
         "image": "./assets/img/AlbumHot/lofivn.png" 
       }
-    ]
+    ],
 
-  },
+  
 
   "singer" : [
       {
@@ -1701,7 +2077,7 @@
       },
       {
         "id" : 2,
-        "name" : "Đen Vâu",
+        "name" : "Đen",
         "type" : "Ca sĩ",
         "image" : "./assets/img/singers/đen.png"
       },
