@@ -11,7 +11,7 @@
       "render": 1,
       "AlbumHot": 7,
       "content_owner": 0,
-      "albumVN": 0,
+      "albumVN": [3],
       "ranking": 0,
       "album": 0
   },
@@ -26,7 +26,7 @@
       "render": 1,
       "AlbumHot": 7,
       "content_owner": 0,
-      "albumVN": 0,
+      "albumVN": [1, 4],
       "ranking": 0,
       "album": 0
   },
@@ -42,7 +42,7 @@
       "render": 1,
       "AlbumHot": 7,
       "content_owner": 2,
-      "albumVN": 0,
+      "albumVN": [0],
       "ranking": 0,
       "album": 0
   },
@@ -57,7 +57,7 @@
       "render": 1,
       "AlbumHot": 0,
       "content_owner": 0,
-      "albumVN": 0,
+      "albumVN": [1],
       "ranking": 0,
       "album": 0
   },
@@ -73,7 +73,7 @@
       "render": 1,
       "AlbumHot": 3,
       "content_owner": 12,
-      "albumVN": 0,
+      "albumVN": [0],
       "ranking": 0,
       "album": 0
   },
@@ -89,7 +89,7 @@
       "render": 1,
       "AlbumHot": 6,
       "content_owner": 11,
-      "albumVN": 0,
+      "albumVN": [0],
       "ranking": 0,
       "album": 0
 
@@ -107,7 +107,7 @@
       "render": 1,
       "AlbumHot": 6,
       "content_owner": 0,
-      "albumVN": 0,
+      "albumVN": [0],
       "ranking": 0,
       "album": 0
 
@@ -125,7 +125,7 @@
       "render": 1,
       "AlbumHot": 6,
       "content_owner": 0,
-      "albumVN": 0,
+      "albumVN": [0],
       "ranking": 0,
       "album": 0
   },
@@ -140,7 +140,7 @@
       "render": 2,
       "AlbumHot": 0,
       "content_owner": 0,
-      "albumVN": 0,
+      "albumVN": [1],
       "ranking": 0,
       "album": 0
 
@@ -157,7 +157,7 @@
       "render": 2,
       "AlbumHot": 7,
       "content_owner": 0,
-      "albumVN": 0,
+      "albumVN": [1, 4],
       "ranking": 0,
       "album": 0
 
@@ -174,7 +174,7 @@
       "render": 2,
       "AlbumHot": 0,
       "content_owner": 0,
-      "albumVN": 0,
+      "albumVN": [0],
       "ranking": 0,
       "album": 0
 
@@ -193,7 +193,7 @@
       "render": 2,
       "AlbumHot": 7,
       "content_owner": 0,
-      "albumVN": 0,
+      "albumVN": [1, 4],
       "ranking": 0,
       "album": 0
 
@@ -212,7 +212,7 @@
       "render": 2,
       "AlbumHot": 7,
       "content_owner": 0,
-      "albumVN": 0,
+      "albumVN": [0, 4],
       "ranking": 0,
       "album": 0
 
@@ -228,7 +228,7 @@
       "render": 2,
       "AlbumHot": 6,
       "content_owner": 0,
-      "albumVN": 0,
+      "albumVN": [0],
       "ranking": 0,
       "album": 0
 
@@ -245,7 +245,7 @@
       "render": 2,
       "AlbumHot": 6,
       "content_owner": 0,
-      "albumVN": 0,
+      "albumVN": [0],
       "ranking": 0,
       "album": 0
 
@@ -263,7 +263,7 @@
       "render": 2,
       "AlbumHot": 6,
       "content_owner": 0,
-      "albumVN": 0,
+      "albumVN": [0],
       "ranking": 0,
       "album": 0
 
@@ -281,7 +281,7 @@
       "render": 2,
       "AlbumHot": 6,
       "content_owner": 0,
-      "albumVN": 0,
+      "albumVN": [0],
       "ranking": 0,
       "album": 0
 
@@ -299,7 +299,7 @@
       "render": 2,
       "AlbumHot": 6,
       "content_owner": 0,
-      "albumVN": 0,
+      "albumVN": [0],
       "ranking": 0,
       "album": 0
   },
@@ -315,7 +315,7 @@
       "render": 2,
       "AlbumHot": 7,
       "content_owner": 0,
-      "albumVN": 0,
+      "albumVN": [0],
       "ranking": 0,
       "album": 0
 
@@ -331,7 +331,7 @@
       "render": 2,
       "AlbumHot": 7,
       "content_owner": 0,
-      "albumVN": 0,
+      "albumVN": [0],
       "ranking": 0,
       "album": 0
 
@@ -348,7 +348,7 @@
       "render": 2,
       "AlbumHot": 7,
       "content_owner": 0,
-      "albumVN": 0,
+      "albumVN": [0],
       "ranking": 0,
       "album": 0
 
@@ -365,7 +365,7 @@
       "render": 2,
       "AlbumHot": 7,
       "content_owner": 0,
-      "albumVN": 0,
+      "albumVN": [0],
       "ranking": 0,
       "album": 0
   },
@@ -381,7 +381,7 @@
       "render": 2,
       "AlbumHot": 7,
       "content_owner": 0,
-      "albumVN": 0,
+      "albumVN": [0],
       "ranking": 0,
       "album": 0
 
@@ -397,7 +397,7 @@
       "render": 0,
       "AlbumHot": 7,
       "content_owner": 0,
-      "albumVN": 0,
+      "albumVN": [0],
       "ranking": 0,
       "album": 0
 
@@ -414,7 +414,7 @@
     "render": false,
     "AlbumHot": 1,
     "content_owner": 7,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -430,7 +430,7 @@
     "render": false,
     "AlbumHot": 1,
     "content_owner": 7,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -446,7 +446,7 @@
     "render": false,
     "AlbumHot": 1,
     "content_owner": 7,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -461,7 +461,7 @@
     "render": false,
     "AlbumHot": 1,
     "content_owner": 7,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -476,7 +476,7 @@
     "render": false,
     "AlbumHot": 1,
     "content_owner": 7,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -491,7 +491,7 @@
     "render": false,
     "AlbumHot": 1,
     "content_owner": 7,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -506,7 +506,7 @@
     "render": false,
     "AlbumHot": 1,
     "content_owner": 7,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -521,7 +521,7 @@
     "render": false,
     "AlbumHot": 1,
     "content_owner": 7,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -536,7 +536,7 @@
     "render": false,
     "AlbumHot": 1,
     "content_owner": 7,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -552,7 +552,7 @@
     "render": false,
     "AlbumHot": 1,
     "content_owner": 7,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -568,7 +568,7 @@
     "render": false,
     "AlbumHot": 1,
     "content_owner": 7,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -583,7 +583,7 @@
     "render": false,
     "AlbumHot": 2,
     "content_owner": 9,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -598,7 +598,7 @@
     "render": false,
     "AlbumHot": 2,
     "content_owner": 9,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -613,7 +613,7 @@
     "render": false,
     "AlbumHot": 2,
     "content_owner": 9,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -628,7 +628,7 @@
     "render": false,
     "AlbumHot": 2,
     "content_owner": 9,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -643,7 +643,7 @@
     "render": 1,
     "AlbumHot": 2,
     "content_owner": 9,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -658,7 +658,7 @@
     "render": 1,
     "AlbumHot": 3,
     "content_owner": 9,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -673,7 +673,7 @@
     "render": false,
     "AlbumHot": 3,
     "content_owner": 12,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -688,7 +688,7 @@
     "render": false,
     "AlbumHot": 3,
     "content_owner": 12,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -704,7 +704,7 @@
     "render": false,
     "AlbumHot": 3,
     "content_owner": 12,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -721,7 +721,7 @@
     "render": 1,
     "AlbumHot": 3,
     "content_owner": 12,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -736,7 +736,7 @@
     "render": false,
     "AlbumHot": 4,
     "content_owner": 10,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -751,7 +751,7 @@
     "render": 1,
     "AlbumHot": 4,
     "content_owner": 10,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -766,7 +766,7 @@
     "render": 1,
     "AlbumHot": 4,
     "content_owner": 10,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -781,7 +781,7 @@
     "render": 1,
     "AlbumHot": 4,
     "content_owner": 10,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -796,7 +796,7 @@
     "render": 1,
     "AlbumHot": 4,
     "content_owner": 10,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -811,7 +811,7 @@
     "render": false,
     "AlbumHot": 5,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -826,7 +826,7 @@
     "render": false,
     "AlbumHot": 5,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -841,7 +841,7 @@
     "render": false,
     "AlbumHot": 5,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -856,7 +856,7 @@
     "render": false,
     "AlbumHot": 5,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -871,7 +871,7 @@
     "render": false,
     "AlbumHot": 5,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -886,7 +886,7 @@
     "render": false,
     "AlbumHot": 5,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -901,7 +901,7 @@
     "render": false,
     "AlbumHot": 5,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -916,7 +916,7 @@
     "render": false,
     "AlbumHot": 5,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -931,7 +931,7 @@
     "render": false,
     "AlbumHot": 5,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -946,7 +946,7 @@
     "render": false,
     "AlbumHot": 5,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -961,7 +961,7 @@
     "render": false,
     "AlbumHot": 5,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -976,7 +976,7 @@
     "render": false,
     "AlbumHot": 5,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -991,7 +991,7 @@
     "render": false,
     "AlbumHot": 5,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1006,7 +1006,7 @@
     "render": false,
     "AlbumHot": 5,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1021,7 +1021,7 @@
     "render": false,
     "AlbumHot": 5,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1037,7 +1037,7 @@
     "render": 1,
     "AlbumHot": 6,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1053,7 +1053,7 @@
     "render": 1,
     "AlbumHot": 6,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1068,7 +1068,7 @@
     "render": 0,
     "AlbumHot": 7,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [1],
     "ranking": 0,
     "album": 0
   },
@@ -1083,7 +1083,7 @@
     "render": 1,
     "AlbumHot": 7,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [1, 4],
     "ranking": 0,
     "album": 0
   },
@@ -1100,7 +1100,7 @@
     "render": 0,
     "AlbumHot": 7,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [4],
     "ranking": 0,
     "album": 0
   },
@@ -1116,7 +1116,7 @@
     "render": 0,
     "AlbumHot": 7,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [1],
     "ranking": 0,
     "album": 0
   },
@@ -1132,7 +1132,7 @@
     "render": 0,
     "AlbumHot": 7,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [4],
     "ranking": 0,
     "album": 0
   },
@@ -1149,7 +1149,7 @@
     "render": 0,
     "AlbumHot": 7,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [1],
     "ranking": 0,
     "album": 0
   },
@@ -1166,7 +1166,7 @@
     "render": 0,
     "AlbumHot": 7,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [1, 4],
     "ranking": 0,
     "album": 0
   },
@@ -1183,7 +1183,7 @@
     "render": false,
     "AlbumHot": 7,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [1],
     "ranking": 0,
     "album": 0
   },
@@ -1198,7 +1198,7 @@
     "render": 0,
     "AlbumHot": 7,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [1],
     "ranking": 0,
     "album": 0
   },
@@ -1213,7 +1213,7 @@
     "render": 1,
     "AlbumHot": 7,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1232,7 +1232,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 2,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1247,7 +1247,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 2,
-    "albumVN": 0,
+    "albumVN": [1],
     "ranking": 0,
     "album": 0
   },
@@ -1263,7 +1263,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 2,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1280,7 +1280,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 2,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1295,7 +1295,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 2,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1310,7 +1310,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 2,
-    "albumVN": 0,
+    "albumVN": [1],
     "ranking": 0,
     "album": 0
   },
@@ -1327,7 +1327,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 1,
-    "albumVN": 0,
+    "albumVN": [1],
     "ranking": 0,
     "album": 0
   },
@@ -1342,7 +1342,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 1,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1357,7 +1357,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 1,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1372,7 +1372,7 @@
     "render": 1,
     "AlbumHot": 7,
     "content_owner": 1,
-    "albumVN": 0,
+    "albumVN": [1],
     "ranking": 0,
     "album": 0
   },
@@ -1388,7 +1388,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 1,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1404,7 +1404,7 @@
     "render": 1,
     "AlbumHot": 7,
     "content_owner": 1,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1419,7 +1419,7 @@
     "render": 1,
     "AlbumHot": 6,
     "content_owner": 3,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1436,7 +1436,7 @@
     "render": 1,
     "AlbumHot": 6,
     "content_owner": 3,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1451,7 +1451,7 @@
     "render": 1,
     "AlbumHot": 6,
     "content_owner": 3,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1467,7 +1467,7 @@
     "render": 1,
     "AlbumHot": 6,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1483,7 +1483,7 @@
     "render": 0,
     "AlbumHot": 6,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1498,7 +1498,7 @@
     "render": 1,
     "AlbumHot": 6,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1513,7 +1513,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 3,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1529,7 +1529,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 3,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1545,7 +1545,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 6,
-    "albumVN": 0,
+    "albumVN": [1],
     "ranking": 0,
     "album": 0
   },
@@ -1560,7 +1560,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 6,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1576,7 +1576,7 @@
     "render": 1,
     "AlbumHot": 6,
     "content_owner": 3,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1591,7 +1591,7 @@
     "render": 1,
     "AlbumHot": 6,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1606,7 +1606,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 4,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1622,7 +1622,7 @@
     "render": 0,
     "AlbumHot": 7,
     "content_owner": 5,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1638,7 +1638,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 5,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1655,7 +1655,7 @@
     "render": 1,
     "AlbumHot": 6,
     "content_owner": 4,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1673,7 +1673,7 @@
     "render": 0,
     "AlbumHot": 6,
     "content_owner": 11,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1689,7 +1689,7 @@
     "render": 0,
     "AlbumHot": 6,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1704,7 +1704,7 @@
     "render": 0,
     "AlbumHot": 6,
     "content_owner": 4,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1720,7 +1720,7 @@
     "render": 0,
     "AlbumHot": 6,
     "content_owner": 5,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1736,7 +1736,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 6,
-    "albumVN": 0,
+    "albumVN": [1],
     "ranking": 0,
     "album": 0
   },
@@ -1753,7 +1753,7 @@
     "render": 0,
     "AlbumHot": 6,
     "content_owner": 7,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1769,7 +1769,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 7,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1786,7 +1786,7 @@
     "render": 0,
     "AlbumHot": 6,
     "content_owner": 5,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1802,7 +1802,7 @@
     "render": 0,
     "AlbumHot": 6,
     "content_owner": 4,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1819,7 +1819,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 4,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1835,7 +1835,7 @@
     "render": 0,
     "AlbumHot": 6,
     "content_owner": 5,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1851,7 +1851,7 @@
     "render": 0,
     "AlbumHot": 6,
     "content_owner": 5,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1867,7 +1867,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 7,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1883,7 +1883,7 @@
     "render": 0,
     "AlbumHot": 6,
     "content_owner": 7,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1902,7 +1902,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 6,
-    "albumVN": 0,
+    "albumVN": [1],
     "ranking": 0,
     "album": 0
   },
@@ -1918,7 +1918,7 @@
     "render": 0,
     "AlbumHot": 6,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1935,7 +1935,7 @@
     "render": 0,
     "AlbumHot": 6,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1951,7 +1951,7 @@
     "render": 0,
     "AlbumHot": 6,
     "content_owner": 0,
-    "albumVN": 0,
+    "albumVN": [0],
     "ranking": 0,
     "album": 0
   },
@@ -1968,8 +1968,8 @@
     "render": 0,
     "AlbumHot": 6,
     "content_owner": 0,
-    "albumVN": 0,
-    "ranking": 0,
+    "albumVN": [0],
+    "ranking": 1,
     "album": 0
   },
   {
@@ -1983,11 +1983,528 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 6,
-    "albumVN": 0,
+    "albumVN": [0],
+    "ranking": 0,
+    "album": 0
+  },
+
+  {
+    "id": 126,
+    "songName": "Ngỡ như là",
+    "image": "./assets/img/vuTruNhacViet/ngonhula.png",
+    "singer": [
+      "Chris Da Prince"
+    ] ,
+    "song": "./assets/song/ngonhula.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 0,
+    "albumVN": [4],
+    "ranking": 0,
+    "album": 0
+  },
+  {
+    "id": 1267,
+    "songName": "Quên anh đi ",
+    "image": "./assets/img/vuTruNhacViet/quenanhdi.png",
+    "singer": [
+      "Mono"
+    ] ,
+    "song": "./assets/song/quenanhdi.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 0,
+    "albumVN": [4],
+    "ranking": 0,
+    "album": 0
+  },
+  {
+    "id": 128,
+    "songName": "Querry",
+    "image": "./assets/img/vuTruNhacViet/Querry.png",
+    "singer": [
+      "QNT",
+      "Trung Trần",
+      "MCK"
+    ] ,
+    "song": "./assets/song/Querry.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 0,
+    "albumVN": [4],
+    "ranking": 0,
+    "album": 0
+  },
+  {
+    "id": 129,
+    "songName": "Tay to",
+    "image": "./assets/img/vuTruNhacViet/TayTo.png",
+    "singer": [
+      "MCK",
+      "PhongKhin"
+    ] ,
+    "song": "./assets/song/TayTo.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 0,
+    "albumVN": [4],
+    "ranking": 0,
+    "album": 0
+  },
+  {
+    "id": 130,
+    "songName": "Một người vì em",
+    "image": "./assets/img/vuTruNhacViet/motnguoiviem.png",
+    "singer": [
+      "WEAN"
+    ] ,
+    "song": "./assets/song/motnguoiviem.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 0,
+    "albumVN": [4],
+    "ranking": 0,
+    "album": 0
+  },
+  {
+    "id": 131,
+    "songName": "Vaicaunoicokhiennguoithaydoi",
+    "image": "./assets/img/vuTruNhacViet/Vaicaunoicokhiennguoithaydoi.png",
+    "singer": [
+      "GREY D",
+      "tlinh"
+    ] ,
+    "song": "./assets/song/Vaicaunoicokhiennguoithaydoi.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 0,
+    "albumVN": [4],
+    "ranking": 0,
+    "album": 0
+  },
+  {
+    "id": 132,
+    "songName": "Em bé",
+    "image": "./assets/img/vuTruNhacViet/embe.png",
+    "singer": [
+      "Amee",
+      "Karik"
+    ] ,
+    "song": "./assets/song/embe.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 0,
+    "albumVN": [4],
+    "ranking": 0,
+    "album": 0
+  },
+  {
+    "id": 133,
+    "songName": "Không sao mà em đây rồi",
+    "image": "./assets/img/vuTruNhacViet/khongsaomaemdayroi.png",
+    "singer": [
+      "Suni Hạ Linh",
+      "Lou Hoàng"
+      
+    ] ,
+    "song": "./assets/song/khongsaomaemdayroi.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 0,
+    "albumVN": [4],
+    "ranking": 0,
+    "album": 0
+  },
+  {
+    "id": 134,
+    "songName": "Từ Thích Thích Thành Thương Thương",
+    "image": "./assets/img/vuTruNhacViet/tuthichththichthanhthuongthuong.png",
+    "singer": [
+      "Amee",
+      "Hoàng Dũng"
+    ] ,
+    "song": "./assets/song/tuthichththichthanhthuongthuong.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 0,
+    "albumVN": [4],
+    "ranking": 0,
+    "album": 0
+  },
+
+
+  {
+    "id": 135,
+    "songName": "Vùng ký ức",
+    "image": "./assets/img/vuTruNhacViet/vungkyuc.png",
+    "singer": [
+      "chillies"
+      
+    ] ,
+    "song": "./assets/song/vungkyuc.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 0,
+    "albumVN": [3],
+    "ranking": 0,
+    "album": 0
+  },
+  {
+    "id": 136,
+    "songName": "Tầng thượng 102",
+    "image": "./assets/img/vuTruNhacViet/tangthuong.png",
+    "singer": [
+      "Cá hồi hoang"
+      
+    ] ,
+    "song": "./assets/song/tangthuong.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 0,
+    "albumVN": [3],
+    "ranking": 0,
+    "album": 0
+  },
+
+  {
+    "id": 137,
+    "songName": "Cho tôi lang thang",
+    "image": "./assets/img/vuTruNhacViet/chotoilangthang.png",
+    "singer": [
+      "Đen",
+      "Ngọt"
+      
+    ] ,
+    "song": "./assets/song/chotoilangthang.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 2,
+    "albumVN": [3],
+    "ranking": 0,
+    "album": 0
+  },
+  {
+    "id": 138,
+    "songName": "Lần cuối",
+    "image": "./assets/img/vuTruNhacViet/lancuoi.png",
+    "singer": [
+      "Ngọt"
+      
+    ] ,
+    "song": "./assets/song/lancuoi.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 0,
+    "albumVN": [3],
+    "ranking": 0,
+    "album": 0
+  },
+  {
+    "id": 139,
+    "songName": "Có em đời bỗng vui",
+    "image": "./assets/img/vuTruNhacViet/coemdoibongvui.png",
+    "singer": [
+      "chillies"
+      
+    ] ,
+    "song": "./assets/song/coemdoibongvui.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 0,
+    "albumVN": [3],
+    "ranking": 0,
+    "album": 0
+  },
+
+  {
+    "id": 140,
+    "songName": "Vấn Vương",
+    "image": "./assets/img/vuTruNhacViet/vanvuong.png",
+    "singer": [
+      "Specter", 
+      "ft tris"
+      
+    ] ,
+    "song": "./assets/song/vanvuong.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 0,
+    "albumVN": [2],
+    "ranking": 0,
+    "album": 0
+  },
+  {
+    "id": 141,
+    "songName": "Thế thôi",
+    "image": "./assets/img/vuTruNhacViet/thethoi.png",
+    "singer": [
+      "Hải Sâm"
+      
+    ] ,
+    "song": "./assets/song/thethoi.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 0,
+    "albumVN": [2],
+    "ranking": 0,
+    "album": 0
+  },
+  
+  {
+    "id": 142,
+    "songName": "Xanh",
+    "image": "./assets/img/vuTruNhacViet/xanh.png",
+    "singer": [
+      "Charles Huỳnh"
+      
+    ] ,
+    "song": "./assets/song/xanh.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 0,
+    "albumVN": [2],
+    "ranking": 0,
+    "album": 0
+  },
+  {
+    "id": 143,
+    "songName": "Đông kiếm em",
+    "image": "./assets/img/vuTruNhacViet/dongkiemem.png",
+    "singer": [
+      "Vũ"
+      
+    ] ,
+    "song": "./assets/song/dongkiemem.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 0,
+    "albumVN": [3],
+    "ranking": 0,
+    "album": 0
+  },
+  {
+    "id": 143,
+    "songName": "Chẳng thể tìm được em",
+    "image": "./assets/img/vuTruNhacViet/changthetimduocem.png",
+    "singer": [
+      "Văn Đình Lợi"
+      
+    ] ,
+    "song": "./assets/song/changthetimduocem.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 0,
+    "albumVN": [3],
+    "ranking": 0,
+    "album": 0
+  },
+  {
+    "id": 144,
+    "songName": "Tìm tôi?",
+    "image": "./assets/img/vuTruNhacViet/timtoi.png",
+    "singer": [
+      "Khoi Vu",
+      "Thỏ"
+      
+    ] ,
+    "song": "./assets/song/timtoi.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 0,
+    "albumVN": [3],
+    "ranking": 0,
+    "album": 0
+  },
+  {
+    "id": 145,
+    "songName": "Như anh đã thấy em",
+    "image": "./assets/img/vuTruNhacViet/nhuanhdathayem.png",
+    "singer": [
+      "PhucXp"
+      
+    ] ,
+    "song": "./assets/song/nhuanhdathayem.mp3",
+    "render": 0,
+    "AlbumHot": 7,
+    "content_owner": 0,
+    "albumVN": [3],
+    "ranking": 0,
+    "album": 0
+  },
+  {
+    "id": 146,
+    "songName": "Blue Tequila",
+    "image": "./assets/img/vuTruNhacViet/BlueTequila.png",
+    "singer": [
+      "Táo"
+      
+    ] ,
+    "song": "./assets/song/BlueTequila.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 0,
+    "albumVN": [3],
+    "ranking": 0,
+    "album": 0
+  },
+  {
+    "id": 147,
+    "songName": "Giây phút",
+    "image": "./assets/img/vuTruNhacViet/giayphut.png",
+    "singer": [
+      "Nguyễn Đình Chương"
+      
+    ] ,
+    "song": "./assets/song/giayphut.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 0,
+    "albumVN": [3],
+    "ranking": 0,
+    "album": 0
+  },
+  {
+    "id": 149,
+    "songName": "2 5",
+    "image": "./assets/img/vuTruNhacViet/25.png",
+    "singer": [
+      "Táo"
+      
+    ] ,
+    "song": "./assets/song/25.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 0,
+    "albumVN": [3],
+    "ranking": 0,
+    "album": 0
+  },  
+  {
+    "id": 150,
+    "songName": "Bật nhạc lên",
+    "image": "./assets/img/vuTruNhacViet/batnhaclen.png",
+    "singer": [
+      "HIEUTHUHAI",
+      "ft. Harmonie"
+      
+    ] ,
+    "song": "./assets/song/batnhaclen.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 0,
+    "albumVN": [3],
+    "ranking": 0,
+    "album": 0
+  },
+  {
+    "id": 151,
+    "songName": "Dù cho",
+    "image": "./assets/img/vuTruNhacViet/ducho.png",
+    "singer": [
+      "Ngọc Nguyễn"
+      
+    ] ,
+    "song": "./assets/song/ducho.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 0,
+    "albumVN": [3],
+    "ranking": 0,
+    "album": 0
+  },
+  {
+    "id": 152,
+    "songName": "ROOM 808",
+    "image": "./assets/img/vuTruNhacViet/room808.png",
+    "singer": [
+      "Kewtiie",
+      "Gill",
+      "marzuz"
+      
+      
+    ] ,
+    "song": "./assets/song/room808.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 0,
+    "albumVN": [3],
+    "ranking": 0,
+    "album": 0
+  },
+
+  {
+    "id": 153,
+    "songName": "Và thế giói đã mất đi một người cô đơn",
+    "image": "./assets/img/vuTruNhacViet/vathegioimatdimotnguoicodon.png",
+    "singer": [
+      "Onionn",
+      "Gill",
+      "marzuz"
+
+    ] ,
+    "song": "./assets/song/vathegioimatdimotnguoicodon.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 0,
+    "albumVN": [3],
+    "ranking": 0,
+    "album": 0
+  },
+  {
+    "id": 154,
+    "songName": "Và thế giói đã mất đi một người cô đơn",
+    "image": "./assets/img/vuTruNhacViet/vathegioimatdimotnguoicodon.png",
+    "singer": [
+      "Onionn",
+      "Gill",
+      "marzuz"
+
+    ] ,
+    "song": "./assets/song/vathegioimatdimotnguoicodon.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 0,
+    "albumVN": [3],
+    "ranking": 0,
+    "album": 0
+  },
+  {
+    "id": 155,
+    "songName": "Và thế giói đã mất đi một người cô đơn",
+    "image": "./assets/img/vuTruNhacViet/vathegioimatdimotnguoicodon.png",
+    "singer": [
+      "Onionn",
+      "Gill",
+      "marzuz"
+
+    ] ,
+    "song": "./assets/song/vathegioimatdimotnguoicodon.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 0,
+    "albumVN": [3],
+    "ranking": 0,
+    "album": 0
+  },
+  {
+    "id": 155,
+    "songName": "Bao tiền một mớ bình yên",
+    "image": "./assets/img/vuTruNhacViet/baotienmotmotbinhyen.png",
+    "singer": [
+      "14 Casper",
+      "Bon"
+    ] ,
+    "song": "./assets/song/baotienmotmotbinhyen.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 0,
+    "albumVN": [3],
     "ranking": 0,
     "album": 0
   }
 
+
+  
 
 
 ],
