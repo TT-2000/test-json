@@ -2678,9 +2678,43 @@
         "type" : "Ca sĩ",
         "image" : "./assets/img/singer/bb.png"
       }
-    ]
+    ],
   
 
+    "ranking": [
+      {
+        "id" : 1,
+        "topNumber": "TOP 20",
+        "title": "Âu Mỹ",
+        "background": "linear-gradient(rgb(110, 110, 121), rgb(255, 64, 0))"
+      },
+      {
+        "id" : 2,
+        "topNumber": "TOP 20",
+        "title": "Việt Nam",
+        "background": "linear-gradient(rgb(229, 233, 3), rgb(255, 64, 1))"
+      },
+      {
+        "id" : 3,
+        "topNumber": "TOP 20",
+        "title": "Hàn Quốc",
+        "background": "linear-gradient(rgb(53, 53, 49), rgb(138, 86, 86))"
+      },
+      {
+        "id" : 4,
+        "topNumber": "TOP 20",
+        "title": "Nhật Bản",
+        "background": "linear-gradient(rgb(50, 157, 187), rgb(104, 74, 64))"
+      },
+      {
+        "id" : 5,
+        "topNumber": "TOP 20",
+        "title": "Châu Á",
+        "background": "linear-gradient(rgb(131, 118, 83), rgb(121, 180, 62))"
+      }
+
+    ]
+    
   
   
     
