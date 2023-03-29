@@ -1132,7 +1132,7 @@
     "render": 0,
     "AlbumHot": 7,
     "content_owner": 0,
-    "albumVN": [4],
+    "albumVN": [4, 5],
     "ranking": 0,
     "album": 0
   },
@@ -1149,7 +1149,7 @@
     "render": 0,
     "AlbumHot": 7,
     "content_owner": 0,
-    "albumVN": [1],
+    "albumVN": [1, 5],
     "ranking": 0,
     "album": 0
   },
@@ -1183,7 +1183,7 @@
     "render": false,
     "AlbumHot": 7,
     "content_owner": 0,
-    "albumVN": [1],
+    "albumVN": [1, 5],
     "ranking": 0,
     "album": 0
   },
@@ -1372,7 +1372,7 @@
     "render": 1,
     "AlbumHot": 7,
     "content_owner": 1,
-    "albumVN": [1],
+    "albumVN": [1. 5],
     "ranking": 0,
     "album": 0
   },
@@ -1388,7 +1388,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 1,
-    "albumVN": [0],
+    "albumVN": [1],
     "ranking": 0,
     "album": 0
   },
@@ -1404,7 +1404,7 @@
     "render": 1,
     "AlbumHot": 7,
     "content_owner": 1,
-    "albumVN": [0],
+    "albumVN": [5],
     "ranking": 0,
     "album": 0
   },
@@ -1983,7 +1983,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 6,
-    "albumVN": [0, 6],
+    "albumVN": [6],
     "ranking": 0,
     "album": 0
   },
@@ -2014,7 +2014,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 0,
-    "albumVN": [4],
+    "albumVN": [4, 5],
     "ranking": 0,
     "album": 0
   },
