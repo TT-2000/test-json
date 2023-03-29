@@ -42,7 +42,7 @@
       "render": 1,
       "AlbumHot": 7,
       "content_owner": 2,
-      "albumVN": [0],
+      "albumVN": [6],
       "ranking": 0,
       "album": 0
   },
@@ -1983,28 +1983,28 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 6,
-    "albumVN": [0],
+    "albumVN": [0, 6],
     "ranking": 0,
     "album": 0
   },
 
   {
     "id": 126,
-    "songName": "Ngỡ như là",
-    "image": "./assets/img/vuTruNhacViet/ngonhula.png",
+    "songName": "Ánh Sao Và Bầu Trời",
+    "image": "./assets/img/vuTruNhacViet/anhsaotrenbautroi.png",
     "singer": [
-      "Chris Da Prince"
+      "T.R.I"
     ] ,
-    "song": "./assets/song/ngonhula.mp3",
+    "song": "./assets/song/anhsaotrenbautroi.mp3",
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 0,
-    "albumVN": [4],
+    "albumVN": [4, 6],
     "ranking": 0,
     "album": 0
   },
   {
-    "id": 1267,
+    "id": 127,
     "songName": "Quên anh đi ",
     "image": "./assets/img/vuTruNhacViet/quenanhdi.png",
     "singer": [
@@ -2031,7 +2031,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 0,
-    "albumVN": [4],
+    "albumVN": [4, 6],
     "ranking": 0,
     "album": 0
   },
@@ -2127,7 +2127,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 0,
-    "albumVN": [4],
+    "albumVN": [4, 6],
     "ranking": 0,
     "album": 0
   },
@@ -2145,7 +2145,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 0,
-    "albumVN": [3],
+    "albumVN": [3, 6],
     "ranking": 0,
     "album": 0
   },
@@ -2211,7 +2211,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 0,
-    "albumVN": [3],
+    "albumVN": [3, 6],
     "ranking": 0,
     "album": 0
   },
@@ -2278,7 +2278,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 0,
-    "albumVN": [3],
+    "albumVN": [2],
     "ranking": 0,
     "album": 0
   },
@@ -2294,7 +2294,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 0,
-    "albumVN": [3],
+    "albumVN": [2],
     "ranking": 0,
     "album": 0
   },
@@ -2311,7 +2311,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 0,
-    "albumVN": [3],
+    "albumVN": [2],
     "ranking": 0,
     "album": 0
   },
@@ -2327,7 +2327,7 @@
     "render": 0,
     "AlbumHot": 7,
     "content_owner": 0,
-    "albumVN": [3],
+    "albumVN": [2],
     "ranking": 0,
     "album": 0
   },
@@ -2343,7 +2343,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 0,
-    "albumVN": [3],
+    "albumVN": [2],
     "ranking": 0,
     "album": 0
   },
@@ -2359,7 +2359,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 0,
-    "albumVN": [3],
+    "albumVN": [2],
     "ranking": 0,
     "album": 0
   },
@@ -2375,7 +2375,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 0,
-    "albumVN": [3],
+    "albumVN": [2],
     "ranking": 0,
     "album": 0
   },  
@@ -2392,7 +2392,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 0,
-    "albumVN": [3],
+    "albumVN": [2],
     "ranking": 0,
     "album": 0
   },
@@ -2408,7 +2408,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 0,
-    "albumVN": [3],
+    "albumVN": [2],
     "ranking": 0,
     "album": 0
   },
@@ -2427,7 +2427,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 0,
-    "albumVN": [3],
+    "albumVN": [2],
     "ranking": 0,
     "album": 0
   },
@@ -2446,48 +2446,45 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 0,
-    "albumVN": [3],
+    "albumVN": [2],
     "ranking": 0,
     "album": 0
   },
   {
     "id": 154,
-    "songName": "Và thế giói đã mất đi một người cô đơn",
-    "image": "./assets/img/vuTruNhacViet/vathegioimatdimotnguoicodon.png",
+    "songName": "Ôm em lần cuối",
+    "image": "./assets/img/vuTruNhacViet/omemlancuoi.png",
     "singer": [
-      "Onionn",
-      "Gill",
-      "marzuz"
-
+      "nit",
+      "sing"
     ] ,
-    "song": "./assets/song/vathegioimatdimotnguoicodon.mp3",
+    "song": "./assets/song/omemlancuoi.mp3",
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 0,
-    "albumVN": [3],
+    "albumVN": [2],
     "ranking": 0,
     "album": 0
   },
   {
     "id": 155,
-    "songName": "Và thế giói đã mất đi một người cô đơn",
-    "image": "./assets/img/vuTruNhacViet/vathegioimatdimotnguoicodon.png",
+    "songName": "3107 - 3",
+    "image": "./assets/img/vuTruNhacViet/3107.png",
     "singer": [
-      "Onionn",
-      "Gill",
-      "marzuz"
-
+      "W N",
+      "Nâu",
+      "Dương"
     ] ,
-    "song": "./assets/song/vathegioimatdimotnguoicodon.mp3",
+    "song": "./assets/song/3107.mp3",
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 0,
-    "albumVN": [3],
+    "albumVN": [2],
     "ranking": 0,
     "album": 0
   },
   {
-    "id": 155,
+    "id": 156,
     "songName": "Bao tiền một mớ bình yên",
     "image": "./assets/img/vuTruNhacViet/baotienmotmotbinhyen.png",
     "singer": [
@@ -2498,13 +2495,30 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 0,
-    "albumVN": [3],
+    "albumVN": [2, 6],
+    "ranking": 0,
+    "album": 0
+  },
+  {
+    "id": 157,
+    "songName": "Chứ chill thôi",
+    "image": "./assets/img/vuTruNhacViet/cuchillthoi.png",
+    "singer": [
+      "chillies",
+      "Suni Hạ Linh",
+      "Rhymastic"
+    ] ,
+    "song": "./assets/song/cuchillthoi.mp3",
+    "render": 0,
+    "AlbumHot": 0,
+    "content_owner": 0,
+    "albumVN": [1, 6],
     "ranking": 0,
     "album": 0
   }
 
 
-  
+
 
 
 ],
