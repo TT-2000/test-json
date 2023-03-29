@@ -57,7 +57,7 @@
       "render": 1,
       "AlbumHot": 0,
       "content_owner": 0,
-      "albumVN": [1],
+      "albumVN": [5],
       "ranking": 0,
       "album": 0
   },
@@ -212,7 +212,7 @@
       "render": 2,
       "AlbumHot": 7,
       "content_owner": 0,
-      "albumVN": [0, 4],
+      "albumVN": [5, 4],
       "ranking": 0,
       "album": 0
 
@@ -2512,7 +2512,7 @@
     "render": 0,
     "AlbumHot": 0,
     "content_owner": 0,
-    "albumVN": [6, 1],
+    "albumVN": [6],
     "ranking": 0,
     "album": 0
   }
