@@ -2877,26 +2877,26 @@
       {
         "id" : 1,
         "title": "INDIE",
-        "image-home": "./assets/img/topicHot/bannerHotIndie.png",
-        "image-page": "./assets/img/topicHot/bannerINDIE.jpeg"
+        "imageHome": "./assets/img/topicHot/bannerHotIndie.png",
+        "imagePage": "./assets/img/topicHot/bannerINDIE.jpeg"
       },
       {
         "id" : 2,
         "title": "LOFI",
-        "image-home": "./assets/img/topicHot/d.png",
-        "image-page": "./assets/img/topicHot/bannerLOFI.jpeg"
+        "imageHome": "./assets/img/topicHot/d.png",
+        "imagePage": "./assets/img/topicHot/bannerLOFI.jpeg"
       },
       {
         "id" : 3,
         "title": "EDM",
-        "image-home": "./assets/img/topicHot/edm.png",
-        "image-page": "./assets/img/topicHot/bannerEDM.jpeg"
+        "imageHome": "./assets/img/topicHot/edm.png",
+        "imagePage": "./assets/img/topicHot/bannerEDM.jpeg"
       },
       {
         "id" : 4,
         "title": "GYM",
-        "image-home": "./assets/img/topicHot/gym.png",
-        "image-page": "./assets/img/topicHot/bannerGYM.jpeg"
+        "imageHome": "./assets/img/topicHot/gym.png",
+        "imagePage": "./assets/img/topicHot/bannerGYM.jpeg"
       }
     ]
  
