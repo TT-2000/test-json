@@ -29,7 +29,7 @@
       "content_owner": 0,
       "albumVN": [1, 4],
       "ranking": 2,
-      "album": 0,
+      "album": 1,
       "hot-Topic": 0
   },
   {
@@ -46,7 +46,7 @@
       "content_owner": 2,
       "albumVN": [6],
       "ranking": 2,
-      "album": 0,
+      "album": 6,
       "hot-Topic": 0
   },
   {
@@ -79,7 +79,7 @@
       "content_owner": 12,
       "albumVN": [0],
       "ranking": 0,
-      "album": 0,
+      "album": 1,
       "hot-Topic": 4
   },
   {
@@ -96,7 +96,7 @@
       "content_owner": 11,
       "albumVN": [0],
       "ranking": 0,
-      "album": 0,
+      "album": 1,
       "hot-Topic": 3
 
       
@@ -115,7 +115,7 @@
       "content_owner": 0,
       "albumVN": [0],
       "ranking": 1,
-      "album": 0,
+      "album": 1,
       "hot-Topic": 4
   },
   {
@@ -132,7 +132,7 @@
       "content_owner": 0,
       "albumVN": [0],
       "ranking": 1,
-      "album": 0,
+      "album": 1,
       "hot-Topic": 2
   },
   {
@@ -148,7 +148,7 @@
       "content_owner": 0,
       "albumVN": [1],
       "ranking": 2,
-      "album": 0,
+      "album": 1,
       "hot-Topic": 0
 
       
@@ -241,7 +241,7 @@
       "content_owner": 0,
       "albumVN": [0],
       "ranking": 1,
-      "album": 0,
+      "album": 1,
       "hot-Topic": 2
 
       
@@ -259,7 +259,7 @@
       "content_owner": 0,
       "albumVN": [0],
       "ranking": 0,
-      "album": 0,
+      "album": 1,
       "hot-Topic": 0
 
       
@@ -278,7 +278,7 @@
       "content_owner": 0,
       "albumVN": [0],
       "ranking": 0,
-      "album": 0,
+      "album": 1,
       "hot-Topic": 2
 
       
@@ -297,7 +297,7 @@
       "content_owner": 0,
       "albumVN": [0],
       "ranking": 0,
-      "album": 0,
+      "album": 1,
       "hot-Topic": 0
 
       
@@ -316,7 +316,7 @@
       "content_owner": 0,
       "albumVN": [0],
       "ranking": 1,
-      "album": 0,
+      "album": 1,
       "hot-Topic": 2
   },
   {
@@ -333,7 +333,7 @@
       "content_owner": 0,
       "albumVN": [0],
       "ranking": 3,
-      "album": 0,
+      "album": 1,
       "hot-Topic": 0
 
   },
@@ -350,7 +350,7 @@
       "content_owner": 0,
       "albumVN": [0],
       "ranking": 3,
-      "album": 0,
+      "album": 1,
       "hot-Topic": 0
 
       
@@ -368,7 +368,7 @@
       "content_owner": 0,
       "albumVN": [0],
       "ranking": 3,
-      "album": 0,
+      "album": 1,
       "hot-Topic": 0
 
       
@@ -386,7 +386,7 @@
       "content_owner": 0,
       "albumVN": [0],
       "ranking": 3,
-      "album": 0,
+      "album": 1,
       "hot-Topic": 0
   },
   
@@ -403,7 +403,7 @@
       "content_owner": 0,
       "albumVN": [0],
       "ranking": 3,
-      "album": 0,
+      "album": 2,
       "hot-Topic": 0
 
   },
@@ -438,7 +438,7 @@
     "content_owner": 7,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0,
+    "album": 1,
     "hot-Topic": 3
   },
   {
@@ -455,7 +455,7 @@
     "content_owner": 7,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0,
+    "album": 1,
     "hot-Topic": 3
   },
   {
@@ -472,7 +472,7 @@
     "content_owner": 7,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0,
+    "album": 1,
     "hot-Topic": 0
   },
   {
@@ -488,7 +488,7 @@
     "content_owner": 7,
     "albumVN": [0],
     "ranking": 1,
-    "album": 0,
+    "album": 2,
     "hot-Topic": 0
   },
   {
@@ -552,7 +552,7 @@
     "content_owner": 7,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0,
+    "album": 2,
     "hot-Topic": 4
   },
   {
@@ -634,7 +634,7 @@
     "content_owner": 9,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0,
+    "album": 2,
     "hot-Topic": 0
   },
   {
@@ -682,7 +682,7 @@
     "content_owner": 9,
     "albumVN": [0],
     "ranking": 1,
-    "album": 0,
+    "album": 2,
     "hot-Topic": 0
   },
   {
@@ -714,7 +714,7 @@
     "content_owner": 12,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0,
+    "album": 2,
     "hot-Topic": 0
   },
   {
@@ -765,7 +765,7 @@
     "content_owner": 12,
     "albumVN": [0],
     "ranking": 1,
-    "album": 0,
+    "album": 2,
     "hot-Topic": 0
   },
   {
@@ -813,7 +813,7 @@
     "content_owner": 10,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0,
+    "album": 2,
     "hot-Topic": 0
   },
   {
@@ -877,7 +877,7 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0,
+    "album": 4,
     "hot-Topic": 0
   },
   {
@@ -893,7 +893,7 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0,
+    "album": 4,
     "hot-Topic": 2
   },
   {
@@ -909,7 +909,7 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0,
+    "album": 4,
     "hot-Topic": 2
   },
   {
@@ -925,7 +925,7 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0,
+    "album": 4,
     "hot-Topic": 2
   },
   {
@@ -941,7 +941,7 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0,
+    "album": 4,
     "hot-Topic": 0
   },
   {
@@ -957,7 +957,7 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0,
+    "album": 4,
     "hot-Topic": 0
   },
   {
@@ -973,7 +973,7 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0,
+    "album": 4,
     "hot-Topic": 0
   },
   {
@@ -989,7 +989,7 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0,
+    "album": 4,
     "hot-Topic": 0
   },
   {
@@ -1005,7 +1005,7 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0,
+    "album": 4,
     "hot-Topic": 0
   },
   {
@@ -1053,7 +1053,7 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0,
+    "album": 2,
     "hot-Topic": 0
   },
   {
@@ -1069,7 +1069,7 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0,
+    "album": 2,
     "hot-Topic": 0
   },
   {
@@ -1257,7 +1257,7 @@
     "content_owner": 0,
     "albumVN": [1, 5],
     "ranking": 2,
-    "album": 0,
+    "album": 5,
     "hot-Topic": 4
   },
   {
@@ -1309,7 +1309,7 @@
     "content_owner": 2,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0,
+    "album": 6,
     "hot-Topic": 0
   },
   {
@@ -1325,7 +1325,7 @@
     "content_owner": 2,
     "albumVN": [1],
     "ranking": 0,
-    "album": 0,
+    "album": 6,
     "hot-Topic": 0
   },
   {
@@ -1342,7 +1342,7 @@
     "content_owner": 2,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0,
+    "album": 6,
     "hot-Topic": 0
   },
   {
@@ -1360,7 +1360,7 @@
     "content_owner": 2,
     "albumVN": [0],
     "ranking": 2,
-    "album": 0,
+    "album": 6,
     "hot-Topic": 0
   },
   {
@@ -1376,7 +1376,7 @@
     "content_owner": 2,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0,
+    "album": 6,
     "hot-Topic": 0
   },
   {
@@ -1392,7 +1392,7 @@
     "content_owner": 2,
     "albumVN": [1],
     "ranking": 0,
-    "album": 0,
+    "album": 6,
     "hot-Topic": 0
   },
 
@@ -1458,7 +1458,7 @@
     "content_owner": 1,
     "albumVN": [1, 5],
     "ranking": 2,
-    "album": 0,
+    "album": 3,
     "hot-Topic": 0
   },
   {
@@ -1492,7 +1492,7 @@
     "content_owner": 1,
     "albumVN": [5],
     "ranking": 2,
-    "album": 0,
+    "album": 3,
     "hot-Topic": 0
   },
   {
@@ -1542,7 +1542,7 @@
     "content_owner": 3,
     "albumVN": [0],
     "ranking": 1,
-    "album": 0,
+    "album": 3,
     "hot-Topic": 0
   },
   {
@@ -1592,7 +1592,7 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0,
+    "album": 3,
     "hot-Topic": 3
   },
   {
@@ -1625,7 +1625,7 @@
     "content_owner": 3,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0,
+    "album": 3,
     "hot-Topic": 3
   },
 
@@ -1658,7 +1658,7 @@
     "content_owner": 6,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0,
+    "album": 3,
     "hot-Topic": 0
   },
   {
@@ -1675,7 +1675,7 @@
     "content_owner": 3,
     "albumVN": [0],
     "ranking": 1,
-    "album": 0,
+    "album": 3,
     "hot-Topic": 3
   },
   {
@@ -1724,7 +1724,7 @@
     "content_owner": 5,
     "albumVN": [0],
     "ranking": 1,
-    "album": 0,
+    "album": 3,
     "hot-Topic": 0
   },
 
@@ -1741,7 +1741,7 @@
     "content_owner": 5,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0,
+    "album": 3,
     "hot-Topic": 0
   },
 
@@ -1759,7 +1759,7 @@
     "content_owner": 4,
     "albumVN": [0],
     "ranking": 1,
-    "album": 0,
+    "album": 3,
     "hot-Topic": 0
   },
 
@@ -1967,7 +1967,7 @@
     "content_owner": 5,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0,
+    "album": 10,
     "hot-Topic": 4
   },
 
@@ -1984,7 +1984,7 @@
     "content_owner": 7,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0,
+    "album": 10,
     "hot-Topic": 0
   },
 
@@ -2038,7 +2038,7 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0,
+    "album": 10,
     "hot-Topic": 3
   },
 
@@ -2056,7 +2056,7 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 1,
-    "album": 0,
+    "album": 3,
     "hot-Topic": 2
   },
 
@@ -2140,7 +2140,7 @@
     "content_owner": 0,
     "albumVN": [4, 5],
     "ranking": 0,
-    "album": 0,
+    "album": 6,
     "hot-Topic": 0
   },
   {
@@ -2158,7 +2158,7 @@
     "content_owner": 0,
     "albumVN": [4, 6],
     "ranking": 2,
-    "album": 0,
+    "album": 6,
     "hot-Topic": 0
   },
   {
@@ -2175,7 +2175,7 @@
     "content_owner": 0,
     "albumVN": [4],
     "ranking": 0,
-    "album": 0,
+    "album": 6,
     "hot-Topic": 0
   },
   {
@@ -2208,7 +2208,7 @@
     "content_owner": 0,
     "albumVN": [4],
     "ranking": 2,
-    "album": 0,
+    "album": 10,
     "hot-Topic": 0
   },
   {
@@ -2315,7 +2315,7 @@
     "content_owner": 2,
     "albumVN": [3],
     "ranking": 0,
-    "album": 0,
+    "album": 6,
     "hot-Topic": 0
   },
   {
@@ -2349,7 +2349,7 @@
     "content_owner": 0,
     "albumVN": [3, 6],
     "ranking": 0,
-    "album": 0,
+    "album": 10,
     "hot-Topic": 0
   },
 
@@ -2578,7 +2578,7 @@
     "content_owner": 0,
     "albumVN": [2],
     "ranking": 0,
-    "album": 0,
+    "album": 3,
     "hot-Topic": 1
   },
 
@@ -2615,7 +2615,7 @@
     "content_owner": 0,
     "albumVN": [2],
     "ranking": 0,
-    "album": 0,
+    "album": 10,
     "hot-Topic": 0
   },
   {
@@ -2633,7 +2633,7 @@
     "content_owner": 0,
     "albumVN": [2],
     "ranking": 0,
-    "album": 0,
+    "album": 10,
     "hot-Topic": 1
   },
   {
@@ -2650,9 +2650,10 @@
     "content_owner": 0,
     "albumVN": [2, 6],
     "ranking": 2,
-    "album": 0,
+    "album": 2,
     "hot-Topic": 0
   },
+
   {
     "id": 157,
     "songName": "Cứ chill thôi",
@@ -2668,9 +2669,11 @@
     "content_owner": 0,
     "albumVN": [6],
     "ranking": 2,
-    "album": 0,
+    "album": 2,
     "hot-Topic": 1
   }
+
+  
 
 
 
@@ -2757,7 +2760,6 @@
       }
     ],
 
-  
 
   "singer" : [
       {
@@ -2872,7 +2874,78 @@
       }
     ],
     
-  
+    
+    "album" : [
+      {
+        "id": 1,
+        "name": "Top 100 thế giới",
+        "image": "./assets/img/Album/top100song.png"
+        
+      },
+      {
+        "id": 2,
+        "name": "Global Beats",
+        "image": "./assets/img/Album/GlobalBeats.png"
+        
+      },
+      {
+        "id": 3,
+        "name": "All music genres",
+        "image": "./assets/img/Album/Allmusicgenres.png"
+        
+      },
+      {
+        "id": 4,
+        "name": "Chill & Lofi",
+        "image": "./assets/img/Album/Chill&Lofi.png"
+        
+      },
+      {
+        "id": 5,
+        "name": "EDM & Hiphop",
+        "image": "./assets/img/Album/hiphop.png"
+        
+      },
+      {
+        "id": 6,
+        "name": "Rap toàn cầu",
+        "image": "./assets/img/Album/rap.png"
+        
+      },
+      {
+        "id": 7,
+        "name": "Cafe Morning",
+        "image": "./assets/img/Album/CafeMorning.png"
+        
+      },
+      {
+        "id": 8,
+        "name": "It's a Hit!",
+        "image": "./assets/img/Album/hit.png"
+        
+      },
+      {
+        "id": 9,
+        "name": "Sleep",
+        "image": "./assets/img/Album/sleep.png"
+        
+      },
+      {
+        "id": 10,
+        "name": "Thiên hạ nghe gì?",
+        "image": "./assets/img/Album/thienhanghegi.png"
+        
+      },
+      {
+        "id": 11,
+        "name": "Lofi lâu phai",
+        "image": "./assets/img/Album/lofi.png"
+        
+      }
+
+
+    ]
+
     "hotTopic": [
       {
         "id" : 1,
