@@ -13,7 +13,8 @@
       "content_owner": 0,
       "albumVN": [3],
       "ranking": 0,
-      "album": 0
+      "album": 0,
+      "hot-Topic": 0
   },
   {
       "id": 2,
@@ -28,7 +29,8 @@
       "content_owner": 0,
       "albumVN": [1, 4],
       "ranking": 2,
-      "album": 0
+      "album": 0,
+      "hot-Topic": 0
   },
   {
       "id": 3,
@@ -44,7 +46,8 @@
       "content_owner": 2,
       "albumVN": [6],
       "ranking": 2,
-      "album": 0
+      "album": 0,
+      "hot-Topic": 0
   },
   {
       "id": 4,
@@ -55,11 +58,12 @@
       ],
       "song": "./assets/song/anhtudonhungcodon.mp3",
       "render": 1,
-      "AlbumHot": 0,
+      "AlbumHot": 8,
       "content_owner": 0,
       "albumVN": [5],
       "ranking": 0,
-      "album": 0
+      "album": 0,
+      "hot-Topic": 0
   },
   {
       "id": 5,
@@ -75,7 +79,8 @@
       "content_owner": 12,
       "albumVN": [0],
       "ranking": 0,
-      "album": 0
+      "album": 0,
+      "hot-Topic": 4
   },
   {
       "id": 6,
@@ -91,7 +96,8 @@
       "content_owner": 11,
       "albumVN": [0],
       "ranking": 0,
-      "album": 0
+      "album": 0,
+      "hot-Topic": 3
 
       
   },
@@ -109,9 +115,8 @@
       "content_owner": 0,
       "albumVN": [0],
       "ranking": 1,
-      "album": 0
-
-      
+      "album": 0,
+      "hot-Topic": 4
   },
   {
       "id": 8,
@@ -127,7 +132,8 @@
       "content_owner": 0,
       "albumVN": [0],
       "ranking": 1,
-      "album": 0
+      "album": 0,
+      "hot-Topic": 2
   },
   {
       "id": 9,
@@ -138,11 +144,12 @@
       ] ,
       "song": "./assets/song/anhchuathuongemdenvaydau.mp3",
       "render": 2,
-      "AlbumHot": 0,
+      "AlbumHot": 8,
       "content_owner": 0,
       "albumVN": [1],
       "ranking": 2,
-      "album": 0
+      "album": 0,
+      "hot-Topic": 0
 
       
   },
@@ -159,7 +166,8 @@
       "content_owner": 0,
       "albumVN": [1, 4],
       "ranking": 2,
-      "album": 0
+      "album": 0,
+      "hot-Topic": 0
 
       
   },
@@ -172,11 +180,12 @@
       ],
       "song": "./assets/song/boxibo.mp3",
       "render": 2,
-      "AlbumHot": 0,
+      "AlbumHot": 8,
       "content_owner": 0,
       "albumVN": [0],
       "ranking": 0,
-      "album": 0
+      "album": 0,
+      "hot-Topic": 0
 
       
   },
@@ -195,7 +204,8 @@
       "content_owner": 0,
       "albumVN": [1, 4],
       "ranking": 0,
-      "album": 0
+      "album": 0,
+      "hot-Topic": 0
 
       
   },
@@ -214,7 +224,8 @@
       "content_owner": 0,
       "albumVN": [5, 4],
       "ranking": 0,
-      "album": 0
+      "album": 0,
+      "hot-Topic": 0
 
   },
   {
@@ -230,7 +241,8 @@
       "content_owner": 0,
       "albumVN": [0],
       "ranking": 1,
-      "album": 0
+      "album": 0,
+      "hot-Topic": 2
 
       
   },
@@ -247,7 +259,8 @@
       "content_owner": 0,
       "albumVN": [0],
       "ranking": 0,
-      "album": 0
+      "album": 0,
+      "hot-Topic": 0
 
       
   },
@@ -265,7 +278,8 @@
       "content_owner": 0,
       "albumVN": [0],
       "ranking": 0,
-      "album": 0
+      "album": 0,
+      "hot-Topic": 2
 
       
   },
@@ -283,7 +297,8 @@
       "content_owner": 0,
       "albumVN": [0],
       "ranking": 0,
-      "album": 0
+      "album": 0,
+      "hot-Topic": 0
 
       
   },
@@ -301,7 +316,8 @@
       "content_owner": 0,
       "albumVN": [0],
       "ranking": 1,
-      "album": 0
+      "album": 0,
+      "hot-Topic": 2
   },
   {
       "id": 19,
@@ -317,7 +333,8 @@
       "content_owner": 0,
       "albumVN": [0],
       "ranking": 3,
-      "album": 0
+      "album": 0,
+      "hot-Topic": 0
 
   },
   {
@@ -333,7 +350,8 @@
       "content_owner": 0,
       "albumVN": [0],
       "ranking": 3,
-      "album": 0
+      "album": 0,
+      "hot-Topic": 0
 
       
   },
@@ -350,7 +368,8 @@
       "content_owner": 0,
       "albumVN": [0],
       "ranking": 3,
-      "album": 0
+      "album": 0,
+      "hot-Topic": 0
 
       
   },
@@ -367,7 +386,8 @@
       "content_owner": 0,
       "albumVN": [0],
       "ranking": 3,
-      "album": 0
+      "album": 0,
+      "hot-Topic": 0
   },
   
   {
@@ -383,7 +403,8 @@
       "content_owner": 0,
       "albumVN": [0],
       "ranking": 3,
-      "album": 0
+      "album": 0,
+      "hot-Topic": 0
 
   },
   {
@@ -399,7 +420,8 @@
       "content_owner": 0,
       "albumVN": [0],
       "ranking": 2,
-      "album": 0
+      "album": 0,
+      "hot-Topic": 0
 
   },
 
@@ -416,7 +438,8 @@
     "content_owner": 7,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 3
   },
   {
     "id": 26,
@@ -426,13 +449,14 @@
       "Alan Walker",
       "Ava Max"
     ] ,
-    "song": "./assets/song",
+    "song": "./assets/song/alone.mp3",
     "render": false,
     "AlbumHot": 1,
     "content_owner": 7,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 3
   },
   {
     "id": 27,
@@ -448,7 +472,8 @@
     "content_owner": 7,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 28,
@@ -463,7 +488,8 @@
     "content_owner": 7,
     "albumVN": [0],
     "ranking": 1,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 29,
@@ -478,7 +504,8 @@
     "content_owner": 7,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 30,
@@ -493,7 +520,8 @@
     "content_owner": 7,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 31,
@@ -508,7 +536,8 @@
     "content_owner": 7,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 3
   },
   {
     "id": 32,
@@ -523,7 +552,8 @@
     "content_owner": 7,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 4
   },
   {
     "id": 33,
@@ -538,7 +568,8 @@
     "content_owner": 7,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 4
   },
   {
     "id": 34,
@@ -554,7 +585,8 @@
     "content_owner": 7,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 4
   },
   {
     "id": 35,
@@ -570,7 +602,8 @@
     "content_owner": 7,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 36,
@@ -585,7 +618,8 @@
     "content_owner": 9,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 37,
@@ -600,7 +634,8 @@
     "content_owner": 9,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 38,
@@ -615,7 +650,8 @@
     "content_owner": 9,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 39,
@@ -630,7 +666,8 @@
     "content_owner": 9,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 40,
@@ -645,7 +682,8 @@
     "content_owner": 9,
     "albumVN": [0],
     "ranking": 1,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 41,
@@ -660,7 +698,8 @@
     "content_owner": 9,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 42,
@@ -675,7 +714,8 @@
     "content_owner": 12,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 43,
@@ -690,7 +730,8 @@
     "content_owner": 12,
     "albumVN": [0],
     "ranking": 1,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 2
   },
   {
     "id": 44,
@@ -706,7 +747,8 @@
     "content_owner": 12,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 4
   },
   {
     "id": 45,
@@ -723,7 +765,8 @@
     "content_owner": 12,
     "albumVN": [0],
     "ranking": 1,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 46,
@@ -738,7 +781,8 @@
     "content_owner": 10,
     "albumVN": [0],
     "ranking": 1,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 47,
@@ -753,7 +797,8 @@
     "content_owner": 10,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 48,
@@ -768,7 +813,8 @@
     "content_owner": 10,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 49,
@@ -783,7 +829,8 @@
     "content_owner": 10,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 50,
@@ -798,7 +845,8 @@
     "content_owner": 10,
     "albumVN": [0],
     "ranking": 1,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 51,
@@ -813,7 +861,8 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 52,
@@ -828,7 +877,8 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 53,
@@ -843,7 +893,8 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 2
   },
   {
     "id": 54,
@@ -858,7 +909,8 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 2
   },
   {
     "id": 55,
@@ -873,7 +925,8 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 2
   },
   {
     "id": 56,
@@ -888,7 +941,8 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 57,
@@ -903,7 +957,8 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 58,
@@ -918,7 +973,8 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 59,
@@ -933,7 +989,8 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 60,
@@ -948,7 +1005,8 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 61,
@@ -963,7 +1021,8 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 62,
@@ -978,7 +1037,8 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 63,
@@ -993,7 +1053,8 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 64,
@@ -1008,7 +1069,8 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 65,
@@ -1023,7 +1085,8 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
 
   {
@@ -1039,7 +1102,8 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
 
   {
@@ -1055,7 +1119,8 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 68,
@@ -1070,7 +1135,8 @@
     "content_owner": 0,
     "albumVN": [1],
     "ranking": 2,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 69,
@@ -1085,7 +1151,8 @@
     "content_owner": 0,
     "albumVN": [1, 4],
     "ranking": 2,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 70,
@@ -1102,7 +1169,8 @@
     "content_owner": 0,
     "albumVN": [4],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 71,
@@ -1118,7 +1186,8 @@
     "content_owner": 0,
     "albumVN": [1],
     "ranking": 2,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 72,
@@ -1134,7 +1203,8 @@
     "content_owner": 0,
     "albumVN": [4, 5],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 73,
@@ -1151,7 +1221,8 @@
     "content_owner": 0,
     "albumVN": [1, 5],
     "ranking": 2,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 74,
@@ -1168,7 +1239,8 @@
     "content_owner": 0,
     "albumVN": [1, 4],
     "ranking": 2,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 75,
@@ -1185,7 +1257,8 @@
     "content_owner": 0,
     "albumVN": [1, 5],
     "ranking": 2,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 4
   },
   {
     "id": 76,
@@ -1200,7 +1273,8 @@
     "content_owner": 0,
     "albumVN": [1],
     "ranking": 2,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 77,
@@ -1214,8 +1288,9 @@
     "AlbumHot": 7,
     "content_owner": 0,
     "albumVN": [0],
-    "ranking": 2,
-    "album": 0
+    "ranking": 1,
+    "album": 0,
+    "hot-Topic": 0
   },
 
 
@@ -1230,11 +1305,12 @@
     ] ,
     "song": "./assets/song/ngaykhacla.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 2,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 79,
@@ -1245,11 +1321,12 @@
     ] ,
     "song": "./assets/song/trontim.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 2,
     "albumVN": [1],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 80,
@@ -1261,11 +1338,12 @@
     ] ,
     "song": "./assets/song/mottrieulike.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 2,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 81,
@@ -1278,11 +1356,12 @@
     ] ,
     "song": "./assets/song/muoinam.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 2,
     "albumVN": [0],
     "ranking": 2,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 82,
@@ -1293,11 +1372,12 @@
     ] ,
     "song": "./assets/song/troihomnaynhieumaycuc.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 2,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 83,
@@ -1308,11 +1388,12 @@
     ] ,
     "song": "./assets/song/haitrieunam.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 2,
     "albumVN": [1],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
 
   {
@@ -1325,11 +1406,12 @@
     ] ,
     "song": "./assets/song/nuocmatemthaybangtinhyeumoi.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 1,
     "albumVN": [1],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 85,
@@ -1340,11 +1422,12 @@
     ] ,
     "song": "./assets/song/thanhxuan.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 1,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 86,
@@ -1355,11 +1438,12 @@
     ] ,
     "song": "./assets/song/tungayemden.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 1,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 87,
@@ -1374,7 +1458,8 @@
     "content_owner": 1,
     "albumVN": [1, 5],
     "ranking": 2,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 88,
@@ -1386,11 +1471,12 @@
     ] ,
     "song": "./assets/song/gaclailoau.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 1,
     "albumVN": [1],
-    "ranking": 2,
-    "album": 0
+    "ranking": 5,
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 89,
@@ -1406,7 +1492,8 @@
     "content_owner": 1,
     "albumVN": [5],
     "ranking": 2,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 90,
@@ -1421,7 +1508,8 @@
     "content_owner": 3,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 91,
@@ -1438,7 +1526,8 @@
     "content_owner": 3,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 92,
@@ -1453,7 +1542,8 @@
     "content_owner": 3,
     "albumVN": [0],
     "ranking": 1,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 93,
@@ -1469,7 +1559,8 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 1,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
 
   {
@@ -1485,7 +1576,8 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 3
   },
   {
     "id": 95,
@@ -1500,7 +1592,8 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 3
   },
   {
     "id": 96,
@@ -1511,11 +1604,12 @@
     ] ,
     "song": "./assets/song/ElasticHeart.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 3,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 3
   },
 
   {
@@ -1527,11 +1621,12 @@
     ] ,
     "song": "./assets/song/BeautifulNow.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 3,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 3
   },
 
   {
@@ -1543,11 +1638,12 @@
     ] ,
     "song": "./assets/song/muonroimasaocon.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 6,
     "albumVN": [1],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 99,
@@ -1558,11 +1654,12 @@
     ] ,
     "song": "./assets/song/lactroi.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 6,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 100,
@@ -1578,7 +1675,8 @@
     "content_owner": 3,
     "albumVN": [0],
     "ranking": 1,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 3
   },
   {
     "id": 101,
@@ -1593,7 +1691,8 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 1,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 3
   },
   {
     "id": 102,
@@ -1604,11 +1703,12 @@
     ] ,
     "song": "./assets/song/MarryYou.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 4,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
 
   {
@@ -1624,7 +1724,8 @@
     "content_owner": 5,
     "albumVN": [0],
     "ranking": 1,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
 
   {
@@ -1636,11 +1737,12 @@
     ] ,
     "song": "./assets/song/Thunder.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 5,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
 
 
@@ -1657,7 +1759,8 @@
     "content_owner": 4,
     "albumVN": [0],
     "ranking": 1,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
 
   {
@@ -1675,7 +1778,8 @@
     "content_owner": 11,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 3
   },
   {
     "id": 107,
@@ -1691,7 +1795,8 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 2
   },
   {
     "id": 108,
@@ -1706,7 +1811,8 @@
     "content_owner": 4,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 2
   },
 
   {
@@ -1722,7 +1828,8 @@
     "content_owner": 5,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
 
   {
@@ -1734,11 +1841,12 @@
     ] ,
     "song": "./assets/song/chungtacuahientai.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 6,
     "albumVN": [1],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
 
 
@@ -1755,7 +1863,8 @@
     "content_owner": 7,
     "albumVN": [0],
     "ranking": 1,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
 
   {
@@ -1767,11 +1876,12 @@
     ] ,
     "song": "./assets/song/RollingintheDeep.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 7,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
 
 
@@ -1788,7 +1898,8 @@
     "content_owner": 5,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
 
   {
@@ -1804,7 +1915,8 @@
     "content_owner": 4,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
 
 
@@ -1817,11 +1929,12 @@
     ] ,
     "song": "./assets/song/JustTheWayYouAre.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 4,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
 
   {
@@ -1837,7 +1950,8 @@
     "content_owner": 5,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 4
   },
 
   {
@@ -1853,7 +1967,8 @@
     "content_owner": 5,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 4
   },
 
   {
@@ -1865,11 +1980,12 @@
     ] ,
     "song": "./assets/song/SomeoneLikeYou.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 7,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
 
   {
@@ -1885,7 +2001,8 @@
     "content_owner": 7,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
 
 
@@ -1900,11 +2017,12 @@
     ] ,
     "song": "./assets/song/haytraochoanh.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 6,
     "albumVN": [1],
     "ranking": 2,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   
   {
@@ -1920,7 +2038,8 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 3
   },
 
     
@@ -1937,7 +2056,8 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 1,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 2
   },
 
   {
@@ -1953,7 +2073,8 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
 
   {
@@ -1970,7 +2091,8 @@
     "content_owner": 0,
     "albumVN": [0],
     "ranking": 1,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 4
   },
   {
     "id": 125,
@@ -1981,11 +2103,12 @@
     ] ,
     "song": "./assets/song/cochacyeuladay.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 6,
     "albumVN": [6],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
 
   {
@@ -1997,11 +2120,12 @@
     ] ,
     "song": "./assets/song/anhsaotrenbautroi.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 0,
     "albumVN": [4, 6],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 127,
@@ -2012,11 +2136,12 @@
     ] ,
     "song": "./assets/song/quenanhdi.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 0,
     "albumVN": [4, 5],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 128,
@@ -2029,11 +2154,12 @@
     ] ,
     "song": "./assets/song/Querry.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 0,
     "albumVN": [4, 6],
     "ranking": 2,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 129,
@@ -2045,11 +2171,12 @@
     ] ,
     "song": "./assets/song/TayTo.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 0,
     "albumVN": [4],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 130,
@@ -2060,11 +2187,12 @@
     ] ,
     "song": "./assets/song/motnguoiviem.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 0,
     "albumVN": [4],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 131,
@@ -2076,11 +2204,12 @@
     ] ,
     "song": "./assets/song/Vaicaunoicokhiennguoithaydoi.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 0,
     "albumVN": [4],
-    "ranking": 0,
-    "album": 0
+    "ranking": 2,
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 132,
@@ -2092,11 +2221,12 @@
     ] ,
     "song": "./assets/song/embe.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 0,
     "albumVN": [4],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 133,
@@ -2109,11 +2239,12 @@
     ] ,
     "song": "./assets/song/khongsaomaemdayroi.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 0,
     "albumVN": [4],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 134,
@@ -2125,11 +2256,12 @@
     ] ,
     "song": "./assets/song/tuthichththichthanhthuongthuong.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 0,
     "albumVN": [4, 6],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
 
 
@@ -2143,11 +2275,12 @@
     ] ,
     "song": "./assets/song/vungkyuc.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 0,
     "albumVN": [3, 6],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 1
   },
   {
     "id": 136,
@@ -2159,11 +2292,12 @@
     ] ,
     "song": "./assets/song/tangthuong.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 0,
     "albumVN": [3],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
 
   {
@@ -2177,11 +2311,12 @@
     ] ,
     "song": "./assets/song/chotoilangthang.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 2,
     "albumVN": [3],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 138,
@@ -2193,11 +2328,12 @@
     ] ,
     "song": "./assets/song/lancuoi.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 0,
     "albumVN": [3],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 139,
@@ -2209,11 +2345,12 @@
     ] ,
     "song": "./assets/song/coemdoibongvui.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 0,
     "albumVN": [3, 6],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
 
   {
@@ -2227,11 +2364,12 @@
     ] ,
     "song": "./assets/song/vanvuong.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 0,
     "albumVN": [2],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 1
   },
   {
     "id": 141,
@@ -2243,11 +2381,12 @@
     ] ,
     "song": "./assets/song/thethoi.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 0,
     "albumVN": [2],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 1
   },
   
   {
@@ -2260,11 +2399,12 @@
     ] ,
     "song": "./assets/song/xanh.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 0,
     "albumVN": [2],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 1
   },
   {
     "id": 143,
@@ -2276,11 +2416,12 @@
     ] ,
     "song": "./assets/song/dongkiemem.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 0,
     "albumVN": [2],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 1
   },
   {
     "id": 143,
@@ -2292,11 +2433,12 @@
     ] ,
     "song": "./assets/song/changthetimduocem.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 0,
     "albumVN": [2],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 1
   },
   {
     "id": 144,
@@ -2309,11 +2451,12 @@
     ] ,
     "song": "./assets/song/timtoi.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 0,
     "albumVN": [2],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 1
   },
   {
     "id": 145,
@@ -2329,7 +2472,8 @@
     "content_owner": 0,
     "albumVN": [2],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 146,
@@ -2341,11 +2485,12 @@
     ] ,
     "song": "./assets/song/BlueTequila.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 0,
     "albumVN": [2],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 147,
@@ -2357,11 +2502,12 @@
     ] ,
     "song": "./assets/song/giayphut.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 0,
     "albumVN": [2],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 1
   },
   {
     "id": 149,
@@ -2373,11 +2519,12 @@
     ] ,
     "song": "./assets/song/25.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 0,
     "albumVN": [2],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 1
   },  
   {
     "id": 150,
@@ -2390,11 +2537,12 @@
     ] ,
     "song": "./assets/song/batnhaclen.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 0,
     "albumVN": [2],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 1
   },
   {
     "id": 151,
@@ -2406,11 +2554,12 @@
     ] ,
     "song": "./assets/song/ducho.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 0,
     "albumVN": [2],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 152,
@@ -2425,11 +2574,12 @@
     ] ,
     "song": "./assets/song/room808.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 0,
     "albumVN": [2],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 1
   },
 
   {
@@ -2444,11 +2594,12 @@
     ] ,
     "song": "./assets/song/vathegioimatdimotnguoicodon.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 0,
     "albumVN": [2],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 154,
@@ -2460,11 +2611,12 @@
     ] ,
     "song": "./assets/song/omemlancuoi.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 0,
     "albumVN": [2],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 155,
@@ -2477,11 +2629,12 @@
     ] ,
     "song": "./assets/song/3107.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 0,
     "albumVN": [2],
     "ranking": 0,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 1
   },
   {
     "id": 156,
@@ -2493,15 +2646,16 @@
     ] ,
     "song": "./assets/song/baotienmotmotbinhyen.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 0,
     "albumVN": [2, 6],
     "ranking": 2,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 0
   },
   {
     "id": 157,
-    "songName": "Chứ chill thôi",
+    "songName": "Cứ chill thôi",
     "image": "./assets/img/vuTruNhacViet/cuchillthoi.png",
     "singer": [
       "chillies",
@@ -2510,11 +2664,12 @@
     ] ,
     "song": "./assets/song/cuchillthoi.mp3",
     "render": 0,
-    "AlbumHot": 0,
+    "AlbumHot": 8,
     "content_owner": 0,
     "albumVN": [6],
     "ranking": 2,
-    "album": 0
+    "album": 0,
+    "hot-Topic": 1
   }
 
 
@@ -2560,6 +2715,11 @@
         "id": 7,
         "name": "Trending 2023",
         "image": "./assets/img/AlbumHot/treding2023.png"
+      },
+      {
+        "id": 8,
+        "name": "Top 100 thế giới",
+        "image": "./assets/img/AlbumHot/top100.png"
       }
 
     ],
@@ -2686,38 +2846,58 @@
         "id" : 1,
         "topNumber": "TOP 20",
         "title": "Âu Mỹ",
+        "image": "./assets/img/ranking/rankingAM.png",
         "background": "linear-gradient(rgb(110, 110, 121), rgb(255, 64, 0))"
       },
       {
         "id" : 2,
         "topNumber": "TOP 20",
         "title": "Việt Nam",
+        "image": "./assets/img/ranking/rankingVN.png",
         "background": "linear-gradient(rgb(229, 233, 3), rgb(255, 64, 1))"
       },
       {
         "id" : 3,
         "topNumber": "TOP 20",
         "title": "Hàn Quốc",
+        "image": "./assets/img/ranking/rankingHQ.png",
         "background": "linear-gradient(rgb(53, 53, 49), rgb(138, 86, 86))"
       },
       {
         "id" : 4,
         "topNumber": "TOP 20",
         "title": "Nhật Bản",
+        "image": "./assets/img/ranking/rankingNB.png",
         "background": "linear-gradient(rgb(50, 157, 187), rgb(104, 74, 64))"
+      }
+    ],
+    
+  
+    "hotTopic": [
+      {
+        "id" : 1,
+        "title": "INDIE",
+        "image-home": "./assets/img/topicHot/bannerHotIndie.png",
+        "image-page": "./assets/img/topicHot/bannerINDIE.jpeg"
       },
       {
-        "id" : 5,
-        "topNumber": "TOP 20",
-        "title": "Châu Á",
-        "background": "linear-gradient(rgb(131, 118, 83), rgb(121, 180, 62))"
+        "id" : 2,
+        "title": "LOFI",
+        "image-home": "./assets/img/topicHot/d.png",
+        "image-page": "./assets/img/topicHot/bannerLOFI.jpeg"
+      },
+      {
+        "id" : 3,
+        "title": "EDM",
+        "image-home": "./assets/img/topicHot/edm.png",
+        "image-page": "./assets/img/topicHot/bannerEDM.jpeg"
+      },
+      {
+        "id" : 4,
+        "title": "GYM",
+        "image-home": "./assets/img/topicHot/gym.png",
+        "image-page": "./assets/img/topicHot/bannerGYM.jpeg"
       }
-
     ]
-    
-  
-  
-    
-  
-  
+ 
 }
