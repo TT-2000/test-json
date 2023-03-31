@@ -395,7 +395,7 @@
       "songName": "Shut dowm",
       "image": "./assets/img/newSongs/HQ/shutdown.png",
       "singer": [
-        "Blackpink"
+        "BLACKPINK"
       ],
       "song": "./assets/song/Shut-Down-BLACKPINK.mp3",
       "render": 2,
@@ -2671,7 +2671,248 @@
     "ranking": 2,
     "album": 2,
     "hot-Topic": 1
+  },
+
+
+  {
+    "id": 158,
+    "songName": "Lemon",
+    "image": "./assets/img/JAPAN&KOREA/Lemon.png",
+    "singer": [
+      "Kenshi Yonezu"
+    ] ,
+    "song": "./assets/song/Lemon.mp3",
+    "render": 0,
+    "AlbumHot": 9,
+    "content_owner": 0,
+    "albumVN": [0],
+    "ranking": 4,
+    "album": 3,
+    "hot-Topic": 2
+  },
+  {
+    "id": 159,
+    "songName": "Tabun",
+    "image": "./assets/img/JAPAN&KOREA/Tabun.png",
+    "singer": [
+      "YOASOBI"
+     
+      ] ,
+    "song": "./assets/song/Tabun.mp3",
+    "render": 0,
+    "AlbumHot": 9,
+    "content_owner": 0,
+    "albumVN": [0],
+    "ranking": 4,
+    "album": 3,
+    "hot-Topic": 2
+  },
+  {
+    "id": 160,
+    "songName": "Shinunoga E-Wa",
+    "image": "./assets/img/JAPAN&KOREA/ShinunogaEWa.png",
+    "singer": [
+      "Fujii Kaze"
+     
+      ] ,
+    "song": "./assets/song/ShinunogaEWa.mp3",
+    "render": 0,
+    "AlbumHot": 9,
+    "content_owner": 0,
+    "albumVN": [0],
+    "ranking": 4,
+    "album": 3,
+    "hot-Topic": 2
+  },
+  {
+    "id": 161,
+    "songName": "Sakura",
+    "image": "./assets/img/JAPAN&KOREA/Sakura.png",
+    "singer": [
+      "Ikimono Gakari"
+      ] ,
+    "song": "./assets/song/Sakura.mp3",
+    "render": 0,
+    "AlbumHot": 9,
+    "content_owner": 0,
+    "albumVN": [0],
+    "ranking": 4,
+    "album": 0,
+    "hot-Topic": 0
+  },
+  {
+    "id": 162,
+    "songName": "Hotaru",
+    "image": "./assets/img/JAPAN&KOREA/Hotaru.png",
+    "singer": [
+      "Fujita Maiko"
+     
+      ] ,
+    "song": "./assets/song/Hotaru.mp3",
+    "render": 0,
+    "AlbumHot": 9,
+    "content_owner": 0,
+    "albumVN": [0],
+    "ranking": 4,
+    "album": 3,
+    "hot-Topic": 2
+  },
+  {
+    "id": 163,
+    "songName": "Orange",
+    "image": "./assets/img/JAPAN&KOREA/Orange7.png",
+    "singer": [
+      "7!!"
+     
+      ] ,
+    "song": "./assets/song/Orange7.mp3",
+    "render": 0,
+    "AlbumHot": 9,
+    "content_owner": 0,
+    "albumVN": [0],
+    "ranking": 4,
+    "album": 3,
+    "hot-Topic": 2
+  },
+  {
+    "id": 164,
+    "songName": "Yume To Hazakura",
+    "image": "./assets/img/JAPAN&KOREA/cuchillthoi.png",
+    "singer": [
+      "Hatsune Miku"
+     
+      ] ,
+    "song": "./assets/song/cuchillthoi.mp3",
+    "render": 0,
+    "AlbumHot": 9,
+    "content_owner": 0,
+    "albumVN": [0],
+    "ranking": 4,
+    "album": 3,
+    "hot-Topic": 2
+  },
+  {
+    "id": 165,
+    "songName": "Harehare Ya",
+    "image": "./assets/img/JAPAN&KOREA/HarehareYa.png",
+    "singer": [
+      "Sou"
+     
+      ] ,
+    "song": "./assets/song/HarehareYa.mp3",
+    "render": 0,
+    "AlbumHot": 9,
+    "content_owner": 0,
+    "albumVN": [0],
+    "ranking": 4,
+    "album": 3,
+    "hot-Topic": 2
+  },
+  {
+    "id": 166,
+    "songName": "Ditto",
+    "image": "./assets/img/JAPAN&KOREA/Ditto.png",
+    "singer": [
+      "NewJeans"
+     
+      ] ,
+    "song": "./assets/song/Ditto.mp3",
+    "render": 0,
+    "AlbumHot": 9,
+    "content_owner": 0,
+    "albumVN": [0],
+    "ranking": 3,
+    "album": 3,
+    "hot-Topic": 2
+  },
+  {
+    "id": 167,
+    "songName": "DDU-DU DDU-DU",
+    "image": "./assets/img/JAPAN&KOREA/DDUDUDDUDU.png",
+    "singer": [
+      "BLACKPINK"
+     
+      ] ,
+    "song": "./assets/song/DDUDUDDUDU.mp3",
+    "render": 0,
+    "AlbumHot": 9,
+    "content_owner": 0,
+    "albumVN": [0],
+    "ranking": 3,
+    "album": 3,
+    "hot-Topic": 3
+  },
+  {
+    "id": 168,
+    "songName": "봄여름가을겨울 (Still Life)",
+    "image": "./assets/img/JAPAN&KOREA/StillLife.png",
+    "singer": [
+      "BIGBANG"
+     
+      ] ,
+    "song": "./assets/song/StillLife.mp3",
+    "render": 0,
+    "AlbumHot": 9,
+    "content_owner": 0,
+    "albumVN": [0],
+    "ranking": 3,
+    "album": 3,
+    "hot-Topic": 2
+  },
+  {
+    "id": 169,
+    "songName": "Stay With Me",
+    "image": "./assets/img/JAPAN&KOREA/StayWithMe.png",
+    "singer": [
+      "Chan Yeol(EXO)",
+      "Punch"
+     
+      ] ,
+    "song": "./assets/song/StayWithMe.mp3",
+    "render": 0,
+    "AlbumHot": 9,
+    "content_owner": 0,
+    "albumVN": [0],
+    "ranking": 3,
+    "album": 3,
+    "hot-Topic": 2
+  },
+  {
+    "id": 170,
+    "songName": "Start-(Itaewon Class) OST",
+    "image": "./assets/img/JAPAN&KOREA/gaho.png",
+    "singer": [
+      "Gaho"
+     
+      ] ,
+    "song": "./assets/song/gaho.mp3",
+    "render": 0,
+    "AlbumHot": 9,
+    "content_owner": 0,
+    "albumVN": [0],
+    "ranking": 3,
+    "album": 3,
+    "hot-Topic": 2
+  },
+  {
+    "id": 171,
+    "songName": "Stay With Me",
+    "image": "./assets/img/JAPAN&KOREA/StayWithMeJP.png",
+    "singer": [
+      "Miki Matsubara"
+      ] ,
+    "song": "./assets/song/StayWithMeJP.mp3",
+    "render": 0,
+    "AlbumHot": 9,
+    "content_owner": 0,
+    "albumVN": [0],
+    "ranking": 4,
+    "album": 3,
+    "hot-Topic": 2
   }
+
+
+  
 
   
 
@@ -2723,6 +2964,11 @@
         "id": 8,
         "name": "Top 100 thế giới",
         "image": "./assets/img/AlbumHot/top100.png"
+      },
+      {
+        "id": 9,
+        "name": "Top Hit Châu Á",
+        "image": "./assets/img/AlbumHot/albumhotAsian.png"
       }
 
     ],
