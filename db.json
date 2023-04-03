@@ -2777,12 +2777,12 @@
   {
     "id": 164,
     "songName": "Yume To Hazakura",
-    "image": "./assets/img/JAPAN&KOREA/cuchillthoi.png",
+    "image": "./assets/img/JAPAN&KOREA/YumeToHazakura.png",
     "singer": [
       "Hatsune Miku"
      
       ] ,
-    "song": "./assets/song/cuchillthoi.mp3",
+    "song": "./assets/song/YumeToHazakura.mp3",
     "render": 0,
     "AlbumHot": 9,
     "content_owner": 0,
